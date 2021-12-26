@@ -1,0 +1,11 @@
+{
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "forge:raw_ores/raw_aluminum"
+  },
+  "output":{
+    "item": "alltheores:aluminum_dust"
+  },
+  "grinds": 3,
+  "bladetype": "TITANIUM"
+}

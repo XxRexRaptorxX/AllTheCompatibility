@@ -1,0 +1,12 @@
+{
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "forge:ores/tin"
+  },
+  "output":{
+    "item": "alltheores:tin_dust",
+    "count": 2
+  },
+  "grinds": 6,
+  "bladetype": "TITANIUM"
+}

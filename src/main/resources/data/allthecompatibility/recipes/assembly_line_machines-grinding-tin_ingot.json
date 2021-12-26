@@ -1,0 +1,11 @@
+{
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "forge:ingots/tin"
+  },
+  "output":{
+    "item": "alltheores:tin_dust"
+  },
+  "grinds": 3,
+  "bladetype": "TITANIUM"
+}

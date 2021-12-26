@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[38,)"
+license="All rights reserved"
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility/issues"
+
+[[mods]]
+modId="allthecompatibility"
+version="1.0.0"
+displayName="All The Compatibility"
+itemIcon="minecraft:redstone"
+updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility"
+logoFile="logo.png"
+#credits=""
+authors="XxRexRaptorxX (RexRaptor)"
+description='''
+This mod adds recipe compatibility between AllTheOres and other mods!
+'''
+
+[[dependencies.allthecompatibility]]
+    modId="forge"
+    mandatory=true
+    versionRange="[38,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.allthecompatibility]]
+    modId="alltheores"
+    mandatory=true
+    versionRange="[1.6.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.allthecompatibility]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18,1.19)"
+    ordering="NONE"
+    side="BOTH"

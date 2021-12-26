@@ -1,0 +1,17 @@
+{
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "item": "alltheores:raw_platinum_block",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "alltheores:platinum_dust",
+    "count": 18
+  },
+  "rng": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  }
+}

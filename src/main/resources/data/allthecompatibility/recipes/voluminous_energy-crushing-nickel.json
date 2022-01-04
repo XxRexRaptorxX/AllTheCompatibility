@@ -1,7 +1,7 @@
 {
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:raw_ores/raw_nickel",
+    "tag": "forge:raw_ores/nickel",
     "count": 1
   },
   "process_time": 200,

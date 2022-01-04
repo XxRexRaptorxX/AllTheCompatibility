@@ -5,7 +5,7 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibil
 
 [[mods]]
 modId="allthecompatibility"
-version="1.1.0"
+version="1.2.0"
 displayName="All The Compatibility"
 itemIcon="minecraft:redstone"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"
@@ -27,7 +27,7 @@ This mod adds recipe compatibility between AllTheOres and other mods!
 [[dependencies.allthecompatibility]]
     modId="alltheores"
     mandatory=true
-    versionRange="[1.4.0,)"
+    versionRange="[1.7.5,)"
     ordering="NONE"
     side="BOTH"
 

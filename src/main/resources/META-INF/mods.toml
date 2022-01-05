@@ -34,6 +34,6 @@ This mod adds recipe compatibility between AllTheOres and other mods!
 [[dependencies.allthecompatibility]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.17,1.18)"
+    versionRange="[1.18,1.19)"
     ordering="NONE"
     side="BOTH"

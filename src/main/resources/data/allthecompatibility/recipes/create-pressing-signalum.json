@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/signalum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:signalum_plate"
+    }
+  ]
+}

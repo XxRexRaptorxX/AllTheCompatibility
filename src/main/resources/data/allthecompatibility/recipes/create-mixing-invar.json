@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/nickel"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:invar_ingot",
+      "count": 3
+    }
+  ],
+  "heatRequirement": "heated"
+}

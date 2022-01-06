@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "forge:ingots/platinum"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:enderium_ingot",
+      "count": 4
+    }
+  ],
+  "heatRequirement": "heated"
+}

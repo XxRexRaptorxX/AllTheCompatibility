@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/platinum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:platinum_plate"
+    }
+  ]
+}

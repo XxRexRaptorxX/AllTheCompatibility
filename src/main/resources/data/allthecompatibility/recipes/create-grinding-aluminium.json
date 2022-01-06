@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_aluminium"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crushed_aluminium_ore"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/uranum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:uranum_plate"
+    }
+  ]
+}

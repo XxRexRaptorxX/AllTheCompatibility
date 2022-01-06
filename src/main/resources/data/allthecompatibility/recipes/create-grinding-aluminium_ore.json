@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "alltheores:aluminium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crushed_aluminium_ore"
+    },
+    {
+      "item": "create:crushed_aluminium_ore",
+      "chance": 0.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 250
+}

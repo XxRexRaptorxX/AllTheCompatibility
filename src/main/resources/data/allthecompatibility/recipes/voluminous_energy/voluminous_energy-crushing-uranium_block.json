@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    }
+  ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
     "item": "alltheores:raw_uranium_block",

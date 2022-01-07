@@ -2,7 +2,6 @@
   "replace": false,
   "values":
   [
-    "create:crushed_iron_ore",
-    "indreb:crushed_iron"
+    "create:crushed_iron_ore"
   ]
 }

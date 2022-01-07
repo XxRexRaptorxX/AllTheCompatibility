@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:aluminium_ore"
+      "item": "alltheores:aluminum_ore"
     }
   ],
   "results": [
@@ -10,7 +10,7 @@
       "item": "create:crushed_aluminum_ore"
     },
     {
-      "item": "create:crushed_aluminium_ore",
+      "item": "create:crushed_aluminum_ore",
       "chance": 0.75
     },
     {

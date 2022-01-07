@@ -1,17 +1,19 @@
 {
-	"type": "minecraft:crafting_shaped",
-
-	"pattern":
-	[
-		"   ",
-		" S ",
-		"   "
-	],
-
-	"key":
-	{
-		"S": { "item": "minecraft:stick" }
-	},
-
-	"result": { "item": "minecraft:stick" }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "XY",
+    " Y"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick"
+  }
 }

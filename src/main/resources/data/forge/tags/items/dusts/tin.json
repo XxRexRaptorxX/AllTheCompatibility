@@ -2,7 +2,6 @@
   "replace": false,
   "values":
   [
-    "create:crushed_tin_ore",
-    "indreb:crushed_tin"
+    "create:crushed_tin_ore"
   ]
 }

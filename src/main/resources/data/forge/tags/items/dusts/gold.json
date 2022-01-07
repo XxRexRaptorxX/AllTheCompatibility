@@ -2,7 +2,6 @@
   "replace": false,
   "values":
   [
-    "create:crushed_gold_ore",
-    "indreb:crushed_gold"
+    "create:crushed_gold_ore"
   ]
 }

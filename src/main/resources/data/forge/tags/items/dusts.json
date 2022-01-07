@@ -1,18 +1,18 @@
 {
   "replace": false,
   "values": [
-    "#forge:dusts/crushed_iron_ore",
-    "#forge:dusts/crushed_gold_ore",
-    "#forge:dusts/crushed_copper_ore",
-    "#forge:dusts/crushed_zinc_ore",
-    "#forge:dusts/crushed_osmium_ore",
-    "#forge:dusts/crushed_platinum_ore",
-    "#forge:dusts/crushed_silver_ore",
-    "#forge:dusts/crushed_tin_ore",
-    "#forge:dusts/crushed_lead_ore",
-    "#forge:dusts/crushed_quicksilver_ore",
-    "#forge:dusts/crushed_aluminum_ore",
-    "#forge:dusts/crushed_uranium_ore",
-    "#forge:dusts/crushed_nickel_ore"
+    "#forge:dusts/iron",
+    "#forge:dusts/gold",
+    "#forge:dusts/copper",
+    "#forge:dusts/zinc",
+    "#forge:dusts/osmium",
+    "#forge:dusts/platinum",
+    "#forge:dusts/silver",
+    "#forge:dusts/tin",
+    "#forge:dusts/lead",
+    "#forge:dusts/quicksilver",
+    "#forge:dusts/aluminum",
+    "#forge:dusts/uranium",
+    "#forge:dusts/nickel"
   ]
 }

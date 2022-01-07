@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values":
+  [
+    "create:crushed_copper_ore",
+    "indreb:crushed_copper"
+  ]
+}

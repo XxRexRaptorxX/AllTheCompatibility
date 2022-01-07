@@ -2,12 +2,12 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "forge:dusts/uranum"
+      "tag": "forge:dusts/uranium"
     }
   ],
   "results": [
     {
-      "item": "alltheores:uranum_nugget",
+      "item": "alltheores:uranium_nugget",
       "count": 9
     }
   ]

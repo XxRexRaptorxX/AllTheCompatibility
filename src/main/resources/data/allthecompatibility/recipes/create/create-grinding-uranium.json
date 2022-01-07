@@ -2,12 +2,12 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:raw_uranum"
+      "tag": "forge:raw_ores/uranium"
     }
   ],
   "results": [
     {
-      "item": "create:crushed_uranum_ore"
+      "item": "create:crushed_uranium_ore"
     },
     {
       "item": "create:experience_nugget",

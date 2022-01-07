@@ -2,15 +2,15 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:deepslate_uranum_ore"
+      "item": "alltheores:deepslate_uranium_ore"
     }
   ],
   "results": [
     {
-      "item": "create:crushed_uranum_ore"
+      "item": "create:crushed_uranium_ore"
     },
     {
-      "item": "create:crushed_uranum_ore",
+      "item": "create:crushed_uranium_ore",
       "chance": 0.75
     },
     {

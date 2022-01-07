@@ -2,17 +2,15 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:raw_uranum_block"
+      "tag": "forge:raw_ores/aluminum"
     }
   ],
   "results": [
     {
-      "item": "create:crushed_uranum_ore",
-      "count": 9
+      "item": "create:crushed_aluminum_ore"
     },
     {
       "item": "create:experience_nugget",
-      "count": 9,
       "chance": 0.75
     }
   ],

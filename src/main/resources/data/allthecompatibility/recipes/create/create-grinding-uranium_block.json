@@ -2,15 +2,17 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:raw_aluminium"
+      "item": "alltheores:raw_uranium_block"
     }
   ],
   "results": [
     {
-      "item": "create:crushed_aluminium_ore"
+      "item": "create:crushed_uranium_ore",
+      "count": 9
     },
     {
       "item": "create:experience_nugget",
+      "count": 9,
       "chance": 0.75
     }
   ],

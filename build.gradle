@@ -126,6 +126,11 @@ repositories {
         url = "https://modmaven.k-4u.nl"
     }
     maven {
+        // location of the maven of flywheel
+        name "tterrag maven"
+        url "https://maven.tterrag.com/"
+    }
+    maven {
         // location of the cursemaven
         url 'https://www.cursemaven.com'
          content {
@@ -148,10 +153,10 @@ dependencies {
     //curse.maven:<description>-<project-id>:<file-id>
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:3584393")
 
-    runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3596271")
+    //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3596271")
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3591677")
-    //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
-    //runtimeOnly fg.deobf("curse.maven:flywheel-486392:3584224") //needed for create
+    runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
+    //implementation fg.deobf("com.jozufozu.flywheel:Flywheel-Forge:1.18-0.5.1.41") //runtimeOnly fg.deobf("curse.maven:flywheel-486392:3584224") //needed for create
     //runtimeOnly fg.deobf("curse.maven:create-328085:3583784")
 
 

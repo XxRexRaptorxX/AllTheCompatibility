@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:raw_silver"
+      "tag": "forge:raw_ores/silver"
     }
   ],
   "results": [

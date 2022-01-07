@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:raw_osmium"
+      "tag": "forge:raw_ores/osmium"
     }
   ],
   "results": [

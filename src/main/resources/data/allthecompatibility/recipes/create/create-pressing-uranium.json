@@ -2,12 +2,12 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "forge:ingots/uranum"
+      "tag": "forge:ingots/uranium"
     }
   ],
   "results": [
     {
-      "item": "alltheores:uranum_plate"
+      "item": "alltheores:uranium_plate"
     }
   ]
 }

@@ -125,6 +125,13 @@ repositories {
         name = "ModMaven"
         url = "https://modmaven.k-4u.nl"
     }
+    maven {
+        // location of the cursemaven
+        url 'https://www.cursemaven.com'
+         content {
+             includeGroup "curse.maven"
+         }
+    }
 }
 
 dependencies {
@@ -137,6 +144,13 @@ dependencies {
     compileOnly fg.deobf("mezz.jei:jei-1.18:9.0.0.40:api")
     // at runtime, use the full JEI jar
     runtimeOnly fg.deobf("mezz.jei:jei-1.18:9.0.0.40")
+
+    //curse.maven:<description>-<project-id>:<file-id>
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3584393")
+
+
+
+
 }
 
 // Example for how to get properties into the manifest for reading at runtime.

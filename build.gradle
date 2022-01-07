@@ -152,6 +152,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3591677")
     runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
     runtimeOnly fg.deobf("curse.maven:create-328085:3583784")
+    runtimeOnly fg.deobf("curse.maven:flywheel-486392:3584224")
 
 
 }

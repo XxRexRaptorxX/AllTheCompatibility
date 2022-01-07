@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:deepslate_platinum_ore"
+      "item": "alltheores:platinum_slate_ore"
     }
   ],
   "results": [

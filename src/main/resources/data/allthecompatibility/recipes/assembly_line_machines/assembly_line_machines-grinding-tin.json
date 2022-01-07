@@ -10,7 +10,7 @@
     "tag": "forge:raw_ores/tin"
   },
   "output":{
-    "item": "alltheores:lead_tin"
+    "item": "alltheores:tin_dust"
   },
   "grinds": 3,
   "bladetype": "TITANIUM"

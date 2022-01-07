@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:deepslate_silver_ore"
+      "item": "alltheores:silver_slate_ore"
     }
   ],
   "results": [

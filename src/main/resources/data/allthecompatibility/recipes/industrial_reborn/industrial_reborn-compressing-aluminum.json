@@ -7,11 +7,11 @@
   ],
   "type": "indreb:compressing",
   "ingredient": {
-    "tag": "forge:ingots/aluminium",
+    "tag": "forge:ingots/aluminum",
     "count": 9
   },
   "result": {
-    "item": "alltheores:aluminium_block"
+    "item": "alltheores:aluminum_block"
   },
   "experience": 0.3,
   "duration": 180,

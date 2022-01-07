@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_ores/uranum"
+    "tag": "forge:raw_ores/uranium"
   },
   "output":{
-    "item": "alltheores:uranum_dust"
+    "item": "alltheores:uranium_dust"
   },
   "grinds": 3,
   "bladetype": "TITANIUM"

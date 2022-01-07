@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/bronze"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:bronze_nugget",
+      "count": 9
+    }
+  ]
+}

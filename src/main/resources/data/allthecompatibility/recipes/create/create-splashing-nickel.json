@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/nickel"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:nickel_nugget",
+      "count": 9
+    }
+  ]
+}

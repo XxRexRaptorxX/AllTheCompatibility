@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/lumium"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:lumium_nugget",
+      "count": 9
+    }
+  ]
+}

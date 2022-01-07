@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/silver"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:silver_nugget",
+      "count": 9
+    }
+  ]
+}

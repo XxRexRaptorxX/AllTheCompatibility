@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:zinc_nugget",
+      "count": 9
+    }
+  ]
+}

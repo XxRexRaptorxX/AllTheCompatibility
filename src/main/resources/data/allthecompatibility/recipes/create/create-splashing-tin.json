@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/tin"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:tin_nugget",
+      "count": 9
+    }
+  ]
+}

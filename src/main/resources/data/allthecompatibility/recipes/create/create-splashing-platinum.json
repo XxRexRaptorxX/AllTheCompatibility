@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/platinum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:platinum_nugget",
+      "count": 9
+    }
+  ]
+}

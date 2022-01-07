@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/aluminum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:aluminum_nugget",
+      "count": 9
+    }
+  ]
+}

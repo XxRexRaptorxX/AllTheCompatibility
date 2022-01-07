@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/osmium"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:osmium_nugget",
+      "count": 9
+    }
+  ]
+}

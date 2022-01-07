@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/signalum"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:signalum_nugget",
+      "count": 9
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/lead"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:lead_nugget",
+      "count": 9
+    }
+  ]
+}

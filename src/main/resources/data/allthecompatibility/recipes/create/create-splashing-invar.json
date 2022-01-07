@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/invar"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:invar_nugget",
+      "count": 9
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "item": "alltheores:raw_nickel_block",
+    "tag": "forge:storage_blocks/raw_nickel",
     "count": 1
   },
   "process_time": 200,

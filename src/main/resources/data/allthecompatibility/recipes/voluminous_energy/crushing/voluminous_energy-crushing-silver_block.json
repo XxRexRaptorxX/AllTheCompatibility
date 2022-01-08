@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "item": "alltheores:raw_silver_block",
+    "tag": "forge:storage_blocks/raw_silver",
     "count": 1
   },
   "process_time": 200,

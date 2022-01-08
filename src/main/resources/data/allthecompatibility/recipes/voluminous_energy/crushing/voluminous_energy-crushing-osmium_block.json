@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "item": "alltheores:raw_osmium_block",
+    "tag": "forge:storage_blocks/raw_osmium",
     "count": 1
   },
   "process_time": 200,

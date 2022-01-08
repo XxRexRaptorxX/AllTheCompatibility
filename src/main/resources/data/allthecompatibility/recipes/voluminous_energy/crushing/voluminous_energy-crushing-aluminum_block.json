@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "item": "alltheores:raw_aluminum_block",
+    "tag": "forge:storage_blocks/raw_aluminum",
     "count": 1
   },
   "process_time": 200,

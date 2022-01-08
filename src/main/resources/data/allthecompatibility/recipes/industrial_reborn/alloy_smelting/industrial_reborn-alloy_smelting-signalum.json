@@ -1,0 +1,24 @@
+{
+  "type": "indreb:alloy_smelting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper",
+      "count": 3
+    },
+    {
+      "tag": "forge:ingots/silver",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "alltheores:signalum_ingot",
+    "count": 4
+  },
+  "experience": 0.5,
+  "duration": 560,
+  "power_cost": 16
+}

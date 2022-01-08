@@ -1,0 +1,24 @@
+{
+  "type": "indreb:alloy_smelting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/tin",
+      "count": 3
+    },
+    {
+      "tag": "forge:ingots/silver",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "alltheores:lumium_ingot",
+    "count": 4
+  },
+  "experience": 0.5,
+  "duration": 560,
+  "power_cost": 16
+}

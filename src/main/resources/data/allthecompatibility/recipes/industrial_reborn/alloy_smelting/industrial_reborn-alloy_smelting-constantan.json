@@ -1,0 +1,20 @@
+{
+  "type": "indreb:alloy_smelting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper",
+      "count": 1
+    },
+    {
+      "tag": "forge:ingots/nickel",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "alltheores:constantan_ingot",
+    "count": 2
+  },
+  "experience": 0.5,
+  "duration": 560,
+  "power_cost": 16
+}

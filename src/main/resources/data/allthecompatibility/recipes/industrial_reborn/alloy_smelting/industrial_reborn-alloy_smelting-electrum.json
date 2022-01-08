@@ -1,0 +1,20 @@
+{
+  "type": "indreb:alloy_smelting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/silver",
+      "count": 1
+    },
+    {
+      "tag": "forge:ingots/gold",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "alltheores:electrum_ingot",
+    "count": 2
+  },
+  "experience": 0.5,
+  "duration": 560,
+  "power_cost": 16
+}

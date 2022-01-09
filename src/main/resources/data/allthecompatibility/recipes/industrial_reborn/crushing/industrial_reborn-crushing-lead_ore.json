@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "tag": "forge:ores/lead",
+    "item": "alltheores:lead_ore",
     "count": 1
   },
   "result": {

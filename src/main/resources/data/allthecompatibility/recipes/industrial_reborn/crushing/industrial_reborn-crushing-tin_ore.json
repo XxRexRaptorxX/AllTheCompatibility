@@ -7,11 +7,11 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:uranium_ore",
+    "item": "alltheores:tin_ore",
     "count": 1
   },
   "result": {
-    "item": "alltheores:uranium_dust",
+    "item": "alltheores:tin_dust",
     "count": 2
   },
   "bonus_result": {

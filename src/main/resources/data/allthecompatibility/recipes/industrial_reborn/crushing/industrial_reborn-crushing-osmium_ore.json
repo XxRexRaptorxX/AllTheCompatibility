@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "tag": "forge:ores/osmium",
+    "item": "alltheores:osmium_ore",
     "count": 1
   },
   "result": {

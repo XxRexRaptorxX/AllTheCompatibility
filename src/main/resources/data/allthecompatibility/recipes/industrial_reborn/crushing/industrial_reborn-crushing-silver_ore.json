@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "tag": "forge:ores/silver",
+    "item": "alltheores:silver_ore",
     "count": 1
   },
   "result": {

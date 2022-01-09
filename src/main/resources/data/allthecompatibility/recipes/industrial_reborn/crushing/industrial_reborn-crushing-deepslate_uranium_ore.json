@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:uranium_ore",
+    "item": "alltheores:uranium_slate_ore",
     "count": 1
   },
   "result": {
@@ -15,7 +15,7 @@
     "count": 2
   },
   "bonus_result": {
-    "item": "indreb:stone_dust",
+    "item": "indreb:deepslate_dust",
     "count": 1,
     "chance": 50.0
   },

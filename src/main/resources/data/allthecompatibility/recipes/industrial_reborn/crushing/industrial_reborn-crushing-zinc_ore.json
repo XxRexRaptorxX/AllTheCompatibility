@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "tag": "forge:ores/zinc",
+    "item": "alltheores:zinc_ore",
     "count": 1
   },
   "result": {

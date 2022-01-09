@@ -5,7 +5,7 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibil
 
 [[mods]]
 modId="allthecompatibility"
-version="1.3.0"
+version="1.4.0"
 displayName="All The Compatibility"
 itemIcon="minecraft:redstone"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"

@@ -1,0 +1,28 @@
+{
+  "type": "voluminousenergy:centrifugal_separation",
+  "ingredient": {
+    "item": "alltheores:steel_dust",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "alltheores:iron_dust",
+    "count": 1,
+    "buckets": 0
+  },
+  "rng_slot_0": {
+    "item": "minecraft:coal",
+    "count": 4,
+    "chance": 1
+  },
+  "rng_slot_1": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "rng_slot_2": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  }
+}

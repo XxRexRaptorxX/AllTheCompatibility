@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:raw_iron_block"
+  },
+  "result": "minecraft:iron_ingot",
+  "count": 9,
+  "experience": 9.5,
+  "cookingtime": 1800
+}

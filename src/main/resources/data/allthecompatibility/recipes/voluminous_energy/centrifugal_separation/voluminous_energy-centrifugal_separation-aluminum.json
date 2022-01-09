@@ -2,7 +2,7 @@
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
     "item": "alltheores:dirty_aluminum_dust",
-    "count": 2
+    "count": 4
   },
   "process_time": 200,
   "result": {

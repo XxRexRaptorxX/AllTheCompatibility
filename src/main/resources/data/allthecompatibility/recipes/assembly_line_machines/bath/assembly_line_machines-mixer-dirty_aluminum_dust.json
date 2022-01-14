@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:bath",
+  "input_a":{
+    "item": "alltheores:dirty_aluminum_dust"
+  },
+  "input_b":{
+    "item": "alltheores:dirty_aluminum_dust"
+  },
+  "output":{
+    "item": "alltheores:aluminum_dust"
+  },
+  "stirs": 4,
+  "fluid": "water",
+  "mix_color": "#B7AE9A",
+  "mixer_type": "MIXER_ONLY",
+  "drain_percent": "QUARTER"
+}

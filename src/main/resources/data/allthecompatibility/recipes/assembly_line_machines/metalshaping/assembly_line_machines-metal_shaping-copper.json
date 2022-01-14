@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:metal",
+  "input": {
+    "item": "minecraft:copper_ingot"
+  },
+  "output": {
+    "item": "alltheores:copper_plate",
+    "count": 3
+  },
+  "time": 6
+}

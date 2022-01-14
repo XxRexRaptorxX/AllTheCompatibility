@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:bath",
+  "input_a":{
+    "tag": "forge:dusts/copper",
+    "count": 3
+  },
+  "input_b":{
+    "tag": "forge:dusts/tin"
+  },
+  "output":{
+    "item": "alltheores:bronze_ingot",
+    "count": 4
+  },
+  "stirs": 7,
+  "fluid": "lava",
+  "mix_color": "0",
+  "mixer_type": "MIXER_ONLY",
+  "drain_percent": "HALF"
+}

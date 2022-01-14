@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:bath",
+  "input_a":{
+    "tag": "forge:dusts/gold"
+  },
+  "input_b":{
+    "tag": "forge:dusts/iron"
+  },
+  "output":{
+    "item": "alltheores:electrum_ingot"
+  },
+  "stirs": 9,
+  "fluid": "lava",
+  "mix_color": "#FFFE86",
+  "mixer_type": "BASIN_ONLY",
+  "drain_percent": "HALF"
+}

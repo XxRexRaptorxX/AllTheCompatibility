@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:bath",
+  "input_a":{
+    "tag": "forge:dusts/iron",
+    "count": 3
+  },
+  "input_b":{
+    "tag": "forge:dusts/nickel"
+  },
+  "output":{
+    "item": "alltheores:invar_ingot"
+  },
+  "stirs": 9,
+  "fluid": "lava",
+  "mix_color": "#D9DBD2",
+  "mixer_type": "BASIN_ONLY",
+  "drain_percent": "HALF"
+}

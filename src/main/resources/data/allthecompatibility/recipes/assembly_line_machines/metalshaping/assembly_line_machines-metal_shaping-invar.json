@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:metal",
+  "input": {
+    "tag": "forge:ingots/invar"
+  },
+  "output": {
+    "item": "alltheores:invar_plate",
+    "count": 3
+  },
+  "time": 6
+}

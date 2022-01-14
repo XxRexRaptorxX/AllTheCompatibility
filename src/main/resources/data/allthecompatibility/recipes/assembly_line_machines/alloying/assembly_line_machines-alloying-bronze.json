@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:alloying",
+  "part_a":{
+    "tag": "forge:ingots/copper",
+    "count": 3
+  },
+  "part_b":{
+    "tag": "forge:ingots/tin"
+  },
+  "output":{
+    "item": "alltheores:bronze_ingot",
+    "count": 4
+  },
+  "time": 200
+}

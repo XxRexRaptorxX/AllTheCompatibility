@@ -7,14 +7,14 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "tag": "forge:dusts/iron",
-    "count": 3
+    "tag": "forge:dusts/iron"
   },
   "input_b":{
     "tag": "forge:dusts/nickel"
   },
   "output":{
-    "item": "alltheores:invar_ingot"
+    "item": "alltheores:invar_ingot",
+    "count": 2
   },
   "stirs": 9,
   "fluid": "lava",

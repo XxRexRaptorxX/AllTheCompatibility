@@ -7,15 +7,14 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "tag": "forge:dusts/copper",
-    "count": 3
+    "tag": "forge:dusts/copper"
   },
   "input_b":{
     "tag": "forge:dusts/tin"
   },
   "output":{
     "item": "alltheores:bronze_ingot",
-    "count": 4
+    "count": 2
   },
   "stirs": 7,
   "fluid": "lava",

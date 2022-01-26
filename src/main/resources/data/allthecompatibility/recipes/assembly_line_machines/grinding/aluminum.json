@@ -13,5 +13,6 @@
     "item": "alltheores:aluminum_dust"
   },
   "grinds": 3,
+  "chanceToDouble": 0.5,
   "bladetype": "TITANIUM"
 }

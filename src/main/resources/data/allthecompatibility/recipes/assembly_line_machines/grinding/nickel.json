@@ -13,5 +13,6 @@
     "item": "alltheores:nickel_dust"
   },
   "grinds": 3,
+  "chanceToDouble": 0.5,
   "bladetype": "TITANIUM"
 }

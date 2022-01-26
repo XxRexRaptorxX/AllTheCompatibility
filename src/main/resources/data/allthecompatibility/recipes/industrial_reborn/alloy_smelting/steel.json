@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:alloy_smelting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron",
+      "count": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "count": 3
+    }
+  ],
+  "result": {
+    "item": "alltheores:steel_ingot",
+    "count": 4
+  },
+  "experience": 0.5,
+  "duration": 560,
+  "power_cost": 16
+}

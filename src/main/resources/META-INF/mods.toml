@@ -27,7 +27,7 @@ This mod adds recipe compatibility between AllTheOres and other mods!
 [[dependencies.allthecompatibility]]
     modId="alltheores"
     mandatory=true
-    versionRange="[1.7.5,)"
+    versionRange="[1.8.0pre1,)"
     ordering="NONE"
     side="BOTH"
 
@@ -52,7 +52,7 @@ This mod adds recipe compatibility between AllTheOres and other mods!
     modId="indreb"
     mandatory=false
     versionRange="[1.18.1-0.11.0,)"
-    ordering="AFTER"
+    ordering="BEFORE"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]

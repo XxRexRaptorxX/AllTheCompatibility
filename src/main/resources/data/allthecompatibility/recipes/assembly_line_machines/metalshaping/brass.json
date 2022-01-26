@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:metal",
+  "input": {
+    "tag": "forge:ingots/brass"
+  },
+  "output": {
+    "item": "alltheores:brass_plate",
+    "count": 3
+  },
+  "time": 6
+}

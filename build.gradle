@@ -151,7 +151,7 @@ dependencies {
     runtimeOnly fg.deobf("mezz.jei:jei-1.18:9.0.0.40")
 
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3584393")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3624603")
 
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3596271")
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3591677")

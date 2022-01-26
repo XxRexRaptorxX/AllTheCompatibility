@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:alloy_smelting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper",
+      "count": 3
+    },
+    {
+      "tag": "forge:ingots/zinc",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "alltheores:brass_ingot",
+    "count": 4
+  },
+  "experience": 0.5,
+  "duration": 560,
+  "power_cost": 16
+}

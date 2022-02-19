@@ -10,7 +10,7 @@
     "tag": "forge:dusts/gold"
   },
   "input_b":{
-    "tag": "forge:dusts/iron"
+    "tag": "forge:dusts/silver"
   },
   "output":{
     "item": "alltheores:electrum_ingot",

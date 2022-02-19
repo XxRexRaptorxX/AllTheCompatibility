@@ -5,7 +5,7 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibil
 
 [[mods]]
 modId="allthecompatibility"
-version="1.5.1"
+version="1.5.2"
 displayName="All The Compatibility"
 itemIcon="minecraft:crafting_table"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"

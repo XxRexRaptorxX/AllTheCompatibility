@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.5.1'
+version = '1.5.2'
 group = 'xxrexraptorxx.main.ATC' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'allthecompatibility'
 
@@ -151,11 +151,12 @@ dependencies {
     runtimeOnly fg.deobf("mezz.jei:jei-1.18:9.0.0.40")
 
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3624603")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3638255")
 
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3596271")
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3591677")
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3638322")
     runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
+    runtimeOnly fg.deobf("curse.maven:easysteel-335221:3623918")
     //implementation fg.deobf("com.jozufozu.flywheel:Flywheel-Forge:1.18-0.5.1.41") //runtimeOnly fg.deobf("curse.maven:flywheel-486392:3584224") //needed for create
     //runtimeOnly fg.deobf("curse.maven:create-328085:3583784")
 

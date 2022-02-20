@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "forge:ores/aluminum"
+  },
+  "result": {
+    "item": "alltheores:aluminum_dust",
+    "count": 2
+  }
+}

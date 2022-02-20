@@ -156,7 +156,8 @@ dependencies {
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3596271")
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3638322")
     runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
-    runtimeOnly fg.deobf("curse.maven:easysteel-335221:3623918")
+    //runtimeOnly fg.deobf("curse.maven:easysteel-335221:3623918")
+    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
     //implementation fg.deobf("com.jozufozu.flywheel:Flywheel-Forge:1.18-0.5.1.41") //runtimeOnly fg.deobf("curse.maven:flywheel-486392:3584224") //needed for create
     //runtimeOnly fg.deobf("curse.maven:create-328085:3583784")
 

@@ -7,10 +7,10 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:raw_materials/copper"
+    "tag": "forge:ores/iron"
   },
   "result": {
-    "item": "alltheores:copper_dust",
+    "item": "alltheores:iron_dust",
     "count": 2
   }
 }

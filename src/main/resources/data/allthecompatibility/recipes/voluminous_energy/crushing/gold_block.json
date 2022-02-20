@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "item": "minecraft:raw_gold_block",
+    "tag": "forge:storage_blocks/raw_gold",
     "count": 1
   },
   "process_time": 200,

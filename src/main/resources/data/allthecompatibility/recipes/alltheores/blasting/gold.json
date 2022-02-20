@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "item": "minecraft:raw_gold_block"
+    "tag": "forge:storage_blocks/raw_gold"
   },
   "result": "minecraft:gold_ingot",
   "count": 9,

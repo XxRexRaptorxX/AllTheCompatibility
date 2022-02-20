@@ -5,13 +5,13 @@
       "modid": "assemblylinemachines"
     }
   ],
-  "type": "assemblylinemachines:metal",
-  "input": {
+  "type": "assemblylinemachines:grinder",
+  "input":{
     "tag": "forge:ingots/copper"
   },
-  "output": {
-    "item": "alltheores:copper_plate",
-    "count": 3
+  "output":{
+    "item": "alltheores:copper_dust"
   },
-  "time": 6
+  "grinds": 3,
+  "bladetype": "TITANIUM"
 }

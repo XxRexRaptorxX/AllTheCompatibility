@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "forge:ingots/gold"
+  },
+  "output":{
+    "item": "alltheores:gold_dust"
+  },
+  "grinds": 3,
+  "bladetype": "TITANIUM"
+}

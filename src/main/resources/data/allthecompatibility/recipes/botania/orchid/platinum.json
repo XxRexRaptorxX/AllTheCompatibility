@@ -1,0 +1,9 @@
+{
+  "type": "botania:orechid",
+  "input": "minecraft:stone",
+  "output": {
+    "type": "block",
+    "block": "alltheores:platinum_ore"
+  },
+  "weight": 2600
+}

@@ -75,3 +75,10 @@ This mod adds recipe compatibility between AllTheOres and other mods!
     versionRange="[1.2.4,)"
     ordering="BEFORE"
     side="BOTH"
+
+[[dependencies.allthecompatibility]]
+    modId="botania"
+    mandatory=false
+    versionRange="[428,)"
+    ordering="BEFORE"
+    side="BOTH"

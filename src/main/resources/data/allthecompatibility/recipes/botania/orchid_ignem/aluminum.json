@@ -1,0 +1,9 @@
+{
+  "type": "botania:orechid_ignem",
+  "input": "minecraft:netherrack",
+  "output": {
+    "type": "block",
+    "block": "minecraft:aluminum_nether_ore"
+  },
+  "weight": 3835
+}

@@ -1,0 +1,34 @@
+{
+  "type": "cyclic:crusher",
+  "input": {
+    "tag": "forge:ores/osmium"
+  },
+  "energy": {
+    "ticks": 600,
+    "rfpertick": 60
+  },
+  "result": {
+    "item": "alltheores:raw_osmium",
+    "count": 4
+  },
+  "percent": 75,
+  "bonus": {
+    "item": "alltheores:osmium_nugget",
+    "count": 9
+  },
+  "conditions": [
+    {
+      "values": [
+        {
+          "modid": "cyclic",
+          "type": "forge:mod_loaded"
+        },
+        {
+          "item": "cyclic:crusher",
+          "type": "forge:item_exists"
+        }
+      ],
+      "type": "forge:and"
+    }
+  ]
+}

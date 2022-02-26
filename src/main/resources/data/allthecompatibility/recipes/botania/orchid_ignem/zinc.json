@@ -9,7 +9,7 @@
   "input": "minecraft:netherrack",
   "output": {
     "type": "block",
-    "block": "minecraft:zinc_nether_ore"
+    "block": "alltheores:zinc_nether_ore"
   },
   "weight": 3635
 }

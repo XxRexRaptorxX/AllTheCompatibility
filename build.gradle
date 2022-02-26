@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.6.0'
+version = '1.7.0'
 group = 'xxrexraptorxx.main.ATC' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'allthecompatibility'
 
@@ -146,9 +146,9 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.18.1-39.0.59'
 
     // compile against the JEI API but do not include it at runtime
-    compileOnly fg.deobf("mezz.jei:jei-1.18:9.0.0.40:api")
+    compileOnly fg.deobf("mezz.jei:jei-1.18.1:9.2.1.69:api")
     // at runtime, use the full JEI jar
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18:9.0.0.40")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.18.1:9.2.1.69")
 
     //curse.maven:<description>-<project-id>:<file-id>
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:3638255")
@@ -156,6 +156,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3638322")
     runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3661841")
 
 
 

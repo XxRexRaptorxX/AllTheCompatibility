@@ -5,7 +5,7 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibil
 
 [[mods]]
 modId="allthecompatibility"
-version="1.7.0"
+version="1.8.0"
 displayName="All The Compatibility"
 itemIcon="minecraft:crafting_table"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"
@@ -87,5 +87,12 @@ This mod adds recipe compatibility between AllTheOres and other mods!
     modId="cyclic"
     mandatory=false
     versionRange="[1.18.1-1.6.13,)"
+    ordering="BEFORE"
+    side="BOTH"
+
+[[dependencies.allthecompatibility]]
+    modId="simplegrinder"
+    mandatory=false
+    versionRange="[1.18-18.0.1,)"
     ordering="BEFORE"
     side="BOTH"

@@ -7,16 +7,16 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:ores/uranium",
+    "tag": "forge:ores/zinc",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:uranium_dust",
+    "item": "alltheores:zinc_dust",
     "count": 2
   },
   "rng": {
-    "item": "alltheores:dirty_uranium_dust",
+    "item": "alltheores:dirty_zinc_dust",
     "count": 1,
     "chance": 0.5
   }

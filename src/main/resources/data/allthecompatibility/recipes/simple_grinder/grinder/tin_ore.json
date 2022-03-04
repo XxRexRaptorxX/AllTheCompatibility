@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "simplegrinder"
+    }
+  ],
+  "type": "simplegrinder:grinder",
+  "ingredient": {
+    "tag": "forge:ores/tin"
+  },
+
+  "result": {
+    "item": "alltheores:tin_dust",
+    "count": 4
+  },
+
+  "experience": 0.1,
+  "cookingtime": 150
+}

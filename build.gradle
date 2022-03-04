@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.7.0'
+version = '1.8.0'
 group = 'xxrexraptorxx.main.ATC' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'allthecompatibility'
 
@@ -157,6 +157,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:3661841")
+    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3668370")
 
 
 

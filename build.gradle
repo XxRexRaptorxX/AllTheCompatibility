@@ -33,7 +33,7 @@ minecraft {
     //
     // Use non-default mappings at your own risk. They may not always work.
     // Simply re-run your setup task after changing the mappings to update your workspace.
-    mappings channel: 'official', version: '1.18.1'
+    mappings channel: 'official', version: '1.18.2'
 
     // accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg') // Currently, this location cannot be changed from the default.
 
@@ -140,26 +140,23 @@ repositories {
 }
 
 dependencies {
-    // Specify the version of Minecraft to use. If this is any group other than 'net.minecraft', it is assumed
-    // that the dep is a ForgeGradle 'patcher' dependency, and its patches will be applied.
-    // The userdev artifact is a special name and will get all sorts of transformations applied to it.
-    minecraft 'net.minecraftforge:forge:1.18.1-39.0.59'
+    minecraft 'net.minecraftforge:forge:1.18.2-40.0.17'
 
-    // compile against the JEI API but do not include it at runtime
-    compileOnly fg.deobf("mezz.jei:jei-1.18.1:9.2.1.69:api")
-    // at runtime, use the full JEI jar
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.1:9.2.1.69")
+    //JEI
+    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.4.3.122:api")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.4.3.122")
 
+    //dependencies
+    //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3638255")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3676028")
 
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3638322")
-    runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
-    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3661841")
-    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3668370")
-
-
+    //[optional]
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3683983")
+    //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
+    //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3693306")
+    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3674337")
 
 }
 

@@ -13,11 +13,11 @@
   "process_time": 200,
   "result": {
     "item": "alltheores:aluminum_dust",
-    "count": 2
+    "count": 1
   },
   "rng": {
-    "item": "alltheores:dirty_aluminum_dust",
+    "item": "alltheores:aluminum_dust",
     "count": 1,
-    "chance": 0.25
+    "chance": 0.333
   }
 }

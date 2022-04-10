@@ -13,11 +13,11 @@
   "process_time": 200,
   "result": {
     "item": "alltheores:tin_dust",
-    "count": 18
+    "count": 9
   },
   "rng": {
-    "item": "minecraft:air",
-    "count": 0,
-    "chance": 0
+    "item": "alltheores:tin_dust",
+    "count": 9,
+    "chance": 0.333
   }
 }

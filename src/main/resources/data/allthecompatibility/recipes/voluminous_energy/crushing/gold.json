@@ -16,8 +16,8 @@
     "count": 2
   },
   "rng": {
-    "item": "minecraft:air",
-    "count": 0,
-    "chance": 0
+    "item": "voluminousenergy:quartz_dust",
+    "count": 1,
+    "chance": 0.333
   }
 }

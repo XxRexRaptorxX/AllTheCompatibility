@@ -12,12 +12,12 @@
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:copper_dust",
-    "count": 2
+    "item": "voluminousenergy:copper_carbonate_dust",
+    "count": 1
   },
   "rng": {
-    "item": "alltheores:dirty_copper_dust",
+    "item": "alltheores:copper_dust",
     "count": 1,
-    "chance": 0.5
+    "chance": 1
   }
 }

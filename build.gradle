@@ -149,7 +149,7 @@ dependencies {
     //dependencies
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3676028")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3711468")
 
     //[optional]
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3706606")

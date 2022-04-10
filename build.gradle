@@ -140,11 +140,11 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18.2-40.0.17'
+    minecraft 'net.minecraftforge:forge:1.18.2-40.0.44'
 
     //JEI
-    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.4.3.122:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.4.3.122")
+    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.5.5.174:api")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.5.5.174")
 
     //dependencies
     //[mandatory]
@@ -152,10 +152,10 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:3676028")
 
     //[optional]
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3683983")
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3706606")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
     //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3693306")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3708026")
     runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3674337")
 
 }

@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    }
+  ],
+  "type": "botania:orechid",
+  "input": "minecraft:deepslate",
+  "output": {
+    "type": "block",
+    "block": "alltheores:tin_slate_ore"
+  },
+  "weight": 100
+}

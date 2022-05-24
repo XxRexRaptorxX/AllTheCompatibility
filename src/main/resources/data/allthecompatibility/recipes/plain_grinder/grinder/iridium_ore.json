@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "forge:ores/iridium"
+  },
+  "result": {
+    "item": "alltheores:iridium_dust",
+    "count": 2
+  }
+}

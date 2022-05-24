@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "forge:raw_ores/sapphire"
+  },
+  "output":{
+    "item": "alltheores:sapphire_dust"
+  },
+  "grinds": 3,
+  "chanceToDouble": 0.5,
+  "bladetype": "TITANIUM"
+}

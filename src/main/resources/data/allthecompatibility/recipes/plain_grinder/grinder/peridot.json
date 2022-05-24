@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "forge:raw_ores/peridot"
+  },
+  "result": {
+    "item": "alltheores:peridot_dust",
+    "count": 2
+  }
+}

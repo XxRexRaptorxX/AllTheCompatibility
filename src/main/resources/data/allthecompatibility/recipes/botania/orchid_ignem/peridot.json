@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    }
+  ],
+  "type": "botania:orechid_ignem",
+  "input": "minecraft:netherrack",
+  "output": {
+    "type": "block",
+    "block": "alltheores:peridot_nether_ore"
+  },
+  "weight": 3035
+}

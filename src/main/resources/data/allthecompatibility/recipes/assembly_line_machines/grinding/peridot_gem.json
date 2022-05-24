@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "forge:ingots/peridot"
+  },
+  "output":{
+    "item": "alltheores:peridot_dust"
+  },
+  "grinds": 3,
+  "bladetype": "TITANIUM"
+}

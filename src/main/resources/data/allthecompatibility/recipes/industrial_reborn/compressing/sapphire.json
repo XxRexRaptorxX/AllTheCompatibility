@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:compressing",
+  "ingredient": {
+    "tag": "forge:gems/sapphire",
+    "count": 9
+  },
+  "result": {
+    "item": "alltheores:sapphire_block"
+  },
+  "experience": 0.3,
+  "duration": 180,
+  "power_cost": 8
+}

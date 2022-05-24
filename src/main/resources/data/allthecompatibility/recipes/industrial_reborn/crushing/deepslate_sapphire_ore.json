@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:crushing",
+  "ingredient": {
+    "item": "alltheores:sapphire_slate_ore",
+    "count": 1
+  },
+  "result": {
+    "item": "alltheores:sapphire_dust",
+    "count": 2
+  },
+  "bonus_result": {
+    "item": "indreb:deepslate_dust",
+    "count": 1,
+    "chance": 50.0
+  },
+  "experience": 0.2,
+  "duration": 180,
+  "power_cost": 8
+}

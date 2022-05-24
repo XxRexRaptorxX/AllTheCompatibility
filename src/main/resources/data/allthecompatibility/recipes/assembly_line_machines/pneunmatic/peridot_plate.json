@@ -1,0 +1,21 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:gems/peridot"
+  },
+  "output": {
+    "tag": "forge:plates/peridot"
+  },
+  "time": 7,
+  "mold": "plate",
+  "conditions": [
+    {
+      "configOption": "compressorPlateIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

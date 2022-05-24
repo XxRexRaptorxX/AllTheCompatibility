@@ -1,0 +1,21 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:gems/ruby",
+    "count": 9
+  },
+  "output": {
+    "tag": "forge:storage_blocks/ruby"
+  },
+  "time": 9,
+  "conditions": [
+    {
+      "configOption": "compressorStorageBlockIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

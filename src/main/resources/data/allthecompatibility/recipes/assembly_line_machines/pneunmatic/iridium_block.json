@@ -1,0 +1,21 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:ingots/iridium",
+    "count": 9
+  },
+  "output": {
+    "tag": "forge:storage_blocks/iridium"
+  },
+  "time": 9,
+  "conditions": [
+    {
+      "configOption": "compressorStorageBlockIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

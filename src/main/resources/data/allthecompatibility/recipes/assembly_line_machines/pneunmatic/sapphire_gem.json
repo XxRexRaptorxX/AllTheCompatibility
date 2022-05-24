@@ -1,0 +1,21 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:nuggets/sapphire",
+    "count": 9
+  },
+  "output": {
+    "tag": "forge:gems/sapphire"
+  },
+  "time": 5,
+  "conditions": [
+    {
+      "configOption": "compressorNuggetIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

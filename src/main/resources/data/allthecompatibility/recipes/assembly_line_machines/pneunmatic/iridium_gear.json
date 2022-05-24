@@ -1,0 +1,22 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:plates/iridium",
+    "count": 4
+  },
+  "output": {
+    "tag": "forge:gears/iridium"
+  },
+  "time": 9,
+  "mold": "gear",
+  "conditions": [
+    {
+      "configOption": "compressorGearIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

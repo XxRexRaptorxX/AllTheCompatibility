@@ -1,0 +1,21 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:nuggets/peridot",
+    "count": 9
+  },
+  "output": {
+    "tag": "forge:gems/peridot"
+  },
+  "time": 5,
+  "conditions": [
+    {
+      "configOption": "compressorNuggetIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

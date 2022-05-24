@@ -1,0 +1,21 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "forge:ingots/iridium"
+  },
+  "output": {
+    "tag": "forge:rods/iridium"
+  },
+  "time": 8,
+  "mold": "rod",
+  "conditions": [
+    {
+      "configOption": "compressorRodIMC",
+      "type": "assemblylinemachines:config"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

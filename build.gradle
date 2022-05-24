@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.8.1'
+version = '1.9.0'
 group = 'xxrexraptorxx.main.ATC' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'allthecompatibility'
 
@@ -140,24 +140,25 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18.2-40.0.44'
+    minecraft 'net.minecraftforge:forge:1.18.2-40.1.21'
 
     //JEI
-    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.5.5.174:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.5.5.174")
+    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.0.180:api")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.0.180")
 
     //dependencies
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3711468")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3801220")
 
     //[optional]
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3706606")
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3776723")
+    //runtimeOnly fg.deobf("curse.maven:mekanism-268560:3743835")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
     //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3708026")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3777095")
     runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3674337")
-
+    //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
 }
 
 // Example for how to get properties into the manifest for reading at runtime.

@@ -10,12 +10,12 @@
   "mold": "plate",
   "conditions": [
     {
-      "configOption": "compressorPlateIMC",
-      "type": "assemblylinemachines:config"
-    },
-    {
       "type": "forge:mod_loaded",
       "modid": "assemblylinemachines"
+    },
+    {
+      "configOption": "compressorPlateIMC",
+      "type": "assemblylinemachines:config"
     }
   ]
 }

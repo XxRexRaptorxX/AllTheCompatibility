@@ -10,12 +10,12 @@
   "mold": "rod",
   "conditions": [
     {
-      "configOption": "compressorRodIMC",
-      "type": "assemblylinemachines:config"
-    },
-    {
       "type": "forge:mod_loaded",
       "modid": "assemblylinemachines"
+    },
+    {
+      "configOption": "compressorRodIMC",
+      "type": "assemblylinemachines:config"
     }
   ]
 }

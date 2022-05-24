@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ingots/sapphire"
+    "tag": "forge:gems/sapphire"
   },
   "output":{
     "item": "alltheores:sapphire_dust"

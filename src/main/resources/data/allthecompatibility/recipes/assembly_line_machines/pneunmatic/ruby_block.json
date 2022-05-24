@@ -10,12 +10,12 @@
   "time": 9,
   "conditions": [
     {
-      "configOption": "compressorStorageBlockIMC",
-      "type": "assemblylinemachines:config"
-    },
-    {
       "type": "forge:mod_loaded",
       "modid": "assemblylinemachines"
+    },
+    {
+      "configOption": "compressorStorageBlockIMC",
+      "type": "assemblylinemachines:config"
     }
   ]
 }

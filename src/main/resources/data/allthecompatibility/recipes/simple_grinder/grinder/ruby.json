@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:raw_ores/ruby"
+    "tag": "forge:gems/ruby"
   },
 
   "result": {

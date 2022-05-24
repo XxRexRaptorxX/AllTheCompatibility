@@ -8,12 +8,12 @@
     "rfpertick": 60
   },
   "result": {
-    "item": "alltheores:raw_sapphire",
+    "item": "alltheores:ruby",
     "count": 4
   },
   "percent": 75,
   "bonus": {
-    "item": "alltheores:sapphire_nugget",
+    "item": "alltheores:ruby_nugget",
     "count": 9
   },
   "conditions": [

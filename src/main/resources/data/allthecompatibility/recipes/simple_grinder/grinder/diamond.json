@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:raw_ores/diamond"
+    "tag": "forge:gems/diamond"
   },
 
   "result": {

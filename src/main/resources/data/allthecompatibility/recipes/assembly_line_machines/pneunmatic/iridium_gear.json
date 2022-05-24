@@ -11,12 +11,12 @@
   "mold": "gear",
   "conditions": [
     {
-      "configOption": "compressorGearIMC",
-      "type": "assemblylinemachines:config"
-    },
-    {
       "type": "forge:mod_loaded",
       "modid": "assemblylinemachines"
+    },
+    {
+      "configOption": "compressorGearIMC",
+      "type": "assemblylinemachines:config"
     }
   ]
 }

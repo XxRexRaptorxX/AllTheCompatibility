@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:raw_ores/sapphire"
+    "tag": "forge:gems/sapphire"
   },
   "result": {
     "item": "alltheores:sapphire_dust",

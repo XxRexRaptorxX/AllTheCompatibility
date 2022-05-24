@@ -152,8 +152,8 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:3801220")
 
     //[optional]
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3776723")
-    //runtimeOnly fg.deobf("curse.maven:mekanism-268560:3743835")
+    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3776723")
+    runtimeOnly fg.deobf("curse.maven:mekanism-268560:3743835")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
     //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:3777095")

@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:raw_ores/peridot"
+    "tag": "forge:gems/peridot"
   },
 
   "result": {

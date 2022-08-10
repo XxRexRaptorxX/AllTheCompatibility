@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.9.0'
+version = '1.9.1'
 group = 'xxrexraptorxx.main.ATC' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'allthecompatibility'
 
@@ -22,18 +22,8 @@ java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 minecraft {
-    // The mappings can be changed at any time and must be in the following format.
-    // Channel:   Version:
-    // snapshot   YYYYMMDD   Snapshot are built nightly.
-    // stable     #          Stables are built at the discretion of the MCP team.
-    // official   MCVersion  Official field/method names from Mojang mapping files
-    //
-    // You must be aware of the Mojang license when using the 'official' mappings.
-    // See more information here: https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
-    //
-    // Use non-default mappings at your own risk. They may not always work.
-    // Simply re-run your setup task after changing the mappings to update your workspace.
-    mappings channel: 'official', version: '1.18.2'
+
+    mappings channel: 'official', version: '1.19.2'
 
     // accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg') // Currently, this location cannot be changed from the default.
 
@@ -140,24 +130,27 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18.2-40.1.21'
+    minecraft 'net.minecraftforge:forge:1.19.2-43.0.7'
 
     //JEI
-    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.0.180:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.0.180")
+    compileOnly fg.deobf("mezz.jei:jei-1.19.2-common-api:${jei_version}")
+    compileOnly fg.deobf("mezz.jei:jei-1.19.2-forge-api:${jei_version}")
+    // at runtime, use the full JEI
+    runtimeOnly fg.deobf("mezz.jei:jei-1.19.2-common:${jei_version}")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.19.2-forge:${jei_version}")
 
     //dependencies
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3801220")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3927330")
 
     //[optional]
-    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3776723")
-    runtimeOnly fg.deobf("curse.maven:mekanism-268560:3743835")
+    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3912956")
+    runtimeOnly fg.deobf("curse.maven:mekanism-268560:3922056")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
-    //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3777095")
-    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3674337")
+    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3915901")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3910452")
+    //runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3821567")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
 }
 

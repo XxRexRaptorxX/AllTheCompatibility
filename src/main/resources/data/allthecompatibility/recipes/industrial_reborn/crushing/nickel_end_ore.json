@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:nickel_end_ore",
+    "item": "alltheores:end_nickel_ore",
     "count": 1
   },
   "result": {

@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:copper_slate_ore"
+    "block": "alltheores:deepslate_copper_ore"
   },
   "weight": 250
 }

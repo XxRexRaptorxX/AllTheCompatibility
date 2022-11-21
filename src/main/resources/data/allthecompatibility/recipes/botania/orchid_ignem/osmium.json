@@ -9,7 +9,7 @@
   "input": "minecraft:netherrack",
   "output": {
     "type": "block",
-    "block": "alltheores:osmium_nether_ore"
+    "block": "alltheores:nether_osmium_ore"
   },
   "weight": 3635
 }

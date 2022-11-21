@@ -9,7 +9,7 @@
   "input": "minecraft:netherrack",
   "output": {
     "type": "block",
-    "block": "alltheores:lead_nether_ore"
+    "block": "alltheores:nether_lead_ore"
   },
   "weight": 3635
 }

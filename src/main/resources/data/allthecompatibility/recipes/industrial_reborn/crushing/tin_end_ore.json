@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:tin_end_ore",
+    "item": "alltheores:end_tin_ore",
     "count": 1
   },
   "result": {

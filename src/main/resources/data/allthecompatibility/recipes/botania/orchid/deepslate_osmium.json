@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:osmium_slate_ore"
+    "block": "alltheores:deepslate_osmium_ore"
   },
   "weight": 250
 }

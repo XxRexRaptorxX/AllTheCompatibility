@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:aluminum_nether_ore",
+    "item": "alltheores:nether_aluminum_ore",
     "count": 1
   },
   "result": {

@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:platinum_slate_ore"
+    "block": "alltheores:deepslate_platinum_ore"
   },
   "weight": 125
 }

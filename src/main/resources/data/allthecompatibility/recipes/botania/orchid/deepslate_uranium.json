@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:uranium_slate_ore"
+    "block": "alltheores:deepslate_uranium_ore"
   },
   "weight": 120
 }

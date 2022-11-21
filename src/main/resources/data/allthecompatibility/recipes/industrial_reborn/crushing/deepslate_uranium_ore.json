@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:uranium_slate_ore",
+    "item": "alltheores:deepslate_uranium_ore",
     "count": 1
   },
   "result": {

@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:osmium_slate_ore"
+      "item": "alltheores:deepslate_osmium_ore"
     }
   ],
   "results": [

@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:zinc_slate_ore"
+    "block": "alltheores:deepslate_zinc_ore"
   },
   "weight": 250
 }

@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:silver_slate_ore"
+    "block": "alltheores:deepslate_silver_ore"
   },
   "weight": 125
 }

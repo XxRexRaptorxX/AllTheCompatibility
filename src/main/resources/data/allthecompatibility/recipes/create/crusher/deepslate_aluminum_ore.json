@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:aluminum_slate_ore"
+      "item": "alltheores:deepslate_aluminum_ore"
     }
   ],
   "results": [

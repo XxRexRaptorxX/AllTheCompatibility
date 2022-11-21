@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "item": "alltheores:osmium_nether_ore",
+    "item": "alltheores:nether_osmium_ore",
     "count": 1
   },
   "result": {

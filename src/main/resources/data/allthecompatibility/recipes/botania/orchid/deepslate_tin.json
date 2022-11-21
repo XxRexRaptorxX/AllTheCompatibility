@@ -9,7 +9,7 @@
   "input": "minecraft:deepslate",
   "output": {
     "type": "block",
-    "block": "alltheores:tin_slate_ore"
+    "block": "alltheores:deepslate_tin_ore"
   },
   "weight": 250
 }

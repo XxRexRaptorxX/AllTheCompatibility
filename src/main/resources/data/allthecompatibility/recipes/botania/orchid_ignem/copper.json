@@ -9,7 +9,7 @@
   "input": "minecraft:netherrack",
   "output": {
     "type": "block",
-    "block": "alltheores:copper_nether_ore"
+    "block": "alltheores:nether_copper_ore"
   },
   "weight": 3835
 }

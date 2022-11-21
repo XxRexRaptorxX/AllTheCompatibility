@@ -9,7 +9,7 @@
   "input": "minecraft:netherrack",
   "output": {
     "type": "block",
-    "block": "alltheores:iridium_nether_ore"
+    "block": "alltheores:nether_iridium_ore"
   },
   "weight": 300
 }

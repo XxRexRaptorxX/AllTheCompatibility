@@ -1,0 +1,13 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:scrap_box",
+  "result": {
+    "item": "alltheores:raw_tin"
+  },
+  "weight": 0.7
+}

@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:scanner",
+  "duration": 500,
+  "experience": 5.0,
+  "item": {
+    "item": "alltheores:deepslate_nickel_ore"
+  },
+  "power_cost": 256,
+  "replication": {
+    "energy_cost": 16,
+    "matter_cost": 72
+  }
+}

@@ -14,8 +14,7 @@ logoFile="logo.png"
 #credits=""
 authors="XxRexRaptorxX (RexRaptor)"
 description='''
-This mod adds recipe compatibility between AllTheOres and other mods!
-'''
+This mod adds recipe compatibility between AllTheOres and other mods!'''
 
 [[dependencies.allthecompatibility]]
     modId="forge"

@@ -31,6 +31,10 @@ minecraft {
     // These can be tweaked, removed, or duplicated as needed.
     runs {
         client {
+            //botania
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+
             workingDirectory project.file('run')
 
             // Recommended logging data for a userdev environment
@@ -127,10 +131,18 @@ repositories {
              includeGroup "curse.maven"
          }
     }
+    maven {
+        // location of the curios maven
+        url = "https://maven.theillusivec4.top/"
+    }
+    maven {
+        // location of the botania maven
+        url 'https://maven.blamejared.com'
+    }
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.19.2-43.1.35'
+    minecraft 'net.minecraftforge:forge:1.19.2-43.2.0'
 
     //JEI
     compileOnly fg.deobf("mezz.jei:jei-1.19.2-common-api:${jei_version}")
@@ -146,12 +158,16 @@ dependencies {
 
     //[optional]
     //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3912956")
-    runtimeOnly fg.deobf("curse.maven:mekanism-268560:3922056")
+    //runtimeOnly fg.deobf("curse.maven:mekanism-268560:3922056")
     runtimeOnly fg.deobf("curse.maven:indreb-358877:4076608")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3915901")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:3910452")
     runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3939926")
+    //runtimeOnly fg.deobf("curse.maven:ic2classic-242942:4102942")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
+    runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:1.19.2-5.1.4.1")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.19.2-77")
+    runtimeOnly fg.deobf("vazkii.botania:Botania:1.19.2-440-FORGE")
 }
 
 // Example for how to get properties into the manifest for reading at runtime.

@@ -6,7 +6,10 @@
     }
   ],
   "type": "botania:orechid",
-  "input": "minecraft:deepslate",
+  "input": {
+    "type": "block",
+    "block": "minecraft:deepslate"
+  },
   "output": {
     "type": "block",
     "block": "alltheores:deepslate_nickel_ore"

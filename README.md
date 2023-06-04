@@ -4,7 +4,7 @@
 
 # ATC for Minecraft
 
-![Logo](https://media.forgecdn.net/avatars/thumbnails/495/406/64/64/637808747588619650.png)
+![Logo](https://github.com/XxRexRaptorxX/AllTheCompatibility/blob/main/src/main/resources/logo.png?raw=true)
 
 ## 📖 Description
 

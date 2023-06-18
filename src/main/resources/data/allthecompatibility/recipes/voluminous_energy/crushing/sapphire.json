@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:raw_ores/sapphire",
+    "tag": "forge:gems/sapphire",
     "count": 1
   },
   "process_time": 200,

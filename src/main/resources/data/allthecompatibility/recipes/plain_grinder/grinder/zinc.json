@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:raw_ores/zinc"
+    "tag": "forge:raw_materials/zinc"
   },
   "result": {
     "item": "alltheores:zinc_dust",

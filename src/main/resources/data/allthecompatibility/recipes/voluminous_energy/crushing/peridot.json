@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:raw_ores/peridot",
+    "tag": "forge:gems/peridot",
     "count": 1
   },
   "process_time": 200,

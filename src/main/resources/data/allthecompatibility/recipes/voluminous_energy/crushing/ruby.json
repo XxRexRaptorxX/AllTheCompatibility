@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:raw_ores/ruby",
+    "tag": "forge:gems/ruby",
     "count": 1
   },
   "process_time": 200,

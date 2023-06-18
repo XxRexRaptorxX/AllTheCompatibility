@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:raw_ores/tin",
+    "tag": "forge:raw_materials/tin",
     "count": 1
   },
   "process_time": 200,

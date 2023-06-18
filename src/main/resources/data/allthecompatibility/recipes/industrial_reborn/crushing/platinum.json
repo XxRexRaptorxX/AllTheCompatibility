@@ -7,7 +7,7 @@
   ],
   "type": "indreb:crushing",
   "ingredient": {
-    "tag": "forge:raw_ores/platinum",
+    "tag": "forge:raw_materials/platinum",
     "count": 1
   },
   "result": {

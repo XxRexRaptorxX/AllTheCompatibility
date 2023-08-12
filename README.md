@@ -35,6 +35,8 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
    - Grinder 
 - **[Simple Grinder][sg]**
    - Grinder
+- **[Energized Power][ep]**
+  - Compressor, Crusher
   
 -----
 
@@ -54,3 +56,4 @@ All rights reserved.
 [ir]: https://www.curseforge.com/minecraft/mc-mods/industrial-reborn
 [pg]: https://www.curseforge.com/minecraft/mc-mods/plain-grinder
 [sg]: https://www.curseforge.com/minecraft/mc-mods/simple-grinder
+[ep]: https://www.curseforge.com/minecraft/mc-mods/energized-power

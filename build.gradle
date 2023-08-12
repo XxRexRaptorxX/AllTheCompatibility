@@ -142,7 +142,7 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.19.2-43.2.0'
+    minecraft 'net.minecraftforge:forge:1.19.2-43.2.21'
 
     //JEI
     compileOnly fg.deobf("mezz.jei:jei-1.19.2-common-api:${jei_version}")
@@ -157,17 +157,18 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:4046926")
 
     //[optional]
-    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3912956")
+    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:4627288")
     //runtimeOnly fg.deobf("curse.maven:mekanism-268560:3922056")
-    runtimeOnly fg.deobf("curse.maven:indreb-358877:4076608")
+    runtimeOnly fg.deobf("curse.maven:indreb-358877:4651636")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3915901")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3910452")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:4660268")
     runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3939926")
     //runtimeOnly fg.deobf("curse.maven:ic2classic-242942:4102942")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
     runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:1.19.2-5.1.4.1")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.19.2-77")
     runtimeOnly fg.deobf("vazkii.botania:Botania:1.19.2-440-FORGE")
+    implementation fg.deobf("curse.maven:energized-power-782147:4692979")
 }
 
 // Example for how to get properties into the manifest for reading at runtime.

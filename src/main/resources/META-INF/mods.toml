@@ -50,7 +50,7 @@ This mod adds recipe compatibility between AllTheOres and other mods!'''
 [[dependencies.allthecompatibility]]
     modId="indreb"
     mandatory=false
-    versionRange="[1.19,)"
+    versionRange="[1.19.2-0.14.3,)"
     ordering="BEFORE"
     side="BOTH"
 

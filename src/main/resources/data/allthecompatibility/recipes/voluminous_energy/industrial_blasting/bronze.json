@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    }
+  ],
+  "type": "voluminousenergy:industrial_blasting",
+  "ingredient": {
+    "tag": "forge:ingots/copper",
+    "count": 3
+  },
+  "process_time": 200,
+  "second_input": {
+    "tag": "forge:ingots/tin",
+    "count": 1
+  },
+  "result": {
+    "item": "alltheores:bronze_ingot",
+    "count": 4
+  },
+  "minimum_heat_kelvin": 900
+}

@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    }
+  ],
+  "type": "voluminousenergy:industrial_blasting",
+  "ingredient": {
+    "tag": "forge:ingots/gold",
+    "count": 1
+  },
+  "process_time": 200,
+  "second_input": {
+    "tag": "forge:ingots/silver",
+    "count": 1
+  },
+  "result": {
+    "item": "alltheores:electrum_ingot",
+    "count": 2
+  },
+  "minimum_heat_kelvin": 900
+}

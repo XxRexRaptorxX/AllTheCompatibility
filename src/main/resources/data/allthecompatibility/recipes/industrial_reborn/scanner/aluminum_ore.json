@@ -5,15 +5,17 @@
       "modid": "indreb"
     }
   ],
-  "type": "indreb:scanner",
+  "type": "indreb:scanning",
   "duration": 500,
   "experience": 5.0,
-  "item": {
-    "item": "alltheores:aluminum_ore"
-  },
-  "power_cost": 256,
+  "ingredients": [
+    {
+      "item": "alltheores:aluminum_ore"
+    }
+  ],
   "replication": {
     "energy_cost": 16,
     "matter_cost": 140
-  }
+  },
+  "tick_energy_cost": 256
 }

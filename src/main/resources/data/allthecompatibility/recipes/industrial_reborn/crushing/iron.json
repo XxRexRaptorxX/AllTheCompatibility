@@ -6,15 +6,18 @@
     }
   ],
   "type": "indreb:crushing",
-  "ingredient": {
-    "tag": "forge:raw_materials/iron",
-    "count": 1
-  },
-  "result": {
-    "item": "alltheores:iron_dust",
-    "count": 2
-  },
-  "experience": 0.2,
+  "chance_result": [],
   "duration": 180,
-  "power_cost": 8
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "count": 3,
+      "tag": "forge:raw_materials/iridium"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "alltheores:iron_dust"
+  },
+  "tick_energy_cost": 8
 }

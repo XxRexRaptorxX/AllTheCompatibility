@@ -6,15 +6,18 @@
     }
   ],
   "type": "indreb:crushing",
-  "ingredient": {
-    "tag": "forge:raw_ores/nickel",
-    "count": 1
-  },
-  "result": {
-    "item": "alltheores:nickel_dust",
-    "count": 2
-  },
-  "experience": 0.2,
+  "chance_result": [],
   "duration": 180,
-  "power_cost": 8
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "count": 3,
+      "tag": "forge:raw_materials/nickel"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "alltheores:nickel_dust"
+  },
+  "tick_energy_cost": 8
 }

@@ -1,20 +1,15 @@
 {
-  "conditions": [
+  "type": "indreb:crushing",
+  "chance_result": [],
+  "duration": 180,
+  "experience": 2.0,
+  "ingredients": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "indreb"
+      "tag": "forge:gems/peridot"
     }
   ],
-  "type": "indreb:crushing",
-  "ingredient": {
-    "tag": "forge:raw_ores/peridot",
-    "count": 1
-  },
   "result": {
-    "item": "alltheores:peridot_dust",
-    "count": 2
+    "item": "alltheores:peridot_dust"
   },
-  "experience": 0.2,
-  "duration": 180,
-  "power_cost": 8
+  "tick_energy_cost": 8
 }

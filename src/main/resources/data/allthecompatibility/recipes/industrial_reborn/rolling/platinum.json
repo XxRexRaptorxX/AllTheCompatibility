@@ -8,12 +8,13 @@
   "type": "indreb:rolling",
   "duration": 180,
   "experience": 0.5,
-  "ingredient": {
-    "count": 1,
-    "tag": "forge:ingots/platinum"
-  },
-  "power_cost": 8,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/platinum"
+    }
+  ],
   "result": {
     "item": "alltheores:platinum_plate"
-  }
+  },
+  "tick_energy_cost": 8
 }

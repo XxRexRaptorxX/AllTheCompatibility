@@ -6,20 +6,17 @@
     }
   ],
   "type": "indreb:crushing",
-  "ingredient": {
-    "item": "alltheores:silver_ore",
-    "count": 1
-  },
-  "result": {
-    "item": "alltheores:silver_dust",
-    "count": 2
-  },
-  "bonus_result": {
-    "item": "indreb:stone_dust",
-    "count": 1,
-    "chance": 50.0
-  },
-  "experience": 0.2,
+  "chance_result": [],
   "duration": 180,
-  "power_cost": 8
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "tag": "forge:ores/silver"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "alltheores:silver_dust"
+  },
+  "tick_energy_cost": 8
 }

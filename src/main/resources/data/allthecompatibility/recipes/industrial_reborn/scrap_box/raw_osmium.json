@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:scrap_box",
+  "duration": 10,
+  "experience": 0.0,
+  "ingredients": [
+    {
+      "item": "indreb:scrap_box"
+    }
+  ],
+  "result": {
+    "item": "alltheores:raw_osmium"
+  },
+  "tick_energy_cost": 1,
+  "weight": 0.5
+}

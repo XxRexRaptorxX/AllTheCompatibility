@@ -6,15 +6,18 @@
     }
   ],
   "type": "indreb:crushing",
-  "ingredient": {
-    "tag": "forge:raw_materials/zinc",
-    "count": 1
-  },
-  "result": {
-    "item": "alltheores:zinc_dust",
-    "count": 2
-  },
-  "experience": 0.2,
+  "chance_result": [],
   "duration": 180,
-  "power_cost": 8
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "count": 3,
+      "tag": "forge:raw_materials/zinc"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "alltheores:zinc_dust"
+  },
+  "tick_energy_cost": 8
 }

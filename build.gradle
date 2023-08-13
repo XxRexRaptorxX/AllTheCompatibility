@@ -181,16 +181,18 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:4590570")
 
     //[optional]
-    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:4580873")
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:4627288")
+    runtimeOnly fg.deobf("curse.maven:flib-661261:4661080")
     //runtimeOnly fg.deobf("curse.maven:mekanism-268560:3922056")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:4076608")
-    //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3915901")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:4585596")
-    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:4578934")
+    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:4624971")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:4661938")
+    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:4615192")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
     runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:5.2.0-beta.3+1.20.1")
     //runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.19.2-77")
     //runtimeOnly fg.deobf("vazkii.botania:Botania:1.19.2-440-FORGE")
+    runtimeOnly fg.deobf("curse.maven:energized-power-782147:4693008")
 }
 
 // MixinGradle Settings

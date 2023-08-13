@@ -19,23 +19,25 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 
 - **[All the Ores][ato]** *[required]*
   -  ore foundation, additional Smelting & Blasting recipes
-- **[Assembly Line Machines][alm]** 
-   -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper
+- **[Assembly Line Machines][alm]**
+  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper
 - **[Create][create]**
-   - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
+  - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
 - **[Botania][botania]**
-   - Orchid, Ignem Orchid    
+  - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**
-   - Crusher
+  - Crusher
 - **[Voluminous Energy][ve]**
-   - Crusher, Centrifugal Seperation     
+  - Crusher, Centrifugal Seperation
 - **[Industrial Reborn][ir]**
-   - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
+  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
 - **[Plain Grinder][pg]**
-   - Grinder 
+  - Grinder
 - **[Simple Grinder][sg]**
-   - Grinder
-  
+  - Grinder
+- **[Energized Power][ep]**
+  - Compressor
+
 -----
 
 ## 🗒️ License
@@ -54,3 +56,4 @@ All rights reserved.
 [ir]: https://www.curseforge.com/minecraft/mc-mods/industrial-reborn
 [pg]: https://www.curseforge.com/minecraft/mc-mods/plain-grinder
 [sg]: https://www.curseforge.com/minecraft/mc-mods/simple-grinder
+[ep]: https://www.curseforge.com/minecraft/mc-mods/energized-power

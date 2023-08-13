@@ -7,12 +7,12 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:ores/iron",
+    "tag": "forge:ores/uranium",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:iron_dust",
+    "item": "alltheores:uranium_dust",
     "count": 2
   },
   "rng": {

@@ -8,16 +8,16 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:glowstone_dust"
+      "tag": "forge:dusts/glowstone"
     },
     {
-      "item": "minecraft:glowstone_dust"
+      "tag": "forge:dusts/glowstone"
     },
     {
-      "item": "minecraft:glowstone_dust"
+      "tag": "forge:dusts/glowstone"
     },
     {
-      "item": "minecraft:glowstone_dust"
+      "tag": "forge:dusts/glowstone"
     },
     {
       "tag": "forge:ingots/silver"

@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "type": "ad_astra:compressing",
+  "input": {
+    "tag": "forge:ingots/gold"
+  },
+  "output": {
+    "id": "alltheores:gold_plate",
+    "count": 1
+  },
+  "cookTime": 200
+}

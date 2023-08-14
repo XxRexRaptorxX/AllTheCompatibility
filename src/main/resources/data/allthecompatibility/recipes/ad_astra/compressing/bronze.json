@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "type": "ad_astra:compressing",
+  "input": {
+    "tag": "forge:ingots/bronze"
+  },
+  "output": {
+    "id": "alltheores:bronze_plate",
+    "count": 1
+  },
+  "cookTime": 200
+}

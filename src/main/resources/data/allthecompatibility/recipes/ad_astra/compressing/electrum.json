@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "type": "ad_astra:compressing",
+  "input": {
+    "tag": "forge:ingots/electrum"
+  },
+  "output": {
+    "id": "alltheores:electrum_plate",
+    "count": 1
+  },
+  "cookTime": 200
+}

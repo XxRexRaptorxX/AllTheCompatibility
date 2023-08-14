@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "group": "ad_astra",
+  "type": "ad_astra:hammering",
+  "ingredients": [
+    {
+      "item": "ad_astra:hammer"
+    },
+    {
+      "tag": "forge:ingots/invar"
+    }
+  ],
+  "result": {
+    "item": "alltheores:invar_plate",
+    "count": 1
+  }
+}

@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
   "type": "indreb:crushing",
   "chance_result": [],
   "duration": 180,

@@ -178,25 +178,28 @@ dependencies {
 
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:4590570")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:${ato_version}")
 
     //[optional]
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:4627288")
-    runtimeOnly fg.deobf("curse.maven:flib-661261:4661080")
-    //runtimeOnly fg.deobf("curse.maven:mekanism-268560:3922056")
-    //runtimeOnly fg.deobf("curse.maven:indreb-358877:4076608")
-    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:4624971")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:4661938")
-    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:4615192")
-    //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
-    runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:5.2.0-beta.3+1.20.1")
-    //runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.19.2-77")
-    //runtimeOnly fg.deobf("vazkii.botania:Botania:1.19.2-440-FORGE")
-    runtimeOnly fg.deobf("curse.maven:energized-power-782147:4693008")
-    runtimeOnly fg.deobf("curse.maven:botarium-704113:4672475")
-    runtimeOnly fg.deobf("curse.maven:resourceful-lib-570073:4681831")
-    runtimeOnly fg.deobf("curse.maven:resourceful-config-714059:4683092")
-    runtimeOnly fg.deobf("curse.maven:ad-astra-635042:4671593")
+    //implementation fg.deobf("com.simibubi.create:create-${minecraft_version}:${create_version}:slim") { transitive = false }
+    //implementation fg.deobf("com.jozufozu.flywheel:flywheel-forge-${minecraft_version}:${flywheel_version}")
+    //implementation fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
+    runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:${minecraft_version}-${curios_version}")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${minecraft_version}-${patchouli_version}")
+    runtimeOnly fg.deobf("vazkii.botania:Botania:${minecraft_version}-${botania_version}-FORGE")
+
+    runtimeOnly fg.deobf("curse.maven:botarium-704113:${botarium_version}")
+    runtimeOnly fg.deobf("curse.maven:flib-661261:${flib_version}")
+    //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}") error
+    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
+    runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
+    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:${cyclic_version}")
+    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}")
+    implementation fg.deobf("curse.maven:energized-power-782147:${energized_power_version}")
+    implementation fg.deobf("curse.maven:resourceful-lib-570073:${resourceful_lib_version}")
+    implementation fg.deobf("curse.maven:resourceful-config-714059:${resourceful_config_version}")
+    implementation fg.deobf("curse.maven:ad-astra-635042:${ad_astra_version}")
 }
 
 // MixinGradle Settings

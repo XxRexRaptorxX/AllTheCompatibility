@@ -96,9 +96,16 @@ This mod adds recipe compatibility between AllTheOres and other mods!'''
     ordering="BEFORE"
     side="BOTH"
 
-[[dependencies.${mod_id}]]
+[[dependencies.allthecompatibility]]
     modId="energizedpower"
     mandatory=false
-    versionRange="[1.19.2-2.0.0-beta-2,)"
+    versionRange="[1.19.2-2.0.0,)"
+    ordering="BEFORE"
+    side="BOTH"
+
+[[dependencies.allthecompatibility]]
+    modId="ad_astra"
+    mandatory=false
+    versionRange="[1.12.7,)"
     ordering="BEFORE"
     side="BOTH"

@@ -136,15 +136,15 @@ sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 repositories {
     maven {
-        // location of the maven that hosts JEI files
-        name = "Progwml6 maven"
-        url = "https://dvs1.progwml6.com/files/maven/"
+        // location of the maven that hosts JEI files since January 2023
+        name = "Jared's maven"
+        url = "https://maven.blamejared.com/"
     }
 
     maven {
         // location of a maven mirror for JEI files, as a fallback
         name = "ModMaven"
-        url = "https://modmaven.k-4u.nl"
+        url = "https://modmaven.dev"
     }
 
     maven {
@@ -164,6 +164,12 @@ repositories {
             includeGroup "curse.maven"
         }
     }
+
+    maven {
+        // create
+        name = 'tterrag maven'
+        url = 'https://maven.tterrag.com/'
+    }
 }
 
 dependencies {
@@ -172,34 +178,34 @@ dependencies {
     //Mixin AP
     annotationProcessor "org.spongepowered:mixin:${mixin_version}:processor"
     //JEI
-    compileOnly fg.deobf("mezz.jei:jei-${mc_version}-common-api:${jei_version}")
-    compileOnly fg.deobf("mezz.jei:jei-${mc_version}-forge-api:${jei_version}")
-    runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}")
+    compileOnly(fg.deobf("mezz.jei:jei-${mc_version}-common-api:${jei_version}"))
+    compileOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge-api:${jei_version}"))
+    runtimeOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}"))
 
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:${ato_version}")
 
     //[optional]
-    //implementation fg.deobf("com.simibubi.create:create-${minecraft_version}:${create_version}:slim") { transitive = false }
-    //implementation fg.deobf("com.jozufozu.flywheel:flywheel-forge-${minecraft_version}:${flywheel_version}")
-    //implementation fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
-    runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:${minecraft_version}-${curios_version}")
-    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${minecraft_version}-${patchouli_version}")
-    runtimeOnly fg.deobf("vazkii.botania:Botania:${minecraft_version}-${botania_version}-FORGE")
+    runtimeOnly fg.deobf("com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
+    runtimeOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-1.20:${flywheel_version}")
+    runtimeOnly fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
+    //compileOnly fg.deobf("vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}:api")
+    //runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}")
+    //runtimeOnly fg.deobf("vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE")
 
-    runtimeOnly fg.deobf("curse.maven:botarium-704113:${botarium_version}")
     runtimeOnly fg.deobf("curse.maven:flib-661261:${flib_version}")
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}") error
-    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
-    runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
+    //runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:${cyclic_version}")
     runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}")
-    implementation fg.deobf("curse.maven:energized-power-782147:${energized_power_version}")
-    implementation fg.deobf("curse.maven:resourceful-lib-570073:${resourceful_lib_version}")
-    implementation fg.deobf("curse.maven:resourceful-config-714059:${resourceful_config_version}")
-    implementation fg.deobf("curse.maven:ad-astra-635042:${ad_astra_version}")
+    runtimeOnly fg.deobf("curse.maven:energized-power-782147:${energized_power_version}")
+    runtimeOnly fg.deobf("curse.maven:botarium-704113:${botarium_version}")
+    runtimeOnly fg.deobf("curse.maven:resourceful-lib-570073:${resourceful_lib_version}")
+    runtimeOnly fg.deobf("curse.maven:resourceful-config-714059:${resourceful_config_version}")
+    runtimeOnly fg.deobf("curse.maven:ad-astra-635042:${ad_astra_version}")
 }
 
 // MixinGradle Settings

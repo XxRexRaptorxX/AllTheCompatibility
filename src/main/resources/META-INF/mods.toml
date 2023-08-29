@@ -109,3 +109,10 @@ This mod adds recipe compatibility between AllTheOres and other mods!'''
     versionRange="[1.12.7,)"
     ordering="BEFORE"
     side="BOTH"
+
+[[dependencies.allthecompatibility]]
+    modId="ftbic"
+    mandatory=false
+    versionRange="[1900.1.7-build.221,)"
+    ordering="BEFORE"
+    side="BOTH"

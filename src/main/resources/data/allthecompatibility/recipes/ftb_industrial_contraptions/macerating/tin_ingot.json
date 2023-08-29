@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:ingots/tin"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:tin_dust"
+    }
+  ]
+}

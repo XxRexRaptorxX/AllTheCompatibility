@@ -10,14 +10,13 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "forge:ores/"
+        "tag": "forge:ingots/aluminum"
       }
     }
   ],
   "outputItems": [
     {
-      "count": 2,
-      "item": "alltheores:_dust"
+      "item": "alltheores:aluminum_dust"
     }
   ]
 }

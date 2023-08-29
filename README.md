@@ -23,14 +23,16 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
    -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper
 - **[Create][create]**
    - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
-- **[Botania][botania]**
-   - Orchid, Ignem Orchid    
-- **[Cyclic][cyclic]**
-   - Crusher
+- **[FTB Industrial Contraptions][ic]**
+   - Macerator, Extruder, Rolling Machine, Centrifuge
 - **[Voluminous Energy][ve]**
    - Crusher, Centrifugal Seperation, Implosion Compresser, Industrial Blast Furnace
 - **[Industrial Reborn][ir]**
    - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
+- **[Botania][botania]**
+   - Orchid, Ignem Orchid
+- **[Cyclic][cyclic]**
+  - Crusher
 - **[Plain Grinder][pg]**
    - Grinder 
 - **[Simple Grinder][sg]**
@@ -60,3 +62,4 @@ All rights reserved.
 [sg]: https://www.curseforge.com/minecraft/mc-mods/simple-grinder
 [ep]: https://www.curseforge.com/minecraft/mc-mods/energized-power
 [aa]: https://www.curseforge.com/minecraft/mc-mods/ad-astra
+[ic]: https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge

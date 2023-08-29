@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
-    "item": "alltheores:constantan_dust",
+    "tag": "forge:dusts/constantan",
     "count": 2
   },
   "process_time": 200,

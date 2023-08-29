@@ -16,8 +16,12 @@
     "count": 2
   },
   "rng": {
-    "item": "alltheores:dirty_zinc_dust",
-    "count": 1,
-    "chance": 0.25
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "experience": {
+    "minimum": 1,
+    "maximum": 3
   }
 }

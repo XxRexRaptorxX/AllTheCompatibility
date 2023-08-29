@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
-    "item": "alltheores:invar_dust",
+    "tag": "forge:dusts/invar",
     "count": 3
   },
   "process_time": 200,

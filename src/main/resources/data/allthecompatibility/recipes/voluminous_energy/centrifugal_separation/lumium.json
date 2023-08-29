@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
-    "item": "alltheores:lumium_dust",
+    "tag": "forge:dusts/lumium",
     "count": 4
   },
   "process_time": 200,

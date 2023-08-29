@@ -13,11 +13,15 @@
   "process_time": 200,
   "result": {
     "item": "alltheores:gold_dust",
-    "count": 1
+    "count": 2
   },
   "rng": {
-    "item": "voluminousenergy:quartz_dust",
-    "count": 1,
-    "chance": 0.25
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "experience": {
+    "minimum": 1,
+    "maximum": 3
   }
 }

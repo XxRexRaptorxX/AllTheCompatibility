@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:ingots/silver"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:silver_dust"
+    },
+    "percentages": [ 1.0 ]
+  }
+}

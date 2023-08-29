@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:ores/uranium"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:uranium_dust"
+    },
+    "percentages": [ 1.0, 1.0, 0.25 ]
+  }
+}

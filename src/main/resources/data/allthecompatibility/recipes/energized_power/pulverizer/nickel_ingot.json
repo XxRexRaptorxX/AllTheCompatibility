@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:ingots/nickel"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:nickel_dust"
+    },
+    "percentages": [ 1.0 ]
+  }
+}

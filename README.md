@@ -28,7 +28,7 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 - **[Cyclic][cyclic]**
    - Crusher
 - **[Voluminous Energy][ve]**
-   - Crusher, Centrifugal Seperation     
+   - Crusher, Centrifugal Seperation, Implosion Compresser, Industrial Blast Furnace
 - **[Industrial Reborn][ir]**
    - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
 - **[Plain Grinder][pg]**
@@ -36,7 +36,7 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 - **[Simple Grinder][sg]**
    - Grinder
 - **[Energized Power][ep]**
-  - Compressor
+  - Pulverizer, Compressor
 - **[Ad Astra][aa]**
   - Compressor, Hammer
   

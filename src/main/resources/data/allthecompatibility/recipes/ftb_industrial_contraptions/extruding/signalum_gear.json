@@ -10,13 +10,13 @@
     {
       "count": 4,
       "ingredient": {
-        "tag": "forge:plates/"
+        "tag": "forge:plates/signalum"
       }
     }
   ],
   "outputItems": [
     {
-      "item": "alltheores:_gear"
+      "item": "alltheores:signalum_gear"
     }
   ]
 }

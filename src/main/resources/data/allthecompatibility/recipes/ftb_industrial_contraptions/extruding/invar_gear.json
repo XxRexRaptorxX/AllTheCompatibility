@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:extruding",
+  "inputItems": [
+    {
+      "count": 4,
+      "ingredient": {
+        "tag": "forge:plates/invar"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:invar_gear"
+    }
+  ]
+}

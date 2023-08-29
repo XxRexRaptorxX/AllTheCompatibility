@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:rolling",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:gems/diamond"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:diamond_plate"
+    }
+  ]
+}

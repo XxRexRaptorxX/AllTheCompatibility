@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:raw_materials/tin"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:tin_dust"
+    },
+    {
+      "chance": 0.35,
+      "item": "alltheores:tin_dust"
+    }
+  ]
+}

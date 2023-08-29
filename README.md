@@ -23,12 +23,12 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
    -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper
 - **[Create][create]**
    - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
-- **[FTB Industrial Contraptions][ic]**
-   - Macerator, Extruder, Rolling Machine, Centrifuge
 - **[Voluminous Energy][ve]**
    - Crusher, Centrifugal Seperation, Implosion Compresser, Industrial Blast Furnace
 - **[Industrial Reborn][ir]**
    - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
+- **[FTB Industrial Contraptions][ic]**
+   - Macerator, Extruder, Rolling Machine
 - **[Botania][botania]**
    - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**

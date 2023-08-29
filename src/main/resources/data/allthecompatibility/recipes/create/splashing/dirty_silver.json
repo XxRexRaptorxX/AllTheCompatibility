@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "alltheores:dirty_silver_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:silver_dust"
+    }
+  ]
+}

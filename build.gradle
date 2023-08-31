@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.9.0'
+version = "${mod_version}"
 group = 'xxrexraptorxx.main.ATC' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'allthecompatibility'
 
@@ -22,18 +22,8 @@ java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 minecraft {
-    // The mappings can be changed at any time and must be in the following format.
-    // Channel:   Version:
-    // snapshot   YYYYMMDD   Snapshot are built nightly.
-    // stable     #          Stables are built at the discretion of the MCP team.
-    // official   MCVersion  Official field/method names from Mojang mapping files
-    //
-    // You must be aware of the Mojang license when using the 'official' mappings.
-    // See more information here: https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
-    //
-    // Use non-default mappings at your own risk. They may not always work.
-    // Simply re-run your setup task after changing the mappings to update your workspace.
-    mappings channel: 'official', version: '1.18.2'
+
+    mappings channel: 'official', version: "${mc_version}"
 
     // accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg') // Currently, this location cannot be changed from the default.
 
@@ -41,6 +31,10 @@ minecraft {
     // These can be tweaked, removed, or duplicated as needed.
     runs {
         client {
+            //botania
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+
             workingDirectory project.file('run')
 
             // Recommended logging data for a userdev environment
@@ -116,14 +110,14 @@ sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 repositories {
     maven {
-        // location of the maven that hosts JEI files
-        name = "Progwml6 maven"
-        url = "https://dvs1.progwml6.com/files/maven/"
+        // location of the maven that hosts JEI files since January 2023
+        name = "Jared's maven"
+        url = "https://maven.blamejared.com/"
     }
     maven {
         // location of a maven mirror for JEI files, as a fallback
         name = "ModMaven"
-        url = "https://modmaven.k-4u.nl"
+        url = "https://modmaven.dev"
     }
     maven {
         // location of the maven of flywheel
@@ -133,32 +127,57 @@ repositories {
     maven {
         // location of the cursemaven
         url 'https://www.cursemaven.com'
-         content {
-             includeGroup "curse.maven"
-         }
+        content {
+            includeGroup "curse.maven"
+        }
+    }
+    maven {
+        // location of the curios maven
+        url = "https://maven.theillusivec4.top/"
+    }
+    maven {
+        // location of the botania maven
+        url 'https://maven.blamejared.com'
+    }
+    maven {
+        // create
+        name = 'tterrag maven'
+        url = 'https://maven.tterrag.com/'
     }
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18.2-40.1.21'
+    minecraft "net.minecraftforge:forge:${mc_version}-${forge_version}"
 
     //JEI
-    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.0.180:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.0.180")
+    compileOnly(fg.deobf("mezz.jei:jei-${mc_version}-common-api:${jei_version}"))
+    compileOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge-api:${jei_version}"))
+    runtimeOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}"))
 
     //dependencies
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly fg.deobf("curse.maven:alltheores-405593:3801220")
+    runtimeOnly fg.deobf("curse.maven:alltheores-405593:${ato_version}")
 
     //[optional]
-    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:3776723")
-    runtimeOnly fg.deobf("curse.maven:mekanism-268560:3743835")
-    //runtimeOnly fg.deobf("curse.maven:indreb-358877:3595152")
-    //runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:3653027")
-    runtimeOnly fg.deobf("curse.maven:cyclic-239286:3777095")
-    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:3674337")
-    //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:3769864") error
+    runtimeOnly fg.deobf("com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
+    runtimeOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-${mc_version}:${flywheel_version}")
+    runtimeOnly fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
+    runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:${mc_version}-${curios_version}")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}")
+    runtimeOnly fg.deobf("vazkii.botania:Botania:${mc_version}-${botania_version}")
+
+    runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}")
+    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
+    runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
+    runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
+    runtimeOnly fg.deobf("curse.maven:cyclic-239286:${cyclic_version}")
+    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}")
+    runtimeOnly fg.deobf("curse.maven:energized-power-782147:${energized_power_version}")
+    runtimeOnly fg.deobf("curse.maven:ftb-library-forge-404465:${ftb_lib_version}")
+    runtimeOnly fg.deobf("curse.maven:architectury-api-419699:${architectury_version}")
+    runtimeOnly fg.deobf("curse.maven:ftb-industrial-contraption-539097:${industrial_contraption_version}")
+
 }
 
 // Example for how to get properties into the manifest for reading at runtime.

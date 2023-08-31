@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:ores/platinum"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "count": 2,
+      "item": "alltheores:platinum_dust"
+    }
+  ]
+}

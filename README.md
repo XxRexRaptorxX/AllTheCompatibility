@@ -20,23 +20,25 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 - **[All the Ores][ato]** *[required]*
   -  ore foundation, additional Smelting & Blasting recipes
 - **[Assembly Line Machines][alm]**
-  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper
+  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper, Pneunmatic
 - **[Create][create]**
   - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
+- **[Voluminous Energy][ve]**
+  - Crusher, Centrifugal Seperation, Implosion Compresser, Industrial Blast Furnace
+- **[Industrial Reborn][ir]**
+  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
+- **[FTB Industrial Contraptions][ic]**
+  - Macerator, Extruder, Rolling Machine
 - **[Botania][botania]**
   - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**
   - Crusher
-- **[Voluminous Energy][ve]**
-  - Crusher, Centrifugal Seperation
-- **[Industrial Reborn][ir]**
-  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
 - **[Plain Grinder][pg]**
   - Grinder
 - **[Simple Grinder][sg]**
   - Grinder
 - **[Energized Power][ep]**
-  - Compressor
+  - Pulverizer, Compressor
 - **[Ad Astra][aa]**
   - Compressor, Hammer
 
@@ -60,3 +62,4 @@ All rights reserved.
 [sg]: https://www.curseforge.com/minecraft/mc-mods/simple-grinder
 [ep]: https://www.curseforge.com/minecraft/mc-mods/energized-power
 [aa]: https://www.curseforge.com/minecraft/mc-mods/ad-astra
+[ic]: https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge

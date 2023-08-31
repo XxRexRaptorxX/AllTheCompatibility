@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_materials/iridium"
+    "tag": "forge:raw_ores/iridium"
   },
   "output":{
     "item": "alltheores:iridium_dust"

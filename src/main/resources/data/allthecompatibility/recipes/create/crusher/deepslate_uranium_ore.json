@@ -11,22 +11,23 @@
       "item": "alltheores:deepslate_uranium_ore"
     }
   ],
+  "processingTime": 350,
   "results": [
     {
-      "item": "create:crushed_uranium_ore"
+      "count": 7,
+      "item": "alltheores:uranium_dust"
     },
     {
-      "item": "create:crushed_uranium_ore",
-      "chance": 0.75
+      "chance": 0.25,
+      "item": "alltheores:uranium_dust"
     },
     {
-      "item": "create:experience_nugget",
-      "chance": 0.75
+      "chance": 0.75,
+      "item": "create:experience_nugget"
     },
     {
-      "item": "minecraft:cobbled_deepslate",
-      "chance": 0.125
+      "chance": 0.125,
+      "item": "minecraft:cobbled_deepslate"
     }
-  ],
-  "processingTime": 250
+  ]
 }

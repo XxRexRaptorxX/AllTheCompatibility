@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:gems/ruby"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:ruby_dust"
+    }
+  ]
+}

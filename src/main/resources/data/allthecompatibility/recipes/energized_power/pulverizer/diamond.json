@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:gems/diamond"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:diamond_dust"
+    },
+    "percentages": [ 1.0 ]
+  }
+}

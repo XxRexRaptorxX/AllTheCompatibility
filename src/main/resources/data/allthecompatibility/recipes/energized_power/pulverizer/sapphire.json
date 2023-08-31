@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:gems/sapphire"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:sapphire_dust"
+    },
+    "percentages": [ 1.0 ]
+  }
+}

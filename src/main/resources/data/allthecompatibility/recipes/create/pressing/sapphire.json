@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:gems/sapphire"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:sapphire_plate"
+    }
+  ]
+}

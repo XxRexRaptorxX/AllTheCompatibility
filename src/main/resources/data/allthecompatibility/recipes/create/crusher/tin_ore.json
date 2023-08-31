@@ -11,22 +11,23 @@
       "item": "alltheores:tin_ore"
     }
   ],
+  "processingTime": 250,
   "results": [
     {
-      "item": "create:crushed_tin_ore"
+      "count": 5,
+      "item": "alltheores:tin_dust"
     },
     {
-      "item": "create:crushed_tin_ore",
-      "chance": 0.75
+      "chance": 0.25,
+      "item": "alltheores:tin_dust"
     },
     {
-      "item": "create:experience_nugget",
-      "chance": 0.75
+      "chance": 0.75,
+      "item": "create:experience_nugget"
     },
     {
-      "item": "minecraft:cobblestone",
-      "chance": 0.125
+      "chance": 0.125,
+      "item": "minecraft:cobblestone"
     }
-  ],
-  "processingTime": 250
+  ]
 }

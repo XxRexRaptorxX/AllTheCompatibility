@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_materials/silver"
+    "tag": "forge:raw_ores/silver"
   },
   "output":{
     "item": "alltheores:silver_dust"

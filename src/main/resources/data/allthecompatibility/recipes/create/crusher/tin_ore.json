@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:_ore"
+      "item": "alltheores:tin_ore"
     }
   ],
   "processingTime": 250,

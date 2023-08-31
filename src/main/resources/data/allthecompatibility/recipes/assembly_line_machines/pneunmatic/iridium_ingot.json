@@ -12,10 +12,6 @@
     {
       "type": "forge:mod_loaded",
       "modid": "assemblylinemachines"
-    },
-    {
-      "configOption": "compressorNuggetIMC",
-      "type": "assemblylinemachines:config"
     }
   ]
 }

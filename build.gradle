@@ -168,7 +168,7 @@ dependencies {
     runtimeOnly fg.deobf("vazkii.botania:Botania:${mc_version}-${botania_version}")
 
     runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}")
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
+    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}") crusher error
     runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:${cyclic_version}")

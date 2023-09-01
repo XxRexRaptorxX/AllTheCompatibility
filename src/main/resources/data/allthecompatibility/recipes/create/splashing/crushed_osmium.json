@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_osmium"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:osmium_nugget",
+      "count": 9
+    }
+  ]
+}

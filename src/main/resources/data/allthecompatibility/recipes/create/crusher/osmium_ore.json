@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_osmium_ore"
+      "item": "alltheores:osmium_dust"
     },
     {
-      "item": "create:crushed_osmium_ore",
+      "item": "alltheores:osmium_dust",
       "chance": 0.75
     },
     {

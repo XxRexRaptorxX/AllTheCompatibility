@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_zinc_ore"
+      "item": "alltheores:zinc_dust"
     },
     {
-      "item": "create:crushed_zinc_ore",
+      "item": "create:zinc_dust",
       "chance": 0.75
     },
     {

@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_iridium_ore"
+      "item": "alltheores:iridium_dust"
     },
     {
-      "item": "create:crushed_iridium_ore",
+      "item": "alltheores:iridium_dust",
       "chance": 0.75
     },
     {

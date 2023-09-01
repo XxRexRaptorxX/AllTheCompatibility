@@ -13,10 +13,6 @@
     {
       "type": "forge:mod_loaded",
       "modid": "assemblylinemachines"
-    },
-    {
-      "configOption": "compressorGearIMC",
-      "type": "assemblylinemachines:config"
     }
   ]
 }

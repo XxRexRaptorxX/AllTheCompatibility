@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_lead_ore"
+      "item": "alltheores:lead_dust"
     },
     {
-      "item": "create:crushed_lead_ore",
+      "item": "alltheores:lead_dust",
       "chance": 0.75
     },
     {

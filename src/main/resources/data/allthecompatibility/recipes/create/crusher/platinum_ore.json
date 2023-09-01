@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_platinum_ore"
+      "item": "alltheores:platinum_dust"
     },
     {
-      "item": "create:crushed_platinum_ore",
+      "item": "alltheores:platinum_dust",
       "chance": 0.75
     },
     {

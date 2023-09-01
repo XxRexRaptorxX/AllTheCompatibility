@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_uranium_ore"
+      "item": "alltheores:uranium_dust"
     },
     {
-      "item": "create:crushed_uranium_ore",
+      "item": "alltheores:uranium_dust",
       "chance": 0.75
     },
     {

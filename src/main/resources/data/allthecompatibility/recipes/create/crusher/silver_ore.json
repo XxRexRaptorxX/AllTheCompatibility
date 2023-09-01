@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_silver_ore"
+      "item": "alltheores:silver_dust"
     },
     {
-      "item": "create:crushed_silver_ore",
+      "item": "alltheores:silver_dust",
       "chance": 0.75
     },
     {

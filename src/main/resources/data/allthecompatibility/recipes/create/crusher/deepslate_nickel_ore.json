@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_nickel_ore"
+      "item": "alltheores:nickel_dust"
     },
     {
-      "item": "create:crushed_nickel_ore",
+      "item": "alltheores:nickel_dust",
       "chance": 0.75
     },
     {

@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_aluminum_ore"
+      "item": "alltheores:aluminum_dust"
     },
     {
-      "item": "create:crushed_aluminum_ore",
+      "item": "alltheores:aluminum_dust",
       "chance": 0.75
     },
     {

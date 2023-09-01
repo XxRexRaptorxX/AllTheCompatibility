@@ -13,10 +13,10 @@
   ],
   "results": [
     {
-      "item": "create:crushed_tin_ore"
+      "item": "alltheores:tin_dust"
     },
     {
-      "item": "create:crushed_tin_ore",
+      "item": "alltheores:tin_dust",
       "chance": 0.75
     },
     {

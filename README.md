@@ -38,7 +38,7 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 - **[Simple Grinder][sg]**
    - Grinder
 - **[Energized Power][ep]**
-  - Pulverizer, Compressor
+  - Pulverizer, Compressor, Metal Press
 - **[Ad Astra][aa]**
   - Compressor, Hammer
   

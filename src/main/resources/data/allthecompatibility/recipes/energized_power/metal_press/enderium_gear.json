@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:metal_press",
+  "ingredient": [
+    {
+      "tag": "forge:plates/enderium"
+    }
+  ],
+  "inputCount": 2,
+  "pressMold": {
+    "item": "energizedpower:gear_press_mold"
+  },
+  "output": {
+    "item": "alltheores:enderium_gear"
+  }
+}

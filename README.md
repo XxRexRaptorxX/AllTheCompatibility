@@ -29,6 +29,8 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
   - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
 - **[FTB Industrial Contraptions][ic]**
   - Macerator, Extruder, Rolling Machine
+- **[Energized Power][ep]**
+  - Pulverizer, Compressor, Metal Press
 - **[Botania][botania]**
   - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**
@@ -37,8 +39,6 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
   - Grinder
 - **[Simple Grinder][sg]**
   - Grinder
-- **[Energized Power][ep]**
-  - Pulverizer, Compressor
 - **[Ad Astra][aa]**
   - Compressor, Hammer
 

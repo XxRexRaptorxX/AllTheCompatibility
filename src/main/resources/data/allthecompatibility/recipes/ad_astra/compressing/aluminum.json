@@ -6,7 +6,7 @@
     }
   ],
   "type": "ad_astra:compressing",
-  "ingredients": {
+  "ingredient": {
     "tag": "forge:ingots/aluminum"
   },
   "result": {

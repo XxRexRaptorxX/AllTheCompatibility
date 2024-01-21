@@ -6,12 +6,13 @@
     }
   ],
   "type": "ad_astra:compressing",
-  "input": {
+  "ingredient": {
     "tag": "forge:ingots/tin"
   },
-  "output": {
+  "result": {
     "id": "alltheores:tin_plate",
     "count": 1
   },
-  "cookTime": 200
+  "cookingtime": 200,
+  "energy": 20
 }

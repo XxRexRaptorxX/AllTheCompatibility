@@ -106,6 +106,6 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="ad_astra"
     mandatory=false
-    versionRange="[1.15.3,)"
+    versionRange="[1.15.7,)"
     ordering="BEFORE"
     side="BOTH"

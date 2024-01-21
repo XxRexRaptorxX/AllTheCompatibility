@@ -6,12 +6,13 @@
     }
   ],
   "type": "ad_astra:compressing",
-  "input": {
+  "ingredient": {
     "tag": "forge:gems/diamond"
   },
-  "output": {
+  "result": {
     "id": "alltheores:diamond_plate",
     "count": 1
   },
-  "cookTime": 200
+  "cookingtime": 200,
+  "energy": 20
 }

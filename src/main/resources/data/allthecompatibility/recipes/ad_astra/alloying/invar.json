@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "type": "ad_astra:alloying",
+  "cookingtime": 100,
+  "energy": 20,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/nickel"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "alltheores:invar_ingot"
+  }
+}

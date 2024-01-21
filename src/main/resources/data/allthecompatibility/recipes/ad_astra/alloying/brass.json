@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "type": "ad_astra:alloying",
+  "cookingtime": 100,
+  "energy": 20,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/zinc"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "alltheores:brass_ingot"
+  }
+}

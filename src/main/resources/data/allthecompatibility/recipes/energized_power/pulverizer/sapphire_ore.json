@@ -11,8 +11,9 @@
   },
   "output": {
     "output": {
-      "item": "alltheores:sapphire_dust"
+      "item": "alltheores:sapphire"
     },
-    "percentages": [ 1.0, 1.0, 0.25 ]
+    "percentages": [ 1.0, 0.67, 0.17 ],
+    "percentagesAdvanced": [ 1.0, 0.67, 0.33, 0.17 ]
   }
 }

@@ -13,7 +13,6 @@ public class Config {
 
     public static ModConfigSpec.BooleanValue UPDATE_CHECKER;
     public static ModConfigSpec.BooleanValue PATREON_REWARDS;
-    public static ModConfigSpec.BooleanValue CONSOLE_MISSING_RECIPES_FILTER;
 
 
     public static void init(ModContainer container) {
@@ -41,7 +40,6 @@ public class Config {
 
         builder.comment("General").push(CATEGORY_GENERAL);
         PATREON_REWARDS = builder.comment("Enables ingame rewards on first spawn for Patreons").define("patreon_rewards", true);
-        CONSOLE_MISSING_RECIPES_FILTER = builder.comment("Activate it if you want to remove the error messages of missing recipe categories of not installed mods from the server console").define("console_missing_recipes_filter", false);
         builder.pop();
 
         SERVER_CONFIG = builder.build();

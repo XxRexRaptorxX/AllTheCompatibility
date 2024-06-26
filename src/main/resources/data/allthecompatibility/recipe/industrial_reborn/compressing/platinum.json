@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/platinum"
+      "tag": "c:ingots/platinum"
     }
   ],
   "result": {

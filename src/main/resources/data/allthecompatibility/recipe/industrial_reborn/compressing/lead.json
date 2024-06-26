@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/lead"
+      "tag": "c:ingots/lead"
     }
   ],
   "result": {

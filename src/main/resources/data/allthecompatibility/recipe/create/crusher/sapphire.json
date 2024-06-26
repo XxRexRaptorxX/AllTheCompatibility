@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "forge:gems/sapphire"
+      "tag": "c:gems/sapphire"
     }
   ],
   "results": [

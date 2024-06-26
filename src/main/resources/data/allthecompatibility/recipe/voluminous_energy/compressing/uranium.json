@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/uranium",
+    "tag": "c:ingots/uranium",
     "count": 1
   },
   "process_time": 200,

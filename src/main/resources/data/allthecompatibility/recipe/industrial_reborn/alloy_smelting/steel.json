@@ -8,7 +8,7 @@
   "type": "indreb:alloy_smelting",
   "ingredients": [
     {
-      "tag": "forge:ingots/iron",
+      "tag": "c:ingots/iron",
       "count": 1
     },
     {

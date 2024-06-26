@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:ores/nickel"
+    "tag": "c:ores/nickel"
   },
 
   "result": {

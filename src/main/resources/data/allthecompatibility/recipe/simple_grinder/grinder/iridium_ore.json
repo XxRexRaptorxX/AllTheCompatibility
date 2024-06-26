@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:ores/iridium"
+    "tag": "c:ores/iridium"
   },
 
   "result": {

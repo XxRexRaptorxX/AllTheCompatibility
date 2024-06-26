@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_ores/peridot"
+    "tag": "c:raw_ores/peridot"
   },
   "output":{
     "item": "alltheores:peridot_dust"

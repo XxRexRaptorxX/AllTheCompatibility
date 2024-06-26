@@ -8,7 +8,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "forge:dusts/lead"
+      "tag": "c:dusts/lead"
     }
   ],
   "results": [

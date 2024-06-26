@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:ores/sapphire"
+    "tag": "c:ores/sapphire"
   },
 
   "result": {

@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:compressor",
   "ingredient": {
-    "tag": "forge:ingots/electrum"
+    "tag": "c:ingots/electrum"
   },
   "output": {
     "item": "alltheores:electrum_plate"

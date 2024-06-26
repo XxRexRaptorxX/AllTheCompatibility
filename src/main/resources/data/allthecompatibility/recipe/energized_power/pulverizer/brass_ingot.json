@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:pulverizer",
   "ingredient": {
-    "tag": "forge:ingots/brass"
+    "tag": "c:ingots/brass"
   },
   "output": {
     "output": {

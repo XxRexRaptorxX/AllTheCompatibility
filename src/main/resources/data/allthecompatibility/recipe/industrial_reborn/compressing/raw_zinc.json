@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:raw_materials/zinc"
+      "tag": "c:raw_materials/zinc"
     }
   ],
   "result": {

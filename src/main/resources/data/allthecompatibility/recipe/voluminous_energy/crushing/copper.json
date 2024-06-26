@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:raw_materials/copper",
+    "tag": "c:raw_materials/copper",
     "count": 1
   },
   "process_time": 200,

@@ -11,7 +11,7 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "tag": "forge:gems/peridot"
+      "tag": "c:gems/peridot"
     }
   ],
   "result": {

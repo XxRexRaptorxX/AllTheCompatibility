@@ -8,7 +8,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "forge:dusts/brass"
+      "tag": "c:dusts/brass"
     }
   ],
   "results": [

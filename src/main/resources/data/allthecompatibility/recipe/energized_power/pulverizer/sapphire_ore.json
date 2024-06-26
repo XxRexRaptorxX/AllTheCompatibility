@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:pulverizer",
   "ingredient": {
-    "tag": "forge:ores/sapphire"
+    "tag": "c:ores/sapphire"
   },
   "output": {
     "output": {

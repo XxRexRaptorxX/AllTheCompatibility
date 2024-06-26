@@ -8,11 +8,11 @@
   "type": "indreb:alloy_smelting",
   "ingredients": [
     {
-      "tag": "forge:ingots/lead",
+      "tag": "c:ingots/lead",
       "count": 3
     },
     {
-      "tag": "forge:ingots/platinum",
+      "tag": "c:ingots/platinum",
       "count": 1
     },
     {

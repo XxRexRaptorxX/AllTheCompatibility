@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:ores/platinum"
+    "tag": "c:ores/platinum"
   },
   "result": {
     "item": "alltheores:platinum_dust",

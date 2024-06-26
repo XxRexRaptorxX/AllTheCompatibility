@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:gems/sapphire"
+    "tag": "c:gems/sapphire"
   },
 
   "result": {

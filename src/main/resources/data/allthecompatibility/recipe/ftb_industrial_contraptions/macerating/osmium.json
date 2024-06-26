@@ -10,7 +10,7 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "forge:raw_materials/osmium"
+        "tag": "c:raw_materials/osmium"
       }
     }
   ],

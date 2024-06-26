@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/iridium"
+      "tag": "c:ingots/iridium"
     }
   ],
   "result": {

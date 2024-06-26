@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ingots/peridot"
+    "tag": "c:ingots/peridot"
   },
   "output":{
     "item": "alltheores:peridot_dust"

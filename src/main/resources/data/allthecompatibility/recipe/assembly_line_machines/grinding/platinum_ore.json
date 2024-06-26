@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/platinum"
+    "tag": "c:ores/platinum"
   },
   "output":{
     "item": "alltheores:platinum_dust",

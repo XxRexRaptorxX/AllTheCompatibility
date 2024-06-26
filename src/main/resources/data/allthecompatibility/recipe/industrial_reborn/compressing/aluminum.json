@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/aluminum"
+      "tag": "c:ingots/aluminum"
     }
   ],
   "result": {

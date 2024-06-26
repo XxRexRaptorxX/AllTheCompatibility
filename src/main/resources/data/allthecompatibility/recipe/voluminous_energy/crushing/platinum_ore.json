@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:ores/platinum",
+    "tag": "c:ores/platinum",
     "count": 1
   },
   "process_time": 200,

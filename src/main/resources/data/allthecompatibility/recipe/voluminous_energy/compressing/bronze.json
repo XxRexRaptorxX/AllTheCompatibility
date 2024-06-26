@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/bronze",
+    "tag": "c:ingots/bronze",
     "count": 1
   },
   "process_time": 200,

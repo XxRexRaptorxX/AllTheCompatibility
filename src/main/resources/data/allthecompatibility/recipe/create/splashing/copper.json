@@ -8,7 +8,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "forge:dusts/copper"
+      "tag": "c:dusts/copper"
     }
   ],
   "results": [

@@ -10,7 +10,7 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "forge:ingots/copper"
+        "tag": "c:ingots/copper"
       }
     }
   ],

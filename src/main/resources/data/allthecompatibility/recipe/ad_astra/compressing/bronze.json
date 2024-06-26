@@ -7,7 +7,7 @@
   ],
   "type": "ad_astra:compressing",
   "ingredient": {
-    "tag": "forge:ingots/bronze"
+    "tag": "c:ingots/bronze"
   },
   "result": {
     "id": "alltheores:bronze_plate",

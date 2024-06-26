@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:ores/iron"
+    "tag": "c:ores/iron"
   },
   "result": {
     "item": "alltheores:iron_dust",

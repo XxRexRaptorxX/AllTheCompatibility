@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:ores/copper",
+    "tag": "c:ores/copper",
     "count": 1
   },
   "process_time": 200,

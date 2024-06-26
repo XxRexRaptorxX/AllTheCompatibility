@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/constantan",
+    "tag": "c:ingots/constantan",
     "count": 1
   },
   "process_time": 200,

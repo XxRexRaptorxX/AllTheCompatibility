@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:ores/gold",
+    "tag": "c:ores/gold",
     "count": 1
   },
   "process_time": 200,

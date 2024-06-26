@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:pulverizer",
   "ingredient": {
-    "tag": "forge:ingots/zinc"
+    "tag": "c:ingots/zinc"
   },
   "output": {
     "output": {

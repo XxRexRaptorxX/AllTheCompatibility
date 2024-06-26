@@ -10,7 +10,7 @@
   "experience": 0.5,
   "ingredients": [
     {
-      "tag": "forge:ingots/iridium"
+      "tag": "c:ingots/iridium"
     }
   ],
   "result": {

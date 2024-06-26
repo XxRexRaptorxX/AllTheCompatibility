@@ -8,7 +8,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "forge:dusts/steel"
+      "tag": "c:dusts/steel"
     }
   ],
   "results": [

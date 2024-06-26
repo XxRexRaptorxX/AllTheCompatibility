@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/electrum"
+      "tag": "c:ingots/electrum"
     }
   ],
   "result": {

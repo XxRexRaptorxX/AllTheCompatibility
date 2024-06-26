@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:storage_blocks/raw_platinum",
+    "tag": "c:storage_blocks/raw_platinum",
     "count": 1
   },
   "process_time": 200,

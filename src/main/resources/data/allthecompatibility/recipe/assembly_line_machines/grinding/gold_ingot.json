@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ingots/gold"
+    "tag": "c:ingots/gold"
   },
   "output":{
     "item": "alltheores:gold_dust"

@@ -7,7 +7,7 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "forge:ores/ruby"
+    "tag": "c:ores/ruby"
   },
 
   "result": {

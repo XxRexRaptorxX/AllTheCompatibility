@@ -8,7 +8,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "forge:dusts/iridium"
+      "tag": "c:dusts/iridium"
     }
   ],
   "results": [

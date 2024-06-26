@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:alloying",
   "part_a":{
-    "tag": "forge:ingots/copper"
+    "tag": "c:ingots/copper"
   },
   "part_b":{
-    "tag": "forge:dusts/zinc"
+    "tag": "c:dusts/zinc"
   },
   "output":{
     "item": "alltheores:brass_ingot",

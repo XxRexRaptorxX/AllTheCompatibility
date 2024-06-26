@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:gems/ruby"
+    "tag": "c:gems/ruby"
   },
   "result": {
     "item": "alltheores:ruby_dust",

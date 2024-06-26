@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
-    "tag": "forge:dusts/brass",
+    "tag": "c:dusts/brass",
     "count": 4
   },
   "process_time": 200,

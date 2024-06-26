@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/zinc",
+    "tag": "c:ingots/zinc",
     "count": 1
   },
   "process_time": 200,

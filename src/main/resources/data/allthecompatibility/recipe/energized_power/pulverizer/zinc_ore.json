@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:pulverizer",
   "ingredient": {
-    "tag": "forge:ores/zinc"
+    "tag": "c:ores/zinc"
   },
   "output": {
     "output": {

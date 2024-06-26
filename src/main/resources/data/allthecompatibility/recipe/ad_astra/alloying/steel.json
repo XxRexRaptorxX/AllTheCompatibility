@@ -10,7 +10,7 @@
   "energy": 20,
   "ingredients": [
     {
-      "tag": "forge:ingots/iron"
+      "tag": "c:ingots/iron"
     },
     {
       "tag": "minecraft:coals"

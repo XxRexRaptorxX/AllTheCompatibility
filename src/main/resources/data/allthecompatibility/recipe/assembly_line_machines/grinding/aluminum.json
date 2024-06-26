@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_ores/aluminum"
+    "tag": "c:raw_ores/aluminum"
   },
   "output":{
     "item": "alltheores:aluminum_dust"

@@ -7,7 +7,7 @@
   ],
   "type": "ad_astra:compressing",
   "ingredient": {
-    "tag": "forge:ingots/signalum"
+    "tag": "c:ingots/signalum"
   },
   "result": {
     "id": "alltheores:signalum_plate",

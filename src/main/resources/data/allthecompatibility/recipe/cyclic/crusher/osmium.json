@@ -1,7 +1,7 @@
 {
   "type": "cyclic:crusher",
   "input": {
-    "tag": "forge:ores/osmium"
+    "tag": "c:ores/osmium"
   },
   "energy": {
     "ticks": 600,

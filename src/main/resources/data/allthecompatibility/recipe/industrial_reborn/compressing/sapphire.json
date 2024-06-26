@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:gems/sapphire"
+      "tag": "c:gems/sapphire"
     }
   ],
   "result": {

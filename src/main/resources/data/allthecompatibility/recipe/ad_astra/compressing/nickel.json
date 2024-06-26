@@ -7,7 +7,7 @@
   ],
   "type": "ad_astra:compressing",
   "ingredient": {
-    "tag": "forge:ingots/nickel"
+    "tag": "c:ingots/nickel"
   },
   "result": {
     "id": "alltheores:nickel_plate",

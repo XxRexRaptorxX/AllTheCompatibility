@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:implosion_compressing",
   "ingredient": {
-    "tag": "forge:dusts/ruby",
+    "tag": "c:dusts/ruby",
     "count": 1
   },
   "process_time": 200,

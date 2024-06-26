@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:compressor",
   "ingredient": {
-    "tag": "forge:ingots/gold"
+    "tag": "c:ingots/gold"
   },
   "output": {
     "item": "alltheores:gold_plate"

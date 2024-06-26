@@ -7,12 +7,12 @@
   ],
   "type": "voluminousenergy:industrial_blasting",
   "ingredient": {
-    "tag": "forge:ingots/copper",
+    "tag": "c:ingots/copper",
     "count": 3
   },
   "process_time": 200,
   "second_input": {
-    "tag": "forge:ingots/tin",
+    "tag": "c:ingots/tin",
     "count": 1
   },
   "result": {

@@ -1,7 +1,7 @@
 {
   "type": "cyclic:crusher",
   "input": {
-    "tag": "forge:ores/aluminum"
+    "tag": "c:ores/aluminum"
   },
   "energy": {
     "ticks": 600,

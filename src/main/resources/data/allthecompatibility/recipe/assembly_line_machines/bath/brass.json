@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "tag": "forge:dusts/copper"
+    "tag": "c:dusts/copper"
   },
   "input_b":{
-    "tag": "forge:dusts/zinc"
+    "tag": "c:dusts/zinc"
   },
   "output":{
     "item": "alltheores:brass_ingot"

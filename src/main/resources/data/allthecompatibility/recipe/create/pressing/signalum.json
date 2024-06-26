@@ -8,7 +8,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "forge:ingots/signalum"
+      "tag": "c:ingots/signalum"
     }
   ],
   "results": [

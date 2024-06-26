@@ -7,12 +7,12 @@
   ],
   "type": "voluminousenergy:industrial_blasting",
   "ingredient": {
-    "tag": "forge:ingots/iron",
+    "tag": "c:ingots/iron",
     "count": 2
   },
   "process_time": 200,
   "second_input": {
-    "tag": "forge:ingots/nickel",
+    "tag": "c:ingots/nickel",
     "count": 1
   },
   "result": {

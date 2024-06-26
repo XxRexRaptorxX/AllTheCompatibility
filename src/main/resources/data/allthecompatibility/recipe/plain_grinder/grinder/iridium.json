@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:raw_materials/iridium"
+    "tag": "c:raw_materials/iridium"
   },
   "result": {
     "item": "alltheores:iridium_dust",

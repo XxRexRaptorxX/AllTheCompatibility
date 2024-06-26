@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:ores/tin"
+    "tag": "c:ores/tin"
   },
   "result": {
     "item": "alltheores:tin_dust",

@@ -11,7 +11,7 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "tag": "forge:gems/diamond"
+      "tag": "c:gems/diamond"
     }
   ],
   "result": {

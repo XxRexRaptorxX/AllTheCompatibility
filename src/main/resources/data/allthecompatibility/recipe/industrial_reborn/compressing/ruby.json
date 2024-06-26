@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:gems/ruby"
+      "tag": "c:gems/ruby"
     }
   ],
   "result": {

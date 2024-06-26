@@ -8,7 +8,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "forge:gems/diamond"
+      "tag": "c:gems/diamond"
     }
   ],
   "results": [

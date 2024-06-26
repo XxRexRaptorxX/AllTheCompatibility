@@ -8,11 +8,11 @@
   "type": "indreb:alloy_smelting",
   "ingredients": [
     {
-      "tag": "forge:ingots/copper",
+      "tag": "c:ingots/copper",
       "count": 3
     },
     {
-      "tag": "forge:ingots/tin",
+      "tag": "c:ingots/tin",
       "count": 1
     }
   ],

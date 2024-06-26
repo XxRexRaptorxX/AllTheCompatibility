@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "tag": "forge:dusts/gold"
+    "tag": "c:dusts/gold"
   },
   "input_b":{
-    "tag": "forge:dusts/iron"
+    "tag": "c:dusts/iron"
   },
   "output":{
     "item": "alltheores:electrum_ingot"

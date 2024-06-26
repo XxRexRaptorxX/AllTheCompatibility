@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ingots/osmium"
+    "tag": "c:ingots/osmium"
   },
   "output":{
     "item": "alltheores:osmium_dust"

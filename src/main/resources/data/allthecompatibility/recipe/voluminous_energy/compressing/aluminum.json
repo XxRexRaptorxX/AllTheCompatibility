@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/aluminum",
+    "tag": "c:ingots/aluminum",
     "count": 1
   },
   "process_time": 200,

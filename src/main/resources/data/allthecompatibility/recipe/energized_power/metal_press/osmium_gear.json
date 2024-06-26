@@ -8,7 +8,7 @@
   "type": "energizedpower:metal_press",
   "ingredient": [
     {
-      "tag": "forge:plates/osmium"
+      "tag": "c:plates/osmium"
     }
   ],
   "inputCount": 2,

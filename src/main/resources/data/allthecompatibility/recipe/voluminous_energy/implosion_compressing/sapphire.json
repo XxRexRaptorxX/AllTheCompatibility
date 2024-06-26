@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:implosion_compressing",
   "ingredient": {
-    "tag": "forge:dusts/sapphire",
+    "tag": "c:dusts/sapphire",
     "count": 1
   },
   "process_time": 200,

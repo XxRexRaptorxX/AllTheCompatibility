@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/invar"
+      "tag": "c:ingots/invar"
     }
   ],
   "result": {

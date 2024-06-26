@@ -12,7 +12,7 @@
   "ingredients": [
     {
       "count": 9,
-      "tag": "forge:ingots/brass"
+      "tag": "c:ingots/brass"
     }
   ],
   "result": {

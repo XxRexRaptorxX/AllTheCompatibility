@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ingots/lead"
+    "tag": "c:ingots/lead"
   },
   "output":{
     "item": "alltheores:lead_dust"

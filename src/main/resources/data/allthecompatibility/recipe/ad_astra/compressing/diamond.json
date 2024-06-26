@@ -7,7 +7,7 @@
   ],
   "type": "ad_astra:compressing",
   "ingredient": {
-    "tag": "forge:gems/diamond"
+    "tag": "c:gems/diamond"
   },
   "result": {
     "id": "alltheores:diamond_plate",

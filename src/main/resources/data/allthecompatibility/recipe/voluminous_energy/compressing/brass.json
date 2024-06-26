@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/brass",
+    "tag": "c:ingots/brass",
     "count": 1
   },
   "process_time": 200,

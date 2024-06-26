@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/gold",
+    "tag": "c:ingots/gold",
     "count": 1
   },
   "process_time": 200,

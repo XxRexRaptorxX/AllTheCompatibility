@@ -7,7 +7,7 @@
   ],
   "type": "ad_astra:compressing",
   "ingredient": {
-    "tag": "forge:ingots/iron"
+    "tag": "c:ingots/iron"
   },
   "result": {
     "id": "alltheores:iron_plate",

@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:compressor",
   "ingredient": {
-    "tag": "forge:ingots/nickel"
+    "tag": "c:ingots/nickel"
   },
   "output": {
     "item": "alltheores:nickel_plate"

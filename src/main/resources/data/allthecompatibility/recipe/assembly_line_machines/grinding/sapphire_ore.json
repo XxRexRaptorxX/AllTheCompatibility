@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/sapphire"
+    "tag": "c:ores/sapphire"
   },
   "output":{
     "item": "alltheores:sapphire_dust",

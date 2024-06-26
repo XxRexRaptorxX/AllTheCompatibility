@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:ores/osmium"
+    "tag": "c:ores/osmium"
   },
   "result": {
     "item": "alltheores:osmium_dust",

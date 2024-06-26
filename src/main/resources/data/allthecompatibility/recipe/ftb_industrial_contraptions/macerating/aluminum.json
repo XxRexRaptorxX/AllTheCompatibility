@@ -10,7 +10,7 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "forge:raw_materials/aluminum"
+        "tag": "c:raw_materials/aluminum"
       }
     }
   ],

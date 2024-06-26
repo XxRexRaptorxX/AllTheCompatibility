@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:alloying",
   "part_a":{
-    "tag": "forge:ingots/gold"
+    "tag": "c:ingots/gold"
   },
   "part_b":{
-    "tag": "forge:ingots/silver"
+    "tag": "c:ingots/silver"
   },
   "output":{
     "item": "alltheores:electrum_ingot",

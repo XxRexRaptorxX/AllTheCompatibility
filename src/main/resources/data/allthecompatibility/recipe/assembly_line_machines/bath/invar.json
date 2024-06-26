@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "tag": "forge:dusts/iron"
+    "tag": "c:dusts/iron"
   },
   "input_b":{
-    "tag": "forge:dusts/nickel"
+    "tag": "c:dusts/nickel"
   },
   "output":{
     "item": "alltheores:invar_ingot",

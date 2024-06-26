@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:pulverizer",
   "ingredient": {
-    "tag": "forge:ingots/electrum"
+    "tag": "c:ingots/electrum"
   },
   "output": {
     "output": {

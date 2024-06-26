@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/osmium",
+    "tag": "c:ingots/osmium",
     "count": 1
   },
   "process_time": 200,

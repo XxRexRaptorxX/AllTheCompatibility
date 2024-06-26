@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:ores/uranium",
+    "tag": "c:ores/uranium",
     "count": 1
   },
   "process_time": 200,

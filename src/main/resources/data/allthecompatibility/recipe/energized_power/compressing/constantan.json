@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:compressor",
   "ingredient": {
-    "tag": "forge:ingots/constantan"
+    "tag": "c:ingots/constantan"
   },
   "output": {
     "item": "alltheores:constantan_plate"

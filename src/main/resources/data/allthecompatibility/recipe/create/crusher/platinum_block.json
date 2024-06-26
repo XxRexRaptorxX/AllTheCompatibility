@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "forge:storage_blocks/raw_platinum"
+      "tag": "c:storage_blocks/raw_platinum"
     }
   ],
   "results": [

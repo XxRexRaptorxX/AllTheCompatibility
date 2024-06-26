@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/uranium"
+    "tag": "c:ores/uranium"
   },
   "output":{
     "item": "alltheores:uranium_dust",

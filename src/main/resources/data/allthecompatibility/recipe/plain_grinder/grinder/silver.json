@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:raw_materials/silver"
+    "tag": "c:raw_materials/silver"
   },
   "result": {
     "item": "alltheores:silver_dust",

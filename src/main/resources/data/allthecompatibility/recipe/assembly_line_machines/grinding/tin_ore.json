@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/tin"
+    "tag": "c:ores/tin"
   },
   "output":{
     "item": "alltheores:tin_dust",

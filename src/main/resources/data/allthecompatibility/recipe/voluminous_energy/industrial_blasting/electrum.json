@@ -7,12 +7,12 @@
   ],
   "type": "voluminousenergy:industrial_blasting",
   "ingredient": {
-    "tag": "forge:ingots/gold",
+    "tag": "c:ingots/gold",
     "count": 1
   },
   "process_time": 200,
   "second_input": {
-    "tag": "forge:ingots/silver",
+    "tag": "c:ingots/silver",
     "count": 1
   },
   "result": {

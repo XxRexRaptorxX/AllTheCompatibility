@@ -10,7 +10,7 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "forge:ores/silver"
+        "tag": "c:ores/silver"
       }
     }
   ],

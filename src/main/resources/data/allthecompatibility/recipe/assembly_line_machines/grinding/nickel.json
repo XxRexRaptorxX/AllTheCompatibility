@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_ores/nickel"
+    "tag": "c:raw_ores/nickel"
   },
   "output":{
     "item": "alltheores:nickel_dust"

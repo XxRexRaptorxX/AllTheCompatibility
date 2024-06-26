@@ -7,7 +7,7 @@
   ],
   "type": "ad_astra:compressing",
   "ingredient": {
-    "tag": "forge:ingots/enderium"
+    "tag": "c:ingots/enderium"
   },
   "result": {
     "id": "alltheores:enderium_plate",

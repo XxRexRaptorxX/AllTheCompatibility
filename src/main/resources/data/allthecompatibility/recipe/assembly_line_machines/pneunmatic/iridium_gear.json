@@ -1,11 +1,11 @@
 {
   "type": "assemblylinemachines:pneumatic",
   "input": {
-    "tag": "forge:plates/iridium",
+    "tag": "c:plates/iridium",
     "count": 4
   },
   "output": {
-    "tag": "forge:gears/iridium"
+    "tag": "c:gears/iridium"
   },
   "time": 9,
   "mold": "gear",

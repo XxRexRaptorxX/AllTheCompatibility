@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_materials/iron"
+    "tag": "c:raw_materials/iron"
   },
   "output":{
     "item": "alltheores:iron_dust"

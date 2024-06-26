@@ -7,7 +7,7 @@
   ],
   "type": "energizedpower:pulverizer",
   "ingredient": {
-    "tag": "forge:gems/sapphire"
+    "tag": "c:gems/sapphire"
   },
   "output": {
     "output": {

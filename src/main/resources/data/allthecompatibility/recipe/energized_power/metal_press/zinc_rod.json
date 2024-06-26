@@ -8,7 +8,7 @@
   "type": "energizedpower:metal_press",
   "ingredient": [
     {
-      "tag": "forge:plates/zinc"
+      "tag": "c:plates/zinc"
     }
   ],
   "inputCount": 2,

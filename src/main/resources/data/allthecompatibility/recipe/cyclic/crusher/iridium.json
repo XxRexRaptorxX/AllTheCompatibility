@@ -1,7 +1,7 @@
 {
   "type": "cyclic:crusher",
   "input": {
-    "tag": "forge:ores/iridium"
+    "tag": "c:ores/iridium"
   },
   "energy": {
     "ticks": 600,

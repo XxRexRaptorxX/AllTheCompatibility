@@ -11,7 +11,7 @@
   "experience": 0.2,
   "ingredients": [
     {
-      "tag": "forge:ores/aluminum"
+      "tag": "c:ores/aluminum"
     }
   ],
   "result": {

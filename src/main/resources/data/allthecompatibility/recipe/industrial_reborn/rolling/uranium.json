@@ -10,7 +10,7 @@
   "experience": 0.5,
   "ingredients": [
     {
-      "tag": "forge:ingots/uranium"
+      "tag": "c:ingots/uranium"
     }
   ],
   "result": {

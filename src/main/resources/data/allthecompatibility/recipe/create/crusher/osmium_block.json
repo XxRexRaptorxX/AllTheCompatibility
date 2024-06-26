@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "forge:storage_blocks/raw_osmium"
+      "tag": "c:storage_blocks/raw_osmium"
     }
   ],
   "results": [

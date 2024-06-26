@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:ores/peridot"
+    "tag": "c:ores/peridot"
   },
   "result": {
     "item": "alltheores:peridot_dust",

@@ -10,7 +10,7 @@
   "experience": 0.5,
   "ingredients": [
     {
-      "tag": "forge:ingots/enderium"
+      "tag": "c:ingots/enderium"
     }
   ],
   "result": {

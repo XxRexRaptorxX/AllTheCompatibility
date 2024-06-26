@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:raw_ores/ruby"
+    "tag": "c:raw_ores/ruby"
   },
   "output":{
     "item": "alltheores:ruby_dust"

@@ -10,7 +10,7 @@
   "experience": 0.5,
   "ingredients": [
     {
-      "tag": "forge:ingots/osmium"
+      "tag": "c:ingots/osmium"
     }
   ],
   "result": {

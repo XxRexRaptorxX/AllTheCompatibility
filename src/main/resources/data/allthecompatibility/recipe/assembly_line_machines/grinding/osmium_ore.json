@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/osmium"
+    "tag": "c:ores/osmium"
   },
   "output":{
     "item": "alltheores:osmium_dust",

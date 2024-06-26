@@ -8,7 +8,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "forge:ingots/invar"
+      "tag": "c:ingots/invar"
     }
   ],
   "results": [

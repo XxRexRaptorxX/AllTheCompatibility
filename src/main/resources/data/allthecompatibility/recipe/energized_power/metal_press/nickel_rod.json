@@ -8,7 +8,7 @@
   "type": "energizedpower:metal_press",
   "ingredient": [
     {
-      "tag": "forge:plates/nickel"
+      "tag": "c:plates/nickel"
     }
   ],
   "inputCount": 2,

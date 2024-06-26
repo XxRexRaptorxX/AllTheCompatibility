@@ -1,11 +1,11 @@
 {
   "type": "assemblylinemachines:pneumatic",
   "input": {
-    "tag": "forge:nuggets/ruby",
+    "tag": "c:nuggets/ruby",
     "count": 9
   },
   "output": {
-    "tag": "forge:ingots/iridium"
+    "tag": "c:ingots/iridium"
   },
   "time": 5,
   "conditions": [

@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ingots/platinum"
+    "tag": "c:ingots/platinum"
   },
   "output":{
     "item": "alltheores:platinum_dust"

@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/copper"
+    "tag": "c:ores/copper"
   },
   "output":{
     "item": "alltheores:copper_dust",

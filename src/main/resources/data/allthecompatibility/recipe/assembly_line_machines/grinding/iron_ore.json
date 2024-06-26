@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "forge:ores/iron"
+    "tag": "c:ores/iron"
   },
   "output":{
     "item": "alltheores:iron_dust",

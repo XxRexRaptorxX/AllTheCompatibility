@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:alloying",
   "part_a":{
-    "tag": "forge:ingots/iron"
+    "tag": "c:ingots/iron"
   },
   "part_b":{
-    "tag": "forge:dusts/nickel"
+    "tag": "c:dusts/nickel"
   },
   "output":{
     "item": "alltheores:invar_ingot",

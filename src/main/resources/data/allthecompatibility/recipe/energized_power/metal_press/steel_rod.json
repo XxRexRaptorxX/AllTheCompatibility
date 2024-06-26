@@ -8,7 +8,7 @@
   "type": "energizedpower:metal_press",
   "ingredient": [
     {
-      "tag": "forge:plates/steel"
+      "tag": "c:plates/steel"
     }
   ],
   "inputCount": 2,

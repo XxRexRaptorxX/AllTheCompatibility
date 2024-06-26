@@ -10,7 +10,7 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "forge:raw_materials/copper"
+        "tag": "c:raw_materials/copper"
       }
     }
   ],

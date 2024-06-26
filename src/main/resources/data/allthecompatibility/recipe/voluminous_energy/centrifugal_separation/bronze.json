@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
-    "tag": "forge:dusts/bronze",
+    "tag": "c:dusts/bronze",
     "count": 4
   },
   "process_time": 200,

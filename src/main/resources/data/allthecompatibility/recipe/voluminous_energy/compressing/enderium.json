@@ -7,7 +7,7 @@
   ],
   "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:ingots/enderium",
+    "tag": "c:ingots/enderium",
     "count": 1
   },
   "process_time": 200,

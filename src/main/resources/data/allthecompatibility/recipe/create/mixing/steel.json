@@ -8,7 +8,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "forge:ingots/iron"
+      "tag": "c:ingots/iron"
     },
     {
       "item": "minecraft:coal"

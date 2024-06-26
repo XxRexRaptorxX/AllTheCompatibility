@@ -7,7 +7,7 @@
   ],
   "type": "plaingrinder:grinder",
   "input": {
-    "tag": "forge:gems/peridot"
+    "tag": "c:gems/peridot"
   },
   "result": {
     "item": "alltheores:peridot_dust",

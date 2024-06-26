@@ -8,7 +8,7 @@ modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 itemIcon="minecraft:crafting_table"
-updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"
+updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility_NEO.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility"
 logoFile="logo.png"
 #credits=""
@@ -17,8 +17,9 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 
 
 [[dependencies.${mod_id}]]
-    modId="forge"
+    modId="neoforge"
     mandatory=true
+    type="required"
     versionRange="${forge_version_range}"
     ordering="NONE"
     side="BOTH"
@@ -26,6 +27,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="alltheores"
     mandatory=true
+    type="required"
     versionRange="[2.0.3,)"
     ordering="NONE"
     side="BOTH"
@@ -33,6 +35,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="minecraft"
     mandatory=true
+    type="required"
     versionRange="${mc_version_range}"
     ordering="NONE"
     side="BOTH"
@@ -43,27 +46,31 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="voluminousenergy"
     mandatory=false
-    versionRange="[1.20,)"
+    type="optional"
+    versionRange="[1.21,)"
     ordering="BEFORE"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="indreb"
     mandatory=false
-    versionRange="[1.20,)"
+    type="optional"
+    versionRange="[1.21,)"
     ordering="BEFORE"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="assemblylinemachines"
     mandatory=false
-    versionRange="[1.20,)"
+    type="optional"
+    versionRange="[1.21,)"
     ordering="BEFORE"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="create"
     mandatory=false
+    type="optional"
     versionRange="[0.4,)"
     ordering="BEFORE"
     side="BOTH"
@@ -71,6 +78,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="plaingrinder"
     mandatory=false
+    type="optional"
     versionRange="[1.2.4,)"
     ordering="BEFORE"
     side="BOTH"
@@ -78,13 +86,15 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="botania"
     mandatory=false
-    versionRange="[1.20,)"
+    type="optional"
+    versionRange="[1.21,)"
     ordering="BEFORE"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="cyclic"
     mandatory=false
+    type="optional"
     versionRange="[1.12.3,)"
     ordering="BEFORE"
     side="BOTH"
@@ -92,6 +102,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="simplegrinder"
     mandatory=false
+    type="optional"
     versionRange="[0.2,)"
     ordering="BEFORE"
     side="BOTH"
@@ -99,13 +110,15 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
 [[dependencies.${mod_id}]]
     modId="energizedpower"
     mandatory=false
-    versionRange="[1.20.1-2.8.0,)"
+    type="optional"
+    versionRange="[1.21-2.8.0,)"
     ordering="BEFORE"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="ad_astra"
     mandatory=false
+    type="optional"
     versionRange="[1.15.7,)"
     ordering="BEFORE"
     side="BOTH"

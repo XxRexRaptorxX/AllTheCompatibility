@@ -127,7 +127,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     modId="modern_industrialization"
     mandatory=false
     type="optional"
-    versionRange="[2.2.6,)"
+    versionRange="[2.2.6-alpha,)"
     ordering="BEFORE"
     side="BOTH"
 

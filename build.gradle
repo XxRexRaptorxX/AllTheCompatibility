@@ -161,6 +161,8 @@ dependencies {
     runtimeOnly ("curse.maven:mekanism-268560:${mekanism_version}") //to avoid ATO recipe errors
     runtimeOnly ("curse.maven:modern-industrializazion-405388:${modern_industrialization_version}")
     runtimeOnly ("curse.maven:greg-tech-890405:${greg_tech_version}")
+    runtimeOnly ("curse.maven:ld-lib-626676:${ld_lib_version}")
+    runtimeOnly ("curse.maven:cloth-confg-api-348521:${cloth_config_api_version}")
 }
 
 

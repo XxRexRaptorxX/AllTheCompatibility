@@ -31,6 +31,8 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
   - Macerator, Extruder, Rolling Machine
 - **[Energized Power][ep]**
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant
+- **[Modern Industrialization][mi]**
+  - Mixer
 - **[Botania][botania]**
   - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**
@@ -63,3 +65,4 @@ All rights reserved.
 [ep]: https://www.curseforge.com/minecraft/mc-mods/energized-power
 [aa]: https://www.curseforge.com/minecraft/mc-mods/ad-astra
 [ic]: https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge
+[mi]: https://www.curseforge.com/minecraft/mc-mods/modern-industrialization

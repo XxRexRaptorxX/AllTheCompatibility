@@ -10,7 +10,7 @@
     "tag": "c:ores/salt"
   },
   "output":{
-    "item": "alltheores:salt_dust",
+    "item": "alltheores:salt",
     "count": 2
   },
   "grinds": 6,

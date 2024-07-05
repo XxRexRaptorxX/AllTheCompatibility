@@ -15,11 +15,11 @@
   "results": [
     {
       "count": 5,
-      "item": "alltheores:salt_dust"
+      "item": "alltheores:salt"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:salt_dust"
+      "item": "alltheores:salt"
     },
     {
       "chance": 0.75,

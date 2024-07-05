@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/coal"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "modern_industrialization:mixer",
+  "duration": 100,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:dusts/iron"
+    },
+    {
+      "amount": 3,
+      "tag": "c:dusts/coal"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 4,
+      "item": "alltheores:steel_dust"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    }
+  ],
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "tag": "c:ores/cinnabar",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "alltheores:cinnabar_dust",
+    "count": 2
+  },
+  "rng": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "experience": {
+    "minimum": 1,
+    "maximum": 3
+  }
+}

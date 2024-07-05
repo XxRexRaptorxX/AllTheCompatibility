@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "c:raw_ores/cinnabar"
+  },
+  "output":{
+    "item": "alltheores:cinnabar_dust"
+  },
+  "grinds": 3,
+  "chanceToDouble": 0.5,
+  "bladetype": "TITANIUM"
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "c:gems/sulfur"
+  },
+  "result": {
+    "item": "alltheores:sulfur_dust",
+    "count": 2
+  }
+}

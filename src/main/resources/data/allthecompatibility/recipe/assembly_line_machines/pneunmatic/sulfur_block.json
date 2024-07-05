@@ -1,0 +1,17 @@
+{
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "c:gems/sulfur",
+    "count": 9
+  },
+  "output": {
+    "tag": "c:storage_blocks/sulfur"
+  },
+  "time": 9,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ]
+}

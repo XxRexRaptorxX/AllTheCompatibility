@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "c:gems/cinnabar"
+  },
+  "output":{
+    "item": "alltheores:cinnabar_dust"
+  },
+  "grinds": 3,
+  "bladetype": "TITANIUM"
+}

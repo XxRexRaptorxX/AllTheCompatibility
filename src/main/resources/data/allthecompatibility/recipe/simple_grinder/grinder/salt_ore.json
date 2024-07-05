@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "simplegrinder"
+    }
+  ],
+  "type": "simplegrinder:grinder",
+  "ingredient": {
+    "tag": "c:ores/salt"
+  },
+
+  "result": {
+    "id": "alltheores:salt_dust",
+    "count": 4
+  },
+
+  "experience": 0.1,
+  "cookingtime": 150
+}

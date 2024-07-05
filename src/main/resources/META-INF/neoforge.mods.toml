@@ -111,7 +111,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     modId="energizedpower"
     mandatory=false
     type="optional"
-    versionRange="[1.21-2.8.0,)"
+    versionRange="[1.21-2.12.0,)"
     ordering="BEFORE"
     side="BOTH"
 

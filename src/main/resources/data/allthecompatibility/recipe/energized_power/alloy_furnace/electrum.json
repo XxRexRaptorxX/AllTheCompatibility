@@ -20,7 +20,7 @@
       "count": 1
     }
   ],
-  "ticks": 5000,
+  "ticks": 3000,
   "output": {
     "item": "alltheores:electrum_ingot",
     "count": 2

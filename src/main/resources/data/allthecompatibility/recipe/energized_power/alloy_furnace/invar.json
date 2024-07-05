@@ -20,9 +20,9 @@
       "count": 1
     }
   ],
-  "ticks": 5000,
+  "ticks": 4000,
   "output": {
     "item": "alltheores:invar_ingot",
-    "count": 1
+    "count": 3
   }
 }

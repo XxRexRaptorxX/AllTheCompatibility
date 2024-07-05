@@ -159,6 +159,8 @@ dependencies {
     //runtimeOnly ("curse.maven:resourceful-config-714059:${resourceful_config_version}")
     //runtimeOnly ("curse.maven:ad-astra-635042:${ad_astra_version}")
     runtimeOnly ("curse.maven:mekanism-268560:${mekanism_version}") //to avoid ATO recipe errors
+    runtimeOnly ("curse.maven:modern-industrializazion-405388:${modern_industrialization_version}")
+    runtimeOnly ("curse.maven:greg-tech-890405:${greg_tech_version}")
 }
 
 

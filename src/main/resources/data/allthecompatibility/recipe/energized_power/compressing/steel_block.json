@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "c:storage_blocks/steel"
+  },
+  "output": {
+    "item": "alltheores:steel_plate",
+    "count": 9
+  }
+}

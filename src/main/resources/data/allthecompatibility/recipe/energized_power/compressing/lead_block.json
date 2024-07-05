@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "c:storage_blocks/lead"
+  },
+  "output": {
+    "item": "alltheores:lead_plate",
+    "count": 9
+  }
+}

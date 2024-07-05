@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "c:storage_blocks/gold"
+  },
+  "output": {
+    "item": "alltheores:gold_plate",
+    "count": 9
+  }
+}

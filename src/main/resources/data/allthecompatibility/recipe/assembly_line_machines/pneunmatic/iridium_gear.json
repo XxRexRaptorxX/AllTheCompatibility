@@ -9,9 +9,9 @@
   },
   "time": 9,
   "mold": "gear",
-  "conditions": [
+  "neoforge:conditions": [
     {
-      "type": "forge:mod_loaded",
+      "type": "neoforge:mod_loaded",
       "modid": "assemblylinemachines"
     }
   ]

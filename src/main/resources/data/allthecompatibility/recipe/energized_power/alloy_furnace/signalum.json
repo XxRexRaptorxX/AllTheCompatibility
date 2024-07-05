@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:alloy_furnace",
+  "inputs": [
+    {
+      "input": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 3
+    },
+    {
+      "input": {
+        "tag": "c:ingots/silver"
+      },
+      "count": 1
+    },
+    {
+      "input": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 4
+    }
+  ],
+  "ticks": 5000,
+  "output": {
+    "item": "alltheores:signalum_ingot",
+    "count": 4
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:alloy_furnace",
+  "inputs": [
+    {
+      "input": {
+        "tag": "c:ingots/lead"
+      },
+      "count": 3
+    },
+    {
+      "input": {
+        "tag": "c:ingots/platinum"
+      },
+      "count": 1
+    },
+    {
+      "input": {
+        "item": "minecraft:ender_pearl"
+      },
+      "count": 4
+    }
+  ],
+  "ticks": 5000,
+  "output": {
+    "item": "alltheores:enderium_ingot",
+    "count": 4
+  }
+}

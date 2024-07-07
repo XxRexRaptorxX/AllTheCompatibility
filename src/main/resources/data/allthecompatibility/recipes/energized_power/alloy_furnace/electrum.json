@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:alloy_furnace",
+  "inputs": [
+    {
+      "input": {
+        "tag": "forge:ingots/silver"
+      },
+      "count": 1
+    },
+    {
+      "input": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 1
+    }
+  ],
+  "ticks": 3000,
+  "output": {
+    "item": "alltheores:electrum_ingot",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "forge:storage_blocks/signalum"
+  },
+  "output": {
+    "item": "alltheores:signalum_plate",
+    "count": 9
+  }
+}

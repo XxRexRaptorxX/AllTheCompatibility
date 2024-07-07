@@ -183,7 +183,7 @@ dependencies {
 
     //[optional]
     runtimeOnly fg.deobf("com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
-    runtimeOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-1.20:${flywheel_version}")
+    runtimeOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-${mc_version}:${flywheel_version}")
     runtimeOnly fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}-FORGE")
     runtimeOnly fg.deobf("vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE")

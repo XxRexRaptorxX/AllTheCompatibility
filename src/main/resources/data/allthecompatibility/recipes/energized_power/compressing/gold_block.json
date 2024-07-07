@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "forge:storage_blocks/gold"
+  },
+  "output": {
+    "item": "alltheores:gold_plate",
+    "count": 9
+  }
+}

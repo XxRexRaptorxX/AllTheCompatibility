@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "forge:storage_blocks/iron"
+  },
+  "output": {
+    "item": "alltheores:iron_plate",
+    "count": 9
+  }
+}

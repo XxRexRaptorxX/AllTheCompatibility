@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:alloy_furnace",
+  "inputs": [
+    {
+      "input": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 1
+    },
+    {
+      "input": {
+        "item": "minecraft:coal"
+      },
+      "count": 3
+    }
+  ],
+  "ticks": 5000,
+  "output": {
+    "item": "alltheores:steel_ingot",
+    "count": 4
+  }
+}

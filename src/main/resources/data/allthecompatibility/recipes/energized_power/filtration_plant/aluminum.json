@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:filtration_plant",
+  "icon": "alltheores:raw_aluminum",
+  "output": {
+    "output": {
+      "item": "minecraft:cobblestone"
+    },
+    "percentages": [ 0.33 ]
+  },
+  "secondaryOutput": {
+    "output": {
+      "item": "alltheores:raw_aluminum"
+    },
+    "percentages": [ 0.005 ]
+  }
+}

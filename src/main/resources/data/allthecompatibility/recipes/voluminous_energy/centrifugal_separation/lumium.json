@@ -22,7 +22,7 @@
     "chance": 1
   },
   "rng_slot_1": {
-    "tag": "forge:dusts/glowstone",,
+    "tag": "forge:dusts/glowstone",
     "count": 4,
     "chance": 1
   },

@@ -22,7 +22,7 @@
     "chance": 1
   },
   "rng_slot_1": {
-    "item": "minecraft:redstone",
+    "tag": "forge:dusts/redstone",,
     "count": 4,
     "chance": 1
   },

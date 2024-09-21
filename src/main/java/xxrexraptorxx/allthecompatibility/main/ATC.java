@@ -8,7 +8,7 @@ import xxrexraptorxx.allthecompatibility.utils.Config;
 
 /**
  * @author XxRexRaptorxX (RexRaptor)
- * @projectPage https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility
+ * @projectPage <a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility">...</a>
  **/
 @Mod(References.MODID)
 public class ATC {

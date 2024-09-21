@@ -125,6 +125,17 @@ repositories {
     }
 }
 
+// Versionsauflösung für ASM-Bibliothek
+configurations.all {
+    resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+        if (details.requested.group == 'org.ow2.asm') {
+            // Erzwinge die Version 9.7 für alle ASM-Bibliotheken
+            details.useVersion '9.7'
+        }
+    }
+}
+
+
 dependencies {
 
     implementation "net.neoforged:neoforge:${forge_version}"
@@ -189,6 +200,7 @@ jar {
     archiveBaseName = "${mod_name}".replace(" ", "")
     archiveVersion = "${mc_version}-(v.${mod_version})"
 }
+
 
 
 publishing {

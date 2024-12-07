@@ -7,18 +7,18 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "c:gems/peridot",
+    "tag": "c:ores/cinnabar",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:peridot_dust",
-    "count": 1
+    "item": "alltheores:cinnabar_dust",
+    "count": 2
   },
   "rng": {
-    "item": "alltheores:peridot_dust",
-    "count": 1,
-    "chance": 0.333
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
   },
   "experience": {
     "minimum": 1,

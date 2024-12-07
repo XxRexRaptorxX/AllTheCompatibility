@@ -7,18 +7,18 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "c:gems/sapphire",
+    "tag": "c:ores/fluorite",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:sapphire_dust",
-    "count": 1
+    "item": "alltheores:fluorite_dust",
+    "count": 2
   },
   "rng": {
-    "item": "alltheores:sapphire_dust",
-    "count": 1,
-    "chance": 0.333
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
   },
   "experience": {
     "minimum": 1,

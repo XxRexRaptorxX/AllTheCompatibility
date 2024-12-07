@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:scanning",
+  "duration": 500,
+  "experience": 5.0,
+  "ingredients": [
+    {
+    "item": "alltheores:end_aluminum_ore"
+    }
+  ],
+  "replication": {
+    "energy_cost": 16,
+    "matter_cost": 167
+  },
+  "tick_energy_cost": 256
+
+}

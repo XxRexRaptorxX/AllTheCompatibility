@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "c:ores/netherite_scrap"
+  },
+  "result": {
+    "item": "alltheores:netherite_dust",
+    "count": 2
+  }
+}

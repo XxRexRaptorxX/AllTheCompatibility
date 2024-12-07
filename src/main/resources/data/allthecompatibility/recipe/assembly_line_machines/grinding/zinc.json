@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/zinc"
+    "tag": "c:raw_materials/zinc"
   },
   "output":{
     "item": "alltheores:zinc_dust"

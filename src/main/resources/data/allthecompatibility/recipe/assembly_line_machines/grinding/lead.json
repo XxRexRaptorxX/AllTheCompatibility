@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/lead"
+    "tag": "c:raw_materials/lead"
   },
   "output":{
     "item": "alltheores:lead_dust"

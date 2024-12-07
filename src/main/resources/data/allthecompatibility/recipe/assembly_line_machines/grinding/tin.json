@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/tin"
+    "tag": "c:raw_materials/tin"
   },
   "output":{
     "item": "alltheores:tin_dust"

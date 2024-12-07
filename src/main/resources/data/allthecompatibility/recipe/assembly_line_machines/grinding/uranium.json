@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/uranium"
+    "tag": "c:raw_materials/uranium"
   },
   "output":{
     "item": "alltheores:uranium_dust"

@@ -7,7 +7,7 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/aluminum"
+    "tag": "c:raw_materials/aluminum"
   },
   "output":{
     "item": "alltheores:aluminum_dust"

@@ -28,7 +28,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     modId="alltheores"
     mandatory=true
     type="required"
-    versionRange="[2.0.3,)"
+    versionRange="[3.0.1,)"
     ordering="NONE"
     side="BOTH"
 

@@ -8,17 +8,15 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "c:storage_blocks/salt"
+      "tag": "c:gems/cinnabar"
     }
   ],
   "results": [
     {
-      "item": "alltheores:salt",
-      "count": 9
+      "item": "alltheores:cinnabar_dust"
     },
     {
       "item": "create:experience_nugget",
-      "count": 9,
       "chance": 0.75
     }
   ],

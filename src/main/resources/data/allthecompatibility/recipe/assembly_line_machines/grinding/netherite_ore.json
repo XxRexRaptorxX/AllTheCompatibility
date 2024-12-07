@@ -7,12 +7,12 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/ruby"
+    "tag": "c:ores/netherite_scrap"
   },
   "output":{
-    "item": "alltheores:ruby_dust"
+    "item": "alltheores:netherite_dust",
+    "count": 2
   },
-  "grinds": 3,
-  "chanceToDouble": 0.5,
+  "grinds": 6,
   "bladetype": "TITANIUM"
 }

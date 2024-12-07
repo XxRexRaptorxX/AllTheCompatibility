@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "c:gems/fluorite"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:fluorite_dust"
+    },
+    "percentages": [ 1.0 ]
+  }
+}

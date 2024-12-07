@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "c:ores/cinnabar"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:cinnabar_dust"
+    },
+    "percentages": [ 1.0, 1.0, 0.25 ],
+    "percentagesAdvanced": [ 1.0, 1.0, 0.5, 0.25 ]
+  }
+}

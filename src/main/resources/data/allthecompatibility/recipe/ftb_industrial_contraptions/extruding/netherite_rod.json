@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:extruding",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "c:ingots/netherite"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "count": 2,
+      "item": "alltheores:netherite_rod"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:extruding",
+  "inputItems": [
+    {
+      "count": 4,
+      "ingredient": {
+        "tag": "c:plates/netherite"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:netherite_gear"
+    }
+  ]
+}

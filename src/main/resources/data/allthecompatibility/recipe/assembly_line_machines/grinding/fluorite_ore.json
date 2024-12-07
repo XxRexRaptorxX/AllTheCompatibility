@@ -7,12 +7,12 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/sapphire"
+    "tag": "c:ores/fluorite"
   },
   "output":{
-    "item": "alltheores:sapphire_dust"
+    "item": "alltheores:fluorite_dust",
+    "count": 2
   },
-  "grinds": 3,
-  "chanceToDouble": 0.5,
+  "grinds": 6,
   "bladetype": "TITANIUM"
 }

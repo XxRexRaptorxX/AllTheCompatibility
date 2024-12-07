@@ -7,12 +7,11 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/peridot"
+    "tag": "c:gems/fluorite"
   },
   "output":{
-    "item": "alltheores:peridot_dust"
+    "item": "alltheores:fluorite_dust"
   },
   "grinds": 3,
-  "chanceToDouble": 0.5,
   "bladetype": "TITANIUM"
 }

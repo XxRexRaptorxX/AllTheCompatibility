@@ -8,12 +8,12 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "c:gems/ruby"
+      "tag": "c:ingots/netherite"
     }
   ],
   "results": [
     {
-      "item": "alltheores:ruby_plate"
+      "item": "alltheores:netherite_plate"
     }
   ]
 }

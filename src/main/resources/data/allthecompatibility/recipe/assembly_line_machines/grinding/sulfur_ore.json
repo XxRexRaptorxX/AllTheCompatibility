@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:grinder",
   "input":{
-    "tag": "c:raw_ores/salt"
+    "tag": "c:ores/sulfur"
   },
   "output":{
-    "item": "alltheores:salt"
+    "item": "alltheores:sulfur"
   },
   "grinds": 3,
   "chanceToDouble": 0.5,

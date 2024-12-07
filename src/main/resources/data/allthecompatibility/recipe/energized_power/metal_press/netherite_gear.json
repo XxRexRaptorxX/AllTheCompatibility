@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:metal_press",
+  "ingredient": [
+    {
+      "tag": "c:plates/netherite"
+    }
+  ],
+  "inputCount": 2,
+  "pressMold": {
+    "item": "energizedpower:gear_press_mold"
+  },
+  "output": {
+    "item": "alltheores:netherite_gear"
+  }
+}

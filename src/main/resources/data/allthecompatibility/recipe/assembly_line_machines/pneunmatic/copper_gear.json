@@ -8,12 +8,12 @@
 
   "type": "assemblylinemachines:pneumatic",
   "input": {
-    "tag": "c:ingots/iridium",
+    "tag": "c:ingots/copper",
     "count": 2
   },
   "output": {
     "item": "assemblylinemachines:gear_mold"
   },
-  "moldItem": "alltheores:iridium_gear",
+  "moldItem": "alltheores:copper_gear",
   "time": 15
 }

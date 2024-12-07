@@ -8,12 +8,12 @@
 
   "type": "assemblylinemachines:pneumatic",
   "input": {
-    "tag": "c:ingots/iridium",
+    "tag": "c:ingots/bronze",
     "count": 2
   },
   "output": {
     "item": "assemblylinemachines:gear_mold"
   },
-  "moldItem": "alltheores:iridium_gear",
+  "moldItem": "alltheores:bronze_gear",
   "time": 15
 }

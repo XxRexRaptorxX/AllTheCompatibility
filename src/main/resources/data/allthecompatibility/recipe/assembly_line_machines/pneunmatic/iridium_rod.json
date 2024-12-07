@@ -1,17 +1,19 @@
 {
-  "type": "assemblylinemachines:pneumatic",
-  "input": {
-    "tag": "c:ingots/iridium"
-  },
-  "output": {
-    "tag": "c:rods/iridium"
-  },
-  "time": 8,
-  "mold": "rod",
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
       "modid": "assemblylinemachines"
     }
-  ]
+  ],
+
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "c:ingots/iridium",
+    "count": 2
+  },
+  "output": {
+    "item": "assemblylinemachines:rod_mold"
+  },
+  "moldItem": "alltheores:iridium_rod",
+  "time": 15
 }

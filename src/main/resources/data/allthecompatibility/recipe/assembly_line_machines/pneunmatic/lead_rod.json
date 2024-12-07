@@ -8,12 +8,12 @@
 
   "type": "assemblylinemachines:pneumatic",
   "input": {
-    "tag": "c:ingots/iridium",
+    "tag": "c:ingots/lead",
     "count": 2
   },
   "output": {
-    "item": "assemblylinemachines:gear_mold"
+    "item": "assemblylinemachines:rod_mold"
   },
-  "moldItem": "alltheores:iridium_gear",
+  "moldItem": "alltheores:lead_rod",
   "time": 15
 }

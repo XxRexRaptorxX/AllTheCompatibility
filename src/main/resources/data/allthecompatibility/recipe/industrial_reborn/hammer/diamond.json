@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "group": "indreb",
+  "ingredients": [
+    {
+      "item": "indreb:hammer"
+    },
+    {
+      "tag": "c:gems/diamond"
+    }
+  ],
+  "result": {
+    "item": "alltheores:diamond_plate"
+  }
+}

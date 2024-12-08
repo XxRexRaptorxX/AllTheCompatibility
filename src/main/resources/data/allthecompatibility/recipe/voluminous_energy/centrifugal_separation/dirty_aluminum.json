@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    }
+  ],
+  "type": "voluminousenergy:centrifugal_separation",
+  "ingredient": {
+    "tag": "c:dirty_dusts/aluminum",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "alltheores:aluminum_dust",
+    "count": 1,
+    "buckets": 0
+  },
+  "rng_slot_0": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "rng_slot_1": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "rng_slot_2": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  }
+}

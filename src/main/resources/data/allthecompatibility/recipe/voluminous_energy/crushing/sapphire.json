@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    }
+  ],
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "tag": "c:gems/sapphire",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "alltheores:sapphire_dust",
+    "count": 1
+  },
+  "experience": {
+    "minimum": 1,
+    "maximum": 3
+  }
+}

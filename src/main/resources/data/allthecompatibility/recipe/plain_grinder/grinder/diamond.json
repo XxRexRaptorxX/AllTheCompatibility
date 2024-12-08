@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "c:gems/diamond"
+  },
+  "result": {
+    "item": "alltheores:diamond_dust",
+    "count": 2
+  }
+}

@@ -7,12 +7,12 @@
   ],
   "type": "simplegrinder:grinder",
   "ingredient": {
-    "tag": "c:gems/sapphire"
+    "tag": "c:ores/copper"
   },
 
   "result": {
-    "id": "alltheores:sapphire_dust",
-    "count": 1
+    "id": "alltheores:copper_dust",
+    "count": 4
   },
 
   "experience": 0.1,

@@ -13,7 +13,7 @@
   },
   "percent": 50,
   "bonus": {
-    "item": "alltheores:sapphire_dust",
+    "item": "alltheores:sapphire",
     "count": 2
   },
   "neoforge:conditions": [

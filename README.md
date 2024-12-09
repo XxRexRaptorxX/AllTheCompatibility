@@ -8,7 +8,9 @@
 
 ## 📖 Description
 
-Tired of the fact that each mod uses its own ores and each machine consumes and produces different types of the same ores/ingots/dusts/...? This mod standardizes everything, it changes that all machines use ores, ingots, plates, ... from the mod [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato).
+Tired of the fact that each mod uses its own ores and each machine consumes and produces different types of the same ores/ingots/dusts/...? 
+
+This mod standardizes everything, it changes that all machines use ores, ingots, plates, ... from the mod [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato) and adds additional recipes for all new ores to the respective machines.
 
 (When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
  

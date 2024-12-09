@@ -17,14 +17,14 @@
     "buckets": 0
   },
   "rng_slot_0": {
-    "item": "minecraft:air",
-    "count": 0,
+    "item": "voluminousenergy:sand_dust",
+    "count": 1,
     "chance": 0
   },
   "rng_slot_1": {
-    "item": "minecraft:air",
-    "count": 0,
-    "chance": 0
+    "item": "voluminousenergy:flint_dust",
+    "count": 1,
+    "chance": 0.3
   },
   "rng_slot_2": {
     "item": "minecraft:air",

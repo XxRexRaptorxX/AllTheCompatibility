@@ -3,16 +3,23 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "voluminousenergy"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dirty_dusts/iron"
+      },
+      "type": "neoforge:not"
     }
   ],
   "type": "voluminousenergy:centrifugal_separation",
   "ingredient": {
-    "tag": "c:dirty_dusts/iridium",
+    "tag": "c:dirty_dusts/iron",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:iridium_dust",
+    "item": "alltheores:iron_dust",
     "count": 1,
     "buckets": 0
   },

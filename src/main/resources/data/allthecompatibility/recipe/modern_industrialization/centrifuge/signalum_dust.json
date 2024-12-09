@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:centrifuge",
+  "eu": 5,
+  "duration": 500,
+  "item_inputs" : [
+    {
+      "tag" :  "c:dusts/signalum",
+      "amount": 4
+    }
+  ],
+  "item_outputs":[
+    {
+      "item": "minecraft:redstone",
+      "amount": 4
+
+    },
+    {
+      "item": "alltheores:copper_dust",
+      "amount": 3
+    },
+    {
+      "item": "alltheores:silver_dust",
+      "amount": 1
+    }
+  ]
+}

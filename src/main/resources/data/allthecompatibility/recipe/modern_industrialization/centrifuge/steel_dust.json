@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:centrifuge",
+  "eu": 3,
+  "duration": 500,
+  "item_inputs" : [
+    {
+      "tag" :  "c:dusts/steel",
+      "amount": 1
+    }
+  ],
+  "item_outputs":[
+    {
+      "item": "alltheores:iron_dust",
+      "amount": 1
+
+    },
+    {
+      "item": "modern_industrialization:coal_dust",
+      "amount": 4
+    },
+    {
+      "item" : "modern_industrialization:coal_tiny_dust",
+      "amount": 1,
+      "probability" : 0.5
+    }
+  ]
+}

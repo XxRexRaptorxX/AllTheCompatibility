@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:centrifuge",
+  "eu": 3,
+  "duration": 400,
+  "item_inputs" : [
+    {
+      "tag" :  "c:dirty_dusts/zinc",
+      "amount": 1
+    }
+  ],
+  "item_outputs":[
+    {
+      "item": "alltheores:zinc_dust",
+      "amount": 1
+
+    },
+    {
+      "item": "modern_industrialization:brick_dust",
+      "amount": 1
+    },
+    {
+      "item" : "modern_industrialization:brick_tiny_dust",
+      "amount": 1,
+      "probability" : 0.5
+    },
+    {
+      "item" : "modern_industrialization:quartz_tiny_dust",
+      "amount": 1,
+      "probability" : 0.2
+    }
+  ]
+}

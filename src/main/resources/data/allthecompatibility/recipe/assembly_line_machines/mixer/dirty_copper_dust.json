@@ -3,6 +3,13 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "assemblylinemachines"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dirty_dusts/copper"
+      },
+      "type": "neoforge:not"
     }
   ],
   "type": "assemblylinemachines:bath",
@@ -17,7 +24,7 @@
   },
   "stirs": 4,
   "fluid": "water",
-  "mix_color": "#B7AE9A",
+  "mix_color": "#383631",
   "mixer_type": "MIXER_ONLY",
   "drain_percent": "QUARTER"
 }

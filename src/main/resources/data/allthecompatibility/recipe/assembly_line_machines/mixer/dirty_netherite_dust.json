@@ -3,17 +3,24 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "assemblylinemachines"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dirty_dusts/netherite"
+      },
+      "type": "neoforge:not"
     }
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_nickel_dust"
+    "item": "alltheores:dirty_netherite_dust"
   },
   "input_b":{
-    "item": "alltheores:dirty_nickel_dust"
+    "item": "alltheores:dirty_netherite_dust"
   },
   "output":{
-    "item": "alltheores:nickel_dust"
+    "item": "alltheores:netherite_dust"
   },
   "stirs": 4,
   "fluid": "water",

@@ -28,7 +28,7 @@ This mod standardizes everything, it changes that all machines use ores, ingots,
 - **[Create][create]**
   - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
 - **[Voluminous Energy][ve]**
-  - Crusher, Centrifugal Seperation, Implosion Compresser, Industrial Blast Furnace
+  - Crusher, Centrifugal Seperation, Implosion Compressor, Industrial Blast Furnace
 - **[Industrial Reborn][ir]**
   - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
 - **[FTB Industrial Contraptions][ic]**

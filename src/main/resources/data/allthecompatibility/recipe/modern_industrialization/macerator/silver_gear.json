@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:macerator",
+  "duration": 800,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:gears/silver"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 2,
+      "item": "alltheores:silver_dust"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:rings/osmium"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "modern_industrialization:assembler",
+  "duration": 200,
+  "eu": 2,
+  "fluid_inputs": [
+    {
+      "amount": 100,
+      "fluid": "modern_industrialization:soldering_alloy"
+    }
+  ],
+  "item_inputs": [
+    {
+      "amount": 4,
+      "tag": "c:plates/osmium"
+    },
+    {
+      "amount": 1,
+      "tag": "c:rings/osmium"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 2,
+      "item": "alltheores:osmium_gear"
+    }
+  ]
+}

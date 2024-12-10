@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:macerator",
+  "duration": 800,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:plates/nickel"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 1,
+      "item": "alltheores:nickel_dust"
+    }
+  ]
+}

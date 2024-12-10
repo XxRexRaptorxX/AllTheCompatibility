@@ -34,7 +34,7 @@ This mod standardizes everything, it changes that all machines use ores, ingots,
 - **[FTB Industrial Contraptions][ic]**
   - Macerator, Extruder, Rolling Machine
 - **[Energized Power][ep]**
-  - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant
+  - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant, Crystal Growth Chamber
 - **[Modern Industrialization][mi]**
   - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
 - **[Applied Energistics 2][ae]**

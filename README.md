@@ -13,7 +13,9 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 This mod standardizes everything, it changes that all machines use ores, ingots, plates, ... from the mod [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato) and adds additional recipes for all new ores to the respective machines.
 
 (When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
- 
+
+### Adds more than 1.300 recipes!
+
 -----
 
 ## 🗃️ Dependencies & supported mods
@@ -34,7 +36,7 @@ This mod standardizes everything, it changes that all machines use ores, ingots,
 - **[Energized Power][ep]**
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant
 - **[Modern Industrialization][mi]**
-  - Mixer
+  - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
 - **[Botania][botania]**
   - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**

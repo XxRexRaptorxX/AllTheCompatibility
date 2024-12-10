@@ -37,6 +37,8 @@ This mod standardizes everything, it changes that all machines use ores, ingots,
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant
 - **[Modern Industrialization][mi]**
   - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
+- **[Applied Energistics 2][ae]**
+  - Transform 
 - **[Botania][botania]**
   - Orchid, Ignem Orchid
 - **[Cyclic][cyclic]**
@@ -70,3 +72,4 @@ All rights reserved.
 [aa]: https://www.curseforge.com/minecraft/mc-mods/ad-astra
 [ic]: https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge
 [mi]: https://www.curseforge.com/minecraft/mc-mods/modern-industrialization
+[ae]: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2

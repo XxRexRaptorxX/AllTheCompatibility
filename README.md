@@ -8,11 +8,9 @@
 
 ## 📖 Description
 
-Tired of the fact that each mod uses its own ores and each machine consumes and produces different types of the same ores/ingots/dusts/...? 
+This mod aims to make [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato) compatible with the machines of all tech mods by adding all missing recipes for all available ores and making sure that as far as possible the ores/ingots/dusts/... from AllTheOres are used!
 
-This mod standardizes everything, it changes that all machines use ores, ingots, plates, ... from the mod [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato) and adds additional recipes for all new ores to the respective machines.
-
-(When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
+No more 5 different tin ingots or missing recipes!
 
 ### Adds more than 1.300 recipes!
 
@@ -49,6 +47,10 @@ This mod standardizes everything, it changes that all machines use ores, ingots,
   - Grinder
 - **[Ad Astra][aa]**
   - Compressor, Alloy Smelter, Hammer
+
+-----
+
+(When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
 
 -----
 

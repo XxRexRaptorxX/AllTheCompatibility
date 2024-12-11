@@ -58,7 +58,7 @@ No more 5 different tin ingots or missing recipes!
 
 All rights reserved.
 
-[cf_mod]: https://legacy.curseforge.com/minecraft/mc-mods/all-the-compatibility
+[cf_mod]: https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility
 [mr_mod]: https://modrinth.com/mod/all-the-compatibility
 
 [ato]: https://www.curseforge.com/minecraft/mc-mods/ato

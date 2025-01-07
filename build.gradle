@@ -140,40 +140,49 @@ dependencies {
 
     implementation "net.neoforged:neoforge:${forge_version}"
 
-    //JEI
-    compileOnly ("mezz.jei:jei-${mc_version}-common-api:${jei_version}")
-    compileOnly ("mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}")
-    runtimeOnly ("mezz.jei:jei-${mc_version}-neoforge:${jei_version}")
+    //tools
+    compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
+    compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
+    runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
+    runtimeOnly "curse.maven:jade-324717:${jade_version}"
 
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly ("curse.maven:alltheores-405593:${ato_version}")
+    runtimeOnly "curse.maven:alltheores-405593:${ato_version}"
 
     //[optional]
-    //runtimeOnly ("com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
-    //runtimeOnly ("com.jozufozu.flywheel:flywheel-forge-1.20:${flywheel_version}")
-    //runtimeOnly ("com.tterrag.registrate:Registrate:${registrate_version}")
-    //runtimeOnly ("vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}-FORGE")
-    //runtimeOnly ("vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE")
-    //runtimeOnly ("top.theillusivec4.curios:curios-forge:${curios_version}")
+    runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
+    //runtimeOnly "com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
+    //runtimeOnly "com.jozufozu.flywheel:flywheel-forge-1.20:${flywheel_version}"
+    //runtimeOnly "com.tterrag.registrate:Registrate:${registrate_version}"
+    //runtimeOnly "vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}-FORGE"
+    //runtimeOnly "vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE"
+    //runtimeOnly "top.theillusivec4.curios:curios-forge:${curios_version}"
 
-    //runtimeOnly ("curse.maven:flib-661261:${flib_version}")
-    //runtimeOnly ("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
-    //runtimeOnly ("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}")
-    //runtimeOnly ("curse.maven:indreb-358877:${industrial_reborn_version}")
-    //runtimeOnly ("curse.maven:plaingrinder-452000:${plain_grinder_version}")
-    //runtimeOnly ("curse.maven:cyclic-239286:${cyclic_version}")
-    runtimeOnly ("curse.maven:simplegrinder-238899:${simple_grinder_version}")
-    runtimeOnly ("curse.maven:energized-power-782147:${energized_power_version}")
-    //runtimeOnly ("curse.maven:botarium-704113:${botarium_version}")
-    //runtimeOnly ("curse.maven:resourceful-lib-570073:${resourceful_lib_version}")
-    //runtimeOnly ("curse.maven:resourceful-config-714059:${resourceful_config_version}")
-    //runtimeOnly ("curse.maven:ad-astra-635042:${ad_astra_version}")
-    runtimeOnly ("curse.maven:mekanism-268560:${mekanism_version}") //to avoid ATO recipe errors
-    runtimeOnly ("curse.maven:modern-industrializazion-405388:${modern_industrialization_version}")
-    runtimeOnly ("curse.maven:cloth-confg-api-348521:${cloth_config_api_version}")
-    runtimeOnly ("curse.maven:applied-energistics-223794:${applied_energistics_version}")
-    runtimeOnly ("curse.maven:ae2-jei-integration-1074338:${ae2_jei_integration_version}")
+    //runtimeOnly "curse.maven:flib-661261:${flib_version}"
+    //runtimeOnly "curse.maven:voliminousenergy-416704:${voluminous_energy_version}"
+    //runtimeOnly "curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}"
+    //runtimeOnly "curse.maven:indreb-358877:${industrial_reborn_version}"
+    //runtimeOnly "curse.maven:plaingrinder-452000:${plain_grinder_version}"
+    //runtimeOnly "curse.maven:cyclic-239286:${cyclic_version}"
+    runtimeOnly "curse.maven:simplegrinder-238899:${simple_grinder_version}"
+    runtimeOnly "curse.maven:energized-power-782147:${energized_power_version}"
+    //runtimeOnly "curse.maven:botarium-704113:${botarium_version}"
+    //runtimeOnly "curse.maven:resourceful-lib-570073:${resourceful_lib_version}"
+    //runtimeOnly "curse.maven:resourceful-config-714059:${resourceful_config_version}"
+    //runtimeOnly "curse.maven:ad-astra-635042:${ad_astra_version}"
+    runtimeOnly "curse.maven:mekanism-268560:${mekanism_version}" //to avoid ATO recipe errors
+    runtimeOnly "curse.maven:modern-industrializazion-405388:${modern_industrialization_version}"
+    runtimeOnly "curse.maven:cloth-confg-api-348521:${cloth_config_api_version}"
+    runtimeOnly "curse.maven:applied-energistics-223794:${applied_energistics_version}"
+    runtimeOnly "curse.maven:ae2-jei-integration-1074338:${ae2_jei_integration_version}"
+
+    runtimeOnly "curse.maven:ori-tech-1030830:${ori_tech_version}"
+    runtimeOnly "curse.maven:architectury-419699:${architectury_version}"
+    runtimeOnly "curse.maven:athena-841890:${athena_version}"
+    runtimeOnly "curse.maven:gecko-lib-388172:${gecko_lib_version}"
+    runtimeOnly "curse.maven:owo-lib-532610:${owo_lib_version}"
+    runtimeOnly "curse.maven:fabric-api-889079:${fabric_api_version}"
 }
 
 

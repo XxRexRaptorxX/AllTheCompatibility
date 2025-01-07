@@ -16,6 +16,12 @@ No more 5 different tin ingots or missing recipes!
 
 -----
 
+![review_pic_1](https://github.com/XxRexRaptorxX/AllTheCompatibility/blob/main/src/main/resources/review_1.png?raw=true)
+
+![review_pic_2](https://github.com/XxRexRaptorxX/AllTheCompatibility/blob/main/src/main/resources/review_2.png?raw=true)
+
+-----
+
 ## 🗃️ Dependencies & supported mods
 
 

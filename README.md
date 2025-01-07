@@ -28,7 +28,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Voluminous Energy][ve]**
   - Crusher, Centrifugal Seperation, Implosion Compressor, Industrial Blast Furnace
 - **[Industrial Reborn][ir]**
-  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
+  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox, Ore Washing
 - **[FTB Industrial Contraptions][ic]**
   - Macerator, Extruder, Rolling Machine
 - **[Energized Power][ep]**

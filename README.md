@@ -35,6 +35,8 @@ No more 5 different tin ingots or missing recipes!
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant, Crystal Growth Chamber
 - **[Modern Industrialization][mi]**
   - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
+- **[Ad Astra][aa]**
+  - Compressor, Alloy Smelter, Hammer
 - **[Applied Energistics 2][ae]**
   - Transform 
 - **[Botania][botania]**
@@ -45,8 +47,10 @@ No more 5 different tin ingots or missing recipes!
   - Grinder
 - **[Simple Grinder][sg]**
   - Grinder
-- **[Ad Astra][aa]**
-  - Compressor, Alloy Smelter, Hammer
+- **[Allthemodium][am]**
+  - support of the metals for all machines
+- **[OriTech][ot]**
+  - *coming soon!* 
 
 -----
 
@@ -75,3 +79,5 @@ All rights reserved.
 [ic]: https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge
 [mi]: https://www.curseforge.com/minecraft/mc-mods/modern-industrialization
 [ae]: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+[am]: https://www.curseforge.com/minecraft/mc-mods/allthemodium
+[ot]: https://www.curseforge.com/minecraft/mc-mods/oritech

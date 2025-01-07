@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "modern_industrialization:centrifuge",
+  "eu": 3,
+  "duration": 400,
+  "item_inputs" : [
+    {
+      "tag" :  "c:dirty_dusts/unobtanium",
+      "amount": 1
+    }
+  ],
+  "item_outputs":[
+    {
+      "item": "allthemodium:unobtanium_dust",
+      "amount": 1
+
+    },
+    {
+      "item": "modern_industrialization:brick_dust",
+      "amount": 1
+    },
+    {
+      "item" : "modern_industrialization:brick_tiny_dust",
+      "amount": 1,
+      "probability" : 0.5
+    },
+    {
+      "item" : "modern_industrialization:quartz_tiny_dust",
+      "amount": 1,
+      "probability" : 0.3
+    }
+  ]
+}

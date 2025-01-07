@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "c:raw_materials/vibranium"
+  },
+  "output": {
+    "output": {
+      "item": "allthemodium:vibranium_dust"
+    },
+    "percentages": [ 1.0, 0.1 ],
+    "percentagesAdvanced": [ 1.0, 0.5 ]
+  }
+}

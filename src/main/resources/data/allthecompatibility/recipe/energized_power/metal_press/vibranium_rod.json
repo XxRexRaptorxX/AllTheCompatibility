@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:metal_press",
+  "ingredient": [
+    {
+      "tag": "c:plates/vibranium"
+    }
+  ],
+  "inputCount": 2,
+  "pressMold": {
+    "item": "energizedpower:rod_press_mold"
+  },
+  "output": {
+    "item": "allthemodium:vibranium_rod"
+  }
+}

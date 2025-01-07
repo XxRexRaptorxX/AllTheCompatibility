@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "c:ingots/allthemodium",
+    "count": 2
+  },
+  "output": {
+    "item": "assemblylinemachines:plate_mold"
+  },
+  "moldItem": "allthemodium:allthemodium_plate",
+  "time": 30
+}

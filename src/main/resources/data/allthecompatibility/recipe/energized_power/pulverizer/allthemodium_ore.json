@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "c:ores/allthemodium"
+  },
+  "output": {
+    "output": {
+      "item": "allthemodium:allthemodium_dust"
+    },
+    "percentages": [ 1.0, 1.0, 0.1 ],
+    "percentagesAdvanced": [ 1.0, 1.0, 0.5 ]
+  }
+}

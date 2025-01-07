@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "modern_industrialization:centrifuge",
+  "eu": 10,
+  "duration": 1000,
+  "item_inputs" : [
+    {
+      "item" :  "allthemodium:vibranium_allthemodium_alloy_dust",
+      "amount": 2
+    }
+  ],
+  "item_outputs":[
+    {
+      "item": "allthemodium:vibranium_dust",
+      "amount": 1
+
+    },
+    {
+      "item": "allthemodium:allthemodium_dust",
+      "amount": 1
+    }
+  ]
+}

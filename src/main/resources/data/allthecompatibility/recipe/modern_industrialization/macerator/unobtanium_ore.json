@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "modern_industrialization:macerator",
+  "duration": 400,
+  "eu": 4,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:ore/unobtanium"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 1,
+      "item": "allthemodium:raw_unobtanium"
+    },
+    {
+      "amount": 1,
+      "item": "allthemodium:raw_unobtanium",
+      "probability": 0.8
+    }
+  ]
+}

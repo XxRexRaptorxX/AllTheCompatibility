@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "ftbic:extruding",
+  "inputItems": [
+    {
+      "count": 4,
+      "ingredient": {
+        "tag": "c:plates/vibranium"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "allthemodium:vibranium_gear"
+    }
+  ]
+}

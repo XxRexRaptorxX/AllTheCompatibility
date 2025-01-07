@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "simplegrinder"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "simplegrinder:grinder",
+  "ingredient": {
+    "tag": "c:raw_materials/allthemodium"
+  },
+
+  "result": {
+    "id": "allthemodium:allthemodium_dust",
+    "count": 2
+  },
+
+  "experience": 0.2,
+  "cookingtime": 300
+}

@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "assemblylinemachines:grinder",
+  "input":{
+    "tag": "c:ores/allthemodium"
+  },
+  "output":{
+    "item": "allthemodium:allthemodium_dust"
+  },
+  "grinds": 12,
+  "chanceToDouble": 0.8,
+  "bladetype": "TITANIUM"
+}

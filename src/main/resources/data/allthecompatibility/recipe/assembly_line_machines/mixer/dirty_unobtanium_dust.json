@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "assemblylinemachines:bath",
+  "input_a":{
+    "item": "allthemodium:dirty_unobtanium_dust"
+  },
+  "input_b":{
+    "item": "allthemodium:dirty_unobtanium_dust"
+  },
+  "output":{
+    "item": "allthemodium:unobtanium_dust"
+  },
+  "stirs": 6,
+  "fluid": "water",
+  "mix_color": "#383631",
+  "mixer_type": "MIXER_ONLY",
+  "drain_percent": "QUARTER"
+}

@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "modern_industrialization:macerator",
+  "duration": 1600,
+  "eu": 4,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:ingots/allthemodium"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 1,
+      "item": "allthemodium:allthemodium_dust"
+    }
+  ]
+}

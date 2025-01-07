@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "c:ores/vibranium"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "allthemodium:vibranium_dust"
+    },
+    {
+      "chance": 0.80,
+      "item": "allthemodium:vibranium_dust"
+    }
+  ]
+}

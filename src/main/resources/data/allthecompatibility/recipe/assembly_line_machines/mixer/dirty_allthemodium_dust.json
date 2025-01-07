@@ -11,10 +11,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "allthemodium:dirty_allthemodium_dust"
+    "item": "allthemodium:dirty_allthemodium"
   },
   "input_b":{
-    "item": "allthemodium:dirty_allthemodium_dust"
+    "item": "allthemodium:dirty_allthemodium"
   },
   "output":{
     "item": "allthemodium:allthemodium_dust"

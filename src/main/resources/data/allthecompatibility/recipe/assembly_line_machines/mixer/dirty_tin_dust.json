@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_tin_dust"
+    "tag": "c:dirty_dusts/tin"
   },
   "input_b":{
-    "item": "alltheores:dirty_tin_dust"
+    "tag": "c:dirty_dusts/tin"
   },
   "output":{
     "item": "alltheores:tin_dust"

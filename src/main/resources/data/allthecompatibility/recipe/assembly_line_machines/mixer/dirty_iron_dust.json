@@ -14,10 +14,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_iron_dust"
+    "tag": "c:dirty_dusts/iron"
   },
   "input_b":{
-    "item": "alltheores:dirty_iron_dust"
+    "tag": "c:dirty_dusts/iron"
   },
   "output":{
     "item": "alltheores:iron_dust"

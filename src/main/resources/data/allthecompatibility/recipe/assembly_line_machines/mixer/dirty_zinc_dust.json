@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_zinc_dust"
+    "tag": "c:dirty_dusts/zinc"
   },
   "input_b":{
-    "item": "alltheores:dirty_zinc_dust"
+    "tag": "c:dirty_dusts/zinc"
   },
   "output":{
     "item": "alltheores:zinc_dust"

@@ -11,10 +11,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "allthemodium:dirty_vibranium_dust"
+    "tag": "c:dirty_dusts/vibranium"
   },
   "input_b":{
-    "item": "allthemodium:dirty_vibranium_dust"
+    "tag": "c:dirty_dusts/vibranium"
   },
   "output":{
     "item": "allthemodium:vibranium_dust"

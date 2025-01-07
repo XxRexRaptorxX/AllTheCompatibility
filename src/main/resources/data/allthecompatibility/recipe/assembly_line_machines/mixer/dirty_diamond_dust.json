@@ -14,10 +14,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_diamond_dust"
+    "tag": "c:dirty_dusts/diamond"
   },
   "input_b":{
-    "item": "alltheores:dirty_diamond_dust"
+    "tag": "c:dirty_dusts/diamond"
   },
   "output":{
     "item": "alltheores:diamond_dust"

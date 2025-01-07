@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_platinum_dust"
+    "tag": "c:dirty_dusts/platinum"
   },
   "input_b":{
-    "item": "alltheores:dirty_platinum_dust"
+    "tag": "c:dirty_dusts/platinum"
   },
   "output":{
     "item": "alltheores:platinum_dust"

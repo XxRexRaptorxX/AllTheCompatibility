@@ -14,10 +14,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_netherite_dust"
+    "tag": "c:dirty_dusts/netherite"
   },
   "input_b":{
-    "item": "alltheores:dirty_netherite_dust"
+    "tag": "c:dirty_dusts/netherite"
   },
   "output":{
     "item": "alltheores:netherite_dust"

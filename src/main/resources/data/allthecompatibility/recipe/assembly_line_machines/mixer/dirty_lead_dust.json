@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_lead_dust"
+    "tag": "c:dirty_dusts/lead"
   },
   "input_b":{
-    "item": "alltheores:dirty_lead_dust"
+    "tag": "c:dirty_dusts/lead"
   },
   "output":{
     "item": "alltheores:lead_dust"

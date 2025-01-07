@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_uranium_dust"
+    "tag": "c:dirty_dusts/uranium"
   },
   "input_b":{
-    "item": "alltheores:dirty_uranium_dust"
+    "tag": "c:dirty_dusts/uranium"
   },
   "output":{
     "item": "alltheores:uranium_dust"

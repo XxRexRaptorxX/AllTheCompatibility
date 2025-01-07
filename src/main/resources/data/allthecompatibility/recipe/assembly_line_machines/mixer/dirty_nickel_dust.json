@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_nickel_dust"
+    "tag": "c:dirty_dusts/nickel"
   },
   "input_b":{
-    "item": "alltheores:dirty_nickel_dust"
+    "tag": "c:dirty_dusts/nickel"
   },
   "output":{
     "item": "alltheores:nickel_dust"

@@ -14,10 +14,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_copper_dust"
+    "tag": "c:dirty_dusts/copper"
   },
   "input_b":{
-    "item": "alltheores:dirty_copper_dust"
+    "tag": "c:dirty_dusts/copper"
   },
   "output":{
     "item": "alltheores:copper_dust"

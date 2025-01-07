@@ -14,10 +14,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_gold_dust"
+    "tag": "c:dirty_dusts/gold"
   },
   "input_b":{
-    "item": "alltheores:dirty_gold_dust"
+    "tag": "c:dirty_dusts/gold"
   },
   "output":{
     "item": "alltheores:gold_dust"

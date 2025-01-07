@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_aluminum_dust"
+    "tag": "c:dirty_dusts/aluminum"
   },
   "input_b":{
-    "item": "alltheores:dirty_aluminum_dust"
+    "tag": "c:dirty_dusts/aluminum"
   },
   "output":{
     "item": "alltheores:aluminum_dust"

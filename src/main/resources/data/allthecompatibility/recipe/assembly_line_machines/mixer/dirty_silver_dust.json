@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_silver_dust"
+    "tag": "c:dirty_dusts/silver"
   },
   "input_b":{
-    "item": "alltheores:dirty_silver_dust"
+    "tag": "c:dirty_dusts/silver"
   },
   "output":{
     "item": "alltheores:silver_dust"

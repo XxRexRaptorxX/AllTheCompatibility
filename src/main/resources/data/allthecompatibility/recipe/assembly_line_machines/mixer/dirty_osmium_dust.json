@@ -7,10 +7,10 @@
   ],
   "type": "assemblylinemachines:bath",
   "input_a":{
-    "item": "alltheores:dirty_osmium_dust"
+    "tag": "c:dirty_dusts/osmium"
   },
   "input_b":{
-    "item": "alltheores:dirty_osmium_dust"
+    "tag": "c:dirty_dusts/osmium"
   },
   "output":{
     "item": "alltheores:osmium_dust"

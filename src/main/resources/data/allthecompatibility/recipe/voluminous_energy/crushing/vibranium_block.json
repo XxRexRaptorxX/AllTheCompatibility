@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "tag": "c:storage_blocks/vibranium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:vibranium_dust",
+    "count": 9
+  },
+  "rng": {
+    "item": "allthemodium:vibranium_dust",
+    "count": 9,
+    "chance": 0.15
+  },
+  "experience": {
+    "minimum": 3,
+    "maximum": 6
+  }
+}

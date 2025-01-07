@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "assemblylinemachines"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+
+  "type": "assemblylinemachines:pneumatic",
+  "input": {
+    "tag": "c:ingots/unobtainium",
+    "count": 2
+  },
+  "output": {
+    "item": "assemblylinemachines:rod_mold"
+  },
+  "moldItem": "allthemodium:unobtainium_rod",
+  "time": 30
+}

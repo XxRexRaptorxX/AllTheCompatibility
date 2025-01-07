@@ -9,20 +9,15 @@
       "modid": "allthemodium"
     }
   ],
-  "type": "create:crushing",
+  "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "c:raw_materials/unobtainium"
+      "tag": "c:ingots/unobtainium"
     }
   ],
   "results": [
     {
-      "item": "allthemodium:unobtainium_dust"
-    },
-    {
-      "item": "create:experience_nugget",
-      "chance": 1.0
+      "item": "allthemodium:unobtainium_plate"
     }
-  ],
-  "processingTime": 800
+  ]
 }

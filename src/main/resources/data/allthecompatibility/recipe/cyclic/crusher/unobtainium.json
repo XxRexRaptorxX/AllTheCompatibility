@@ -1,19 +1,19 @@
 {
   "type": "cyclic:crusher",
   "input": {
-    "tag": "c:ores/vibranium"
+    "tag": "c:ores/unobtainium"
   },
   "energy": {
     "ticks": 1200,
     "rfpertick": 120
   },
   "result": {
-    "item": "allthemodium:raw_vibranium",
+    "item": "allthemodium:raw_unobtainium",
     "count": 1
   },
   "percent": 75,
   "bonus": {
-    "item": "alltheores:vibranium_nugget",
+    "item": "alltheores:unobtainium_nugget",
     "count": 3
   },
   "neoforge:conditions": [

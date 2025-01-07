@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "indreb"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "indreb:compressing",
+  "chance_result": [],
+  "duration": 260,
+  "experience": 0.6,
+  "ingredients": [
+    {
+      "count": 9,
+      "tag": "c:ingots/unobtainium"
+    }
+  ],
+  "result": {
+    "item": "allthemodium:unobtainium_block"
+  },
+  "tick_energy_cost": 16
+}

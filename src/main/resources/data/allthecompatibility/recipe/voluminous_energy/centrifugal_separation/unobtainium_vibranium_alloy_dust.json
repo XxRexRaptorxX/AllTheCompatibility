@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:centrifugal_separation",
+  "ingredient": {
+    "item": "allthemodium:unobtainium_vibranium_alloy_dust",
+    "count": 2
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:unobtainium_dust",
+    "count": 1,
+    "buckets": 0
+  },
+  "rng_slot_0": {
+    "item": "allthemodium:vibranium_dust",
+    "count": 1,
+    "chance": 1
+  },
+  "rng_slot_1": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "rng_slot_2": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  }
+}

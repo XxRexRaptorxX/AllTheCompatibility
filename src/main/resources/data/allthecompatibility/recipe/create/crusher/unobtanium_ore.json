@@ -12,18 +12,18 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "allthemodium:unobtanium_ore"
+      "item": "allthemodium:unobtainium_ore"
     }
   ],
   "processingTime": 500,
   "results": [
     {
       "count": 1,
-      "item": "allthemodium:unobtanium_dust"
+      "item": "allthemodium:unobtainium_dust"
     },
     {
       "chance": 0.25,
-      "item": "allthemodium:unobtanium_dust"
+      "item": "allthemodium:unobtainium_dust"
     },
     {
       "chance": 1.0,

@@ -12,7 +12,7 @@ This mod aims to make [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/
 
 No more 5 different tin ingots or missing recipes!
 
-### Adds more than 1.300 recipes!
+### Adds more than 1.500 recipes!
 
 -----
 
@@ -40,7 +40,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Applied Energistics 2][ae]**
   - Transform 
 - **[Botania][botania]**
-  - Orchid, Ignem Orchid
+  - Orechid, Ignem Orechid
 - **[Cyclic][cyclic]**
   - Crusher
 - **[Plain Grinder][pg]**

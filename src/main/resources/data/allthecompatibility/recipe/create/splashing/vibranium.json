@@ -9,20 +9,16 @@
       "modid": "allthemodium"
     }
   ],
-  "type": "create:crushing",
+  "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "c:raw_materials/unobtainium"
+      "tag": "c:dusts/vibranium"
     }
   ],
   "results": [
     {
-      "item": "allthemodium:unobtainium_dust"
-    },
-    {
-      "item": "create:experience_nugget",
-      "chance": 1.0
+      "item": "allthemodium:vibranium_nugget",
+      "count": 9
     }
-  ],
-  "processingTime": 800
+  ]
 }

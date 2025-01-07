@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "tag": "c:ores/unobtainium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:unobtainium_dust",
+    "count": 1
+  },
+  "rng": {
+    "item": "allthemodium:unobtainium_dust",
+    "count": 1,
+    "chance": 0.8
+  },
+  "experience": {
+    "minimum": 3,
+    "maximum": 6
+  }
+}

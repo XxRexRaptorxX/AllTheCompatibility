@@ -44,68 +44,68 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     modId="voluminousenergy"
     mandatory=false
     versionRange="[1.20,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="indreb"
     mandatory=false
     versionRange="[1.20,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="assemblylinemachines"
     mandatory=false
     versionRange="[1.20,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="create"
     mandatory=false
     versionRange="[0.4,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="plaingrinder"
     mandatory=false
     versionRange="[1.2.4,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="botania"
     mandatory=false
     versionRange="[1.20,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="cyclic"
     mandatory=false
     versionRange="[1.12.3,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="simplegrinder"
     mandatory=false
     versionRange="[0.2,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="energizedpower"
     mandatory=false
     versionRange="[1.20.1-2.8.0,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
     modId="ad_astra"
     mandatory=false
     versionRange="[1.15.7,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"

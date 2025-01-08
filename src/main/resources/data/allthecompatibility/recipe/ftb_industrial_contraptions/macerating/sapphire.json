@@ -10,14 +10,13 @@
     {
       "count": 1,
       "ingredient": {
-        "tag": "c:ores/sulfur"
+        "tag": "c:gems/sapphire"
       }
     }
   ],
   "outputItems": [
     {
-      "count": 2,
-      "item": "alltheores:sulfur"
+      "item": "alltheores:sapphire_dust"
     }
   ]
 }

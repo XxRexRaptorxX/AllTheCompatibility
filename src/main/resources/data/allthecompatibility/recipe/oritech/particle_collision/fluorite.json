@@ -12,16 +12,16 @@
   "fluidOutputVariant": "minecraft:empty",
   "ingredients": [
     {
-      "tag": "c:dusts/"
+      "tag": "c:dusts/fluorite"
     },
     {
-      "tag": "c:dusts/"
+      "tag": "c:dusts/fluorite"
     }
   ],
   "results": [
     {
       "count": 1,
-      "id": "alltheores:_crystal"
+      "id": "alltheores:fluorite"
     }
   ],
   "time": 500

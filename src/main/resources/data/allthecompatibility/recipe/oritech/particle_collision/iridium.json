@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "oritech"
+    }
+  ],
+  "type": "oritech:particle_collision",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
+    {
+      "tag": "c:dusts/iridium"
+    },
+    {
+      "tag": "c:dusts/iridium"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "alltheores:iridium_crystal"
+    }
+  ],
+  "time": 500
+}

@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "oritech"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "oritech:centrifuge",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
+    {
+      "item": "allthemodium:vibranium_allthemodium_alloy_dust",
+      "count": 2
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "allthemodium:unobtainium_dust"
+    },
+    {
+      "count": 1,
+      "id": "allthemodium:allthemodium_dust"
+    }
+  ],
+  "time": 400
+}

@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "oritech"
+    }
+  ],
+  "type": "oritech:foundry",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
+    {
+      "tag": "c:ingots/iron",
+      "count": 1
+    },
+    {
+      "tag": "c:dusts/coal",
+      "count": 1
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "alltheores:steel_ingot"
+    }
+  ],
+  "time": 66
+}

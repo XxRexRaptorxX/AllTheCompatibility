@@ -41,6 +41,8 @@ No more 5 different tin ingots or missing recipes!
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant, Crystal Growth Chamber
 - **[Modern Industrialization][mi]**
   - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
+- **[OriTech][ot]**
+  - Atomic Forge, Centrifuge, Foundry, Grinder, Pulverizer, Particle Accelerator
 - **[Ad Astra][aa]**
   - Compressor, Alloy Smelter, Hammer
 - **[Applied Energistics 2][ae]**
@@ -55,8 +57,6 @@ No more 5 different tin ingots or missing recipes!
   - Grinder
 - **[Allthemodium][am]**
   - support of the metals for all machines
-- **[OriTech][ot]**
-  - *coming soon!* 
 
 -----
 

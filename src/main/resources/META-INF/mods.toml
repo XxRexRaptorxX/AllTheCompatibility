@@ -5,7 +5,7 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibil
 
 [[mods]]
 modId="allthecompatibility"
-version="2.1.1"
+version="2.1.1b"
 displayName="All The Compatibility"
 itemIcon="minecraft:crafting_table"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility.json"
@@ -44,75 +44,75 @@ This mod adds recipe compatibility between AllTheOres and other mods!'''
     modId="voluminousenergy"
     mandatory=false
     versionRange="[1.19-0.4.0.0,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="indreb"
     mandatory=false
     versionRange="[1.19.2-0.14.3,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="assemblylinemachines"
     mandatory=false
     versionRange="[1.19,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="create"
     mandatory=false
     versionRange="[0.4,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="plaingrinder"
     mandatory=false
     versionRange="[1.2.4,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="botania"
     mandatory=false
     versionRange="[1.19.2-5.1.4.r,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="cyclic"
     mandatory=false
     versionRange="[1.19,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="simplegrinder"
     mandatory=false
     versionRange="[1.0,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="energizedpower"
     mandatory=false
     versionRange="[1.19.2-2.2.0,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="ad_astra"
     mandatory=false
     versionRange="[1.12.7,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.allthecompatibility]]
     modId="ftbic"
     mandatory=false
     versionRange="[1900.1.7-build.221,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"

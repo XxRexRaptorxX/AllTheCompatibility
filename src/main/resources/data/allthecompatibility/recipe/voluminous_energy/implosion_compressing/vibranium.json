@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:implosion_compressing",
+  "ingredient": {
+    "tag": "c:dusts/vibranium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:vibranium_crystal",
+    "count": 1
+  }
+}

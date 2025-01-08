@@ -48,7 +48,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.21,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -56,7 +56,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.21,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -64,7 +64,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.21,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -72,7 +72,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[0.4,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -80,7 +80,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.2.4,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -88,7 +88,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.21,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -96,7 +96,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.12.3,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -104,7 +104,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[0.2,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -112,7 +112,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.21-2.12.0,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -120,7 +120,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[1.15.7,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -128,7 +128,7 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[2.2.6-alpha,)"
-    ordering="BEFORE"
+    ordering="AFTER"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
@@ -136,5 +136,21 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     mandatory=false
     type="optional"
     versionRange="[19.0.0,)"
-    ordering="BEFORE"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="oritech"
+    mandatory=false
+    type="optional"
+    versionRange="[0.13.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="allthemodium"
+    mandatory=false
+    type="optional"
+    versionRange="[2.8.5,)"
+    ordering="AFTER"
     side="BOTH"

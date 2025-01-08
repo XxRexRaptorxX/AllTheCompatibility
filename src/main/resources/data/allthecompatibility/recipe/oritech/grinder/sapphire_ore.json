@@ -8,15 +8,16 @@
   "type": "ftbic:macerating",
   "inputItems": [
     {
-      "count": 1,
+      "count": 2,
       "ingredient": {
-        "tag": "c:gems/sapphire"
+        "tag": "c:ores/sapphire"
       }
     }
   ],
   "outputItems": [
     {
-      "item": "alltheores:sapphire_dust"
+      "count": 2,
+      "item": "alltheores:sapphire"
     }
   ]
 }

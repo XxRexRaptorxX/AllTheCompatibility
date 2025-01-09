@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/aluminum"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.5,
+  "group": "nuggets_smelting",
+  "ingredient": {
+      "tag": "c:small_dusts/aluminum"
+  },
+  "result": {
+    "count": 1,
+    "id": "alltheores:aluminum_nugget"
+  }
+},

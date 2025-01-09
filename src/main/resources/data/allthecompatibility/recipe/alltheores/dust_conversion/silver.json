@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/silver"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    },
+    {
+      "tag": "c:small_dusts/silver"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:silver_dust"
+  }
+}

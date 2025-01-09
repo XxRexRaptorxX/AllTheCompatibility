@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_clumps/iron"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    },
+    {
+      "tag": "c:small_clumps/iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:iron_clump"
+  }
+}

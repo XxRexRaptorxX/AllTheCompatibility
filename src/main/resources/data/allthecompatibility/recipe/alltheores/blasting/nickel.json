@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/nickel"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 0.5,
+  "group": "nuggets_blasting",
+  "ingredient": {
+    "tag": "c:small_dusts/nickel"
+  },
+  "result": {
+    "count": 1,
+    "id": "alltheores:nickel_nugget"
+  }
+}

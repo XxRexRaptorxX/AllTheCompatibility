@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/silver"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.5,
+  "group": "nuggets_smelting",
+  "ingredient": {
+    "tag": "c:small_dusts/silver"
+  },
+  "result": {
+    "count": 1,
+    "id": "alltheores:silver_nugget"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/osmium"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    },
+    {
+      "tag": "c:small_dusts/osmium"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:osmium_dust"
+  }
+}

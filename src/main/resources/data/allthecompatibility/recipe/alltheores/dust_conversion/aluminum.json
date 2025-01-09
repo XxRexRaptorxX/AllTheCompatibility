@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/aluminum"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    },
+    {
+      "tag": "c:small_dusts/aluminum"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:aluminum_dust"
+  }
+}

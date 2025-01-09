@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_clumps/copper"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    },
+    {
+      "tag": "c:small_clumps/copper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:copper_clump"
+  }
+}

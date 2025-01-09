@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_clumps/zinc"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    },
+    {
+      "tag": "c:small_clumps/zinc"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:zinc_clump"
+  }
+}

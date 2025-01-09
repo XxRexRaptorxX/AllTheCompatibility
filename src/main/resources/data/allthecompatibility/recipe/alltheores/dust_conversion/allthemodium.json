@@ -1,0 +1,50 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/allthemodium"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    },
+    {
+      "tag": "c:small_dusts/allthemodium"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "allthemodium:allthemodium_dust"
+  }
+}

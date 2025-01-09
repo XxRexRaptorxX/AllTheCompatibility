@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_clumps/lead"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    },
+    {
+      "tag": "c:small_clumps/lead"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:lead_clump"
+  }
+}

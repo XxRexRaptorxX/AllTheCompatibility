@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_clumps/iridium"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    },
+    {
+      "tag": "c:small_clumps/iridium"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:iridium_clump"
+  }
+}

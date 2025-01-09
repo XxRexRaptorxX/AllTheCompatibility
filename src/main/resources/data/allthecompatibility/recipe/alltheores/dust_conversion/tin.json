@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/tin"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    },
+    {
+      "tag": "c:small_dusts/tin"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:tin_dust"
+  }
+}

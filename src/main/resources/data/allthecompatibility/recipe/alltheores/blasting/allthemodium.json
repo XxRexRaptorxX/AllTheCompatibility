@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_dusts/allthemodium"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 0.5,
+  "group": "nuggets_blasting",
+  "ingredient": {
+    "tag": "c:small_dusts/allthemodium"
+  },
+  "result": {
+    "count": 1,
+    "id": "allthemodium:allthemodium_nugget"
+  }
+}

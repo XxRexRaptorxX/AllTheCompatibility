@@ -1,0 +1,46 @@
+{
+  "neoforge:conditions": [
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:small_clumps/silver"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    },
+    {
+      "tag": "c:small_clumps/silver"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "alltheores:silver_clump"
+  }
+}

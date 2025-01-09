@@ -12,7 +12,7 @@ This mod aims to make [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/
 
 No more 5 different tin ingots or missing recipes!
 
-### Adds more than 1.900 recipes!
+### Adds more than 2.000 recipes!
 
 -----
 
@@ -26,9 +26,9 @@ No more 5 different tin ingots or missing recipes!
 
 
 - **[All the Ores][ato]** *[required]*
-  -  ore foundation, additional Smelting & Blasting recipes
+  -  Blasting, Smelting, Smithing, dust conversion recipes, clump conversion recipes
 - **[Assembly Line Machines][alm]**
-  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper, Pneunmatic
+  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper, Pneunmatic Press
 - **[Create][create]**
   - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
 - **[Voluminous Energy][ve]**
@@ -42,7 +42,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Modern Industrialization][mi]**
   - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
 - **[OriTech][ot]**
-  - Atomic Forge, Centrifuge, Foundry, Grinder, Pulverizer, Particle Accelerator
+  - Atomic Forge, Centrifuge, Foundry, Deep Drill, Fragment Forge, Pulverizer, Particle Accelerator
 - **[Ad Astra][aa]**
   - Compressor, Alloy Smelter, Hammer
 - **[Applied Energistics 2][ae]**

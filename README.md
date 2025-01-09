@@ -72,8 +72,9 @@ No more 5 different tin ingots or missing recipes!
 
 
 ----
+## 📄 Note
 
-(When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
+When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs.
 
 -----
 

@@ -26,7 +26,7 @@ No more 5 different tin ingots or missing recipes!
 
 
 - **[All the Ores][ato]** *[required]*
-  -  Blasting, Smelting, Smithing, dust conversion recipes, clump conversion recipes
+  -  Blast Furnace, Furnace, Smithing Tables, dust conversion recipes, clump conversion recipes
 - **[Assembly Line Machines][alm]**
   -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper, Pneunmatic Press
 - **[Create][create]**

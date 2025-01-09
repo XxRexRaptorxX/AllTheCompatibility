@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "oritech"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "oritech:foundry",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
+    {
+      "tag": "c:crystals/allthemodium"
+    },
+    {
+      "tag": "c:crystals/allthemodium"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "allthemodium:allthemodium_ingot"
+    }
+  ],
+  "time": 500
+}

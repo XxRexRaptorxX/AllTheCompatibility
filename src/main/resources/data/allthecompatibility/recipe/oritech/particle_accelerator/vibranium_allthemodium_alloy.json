@@ -3,23 +3,30 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "oritech"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
     }
   ],
-  "type": "oritech:pulverizer",
+  "type": "oritech:particle_collision",
   "fluidInputAmount": 0,
   "fluidInputVariant": "minecraft:empty",
   "fluidOutputAmount": 0,
   "fluidOutputVariant": "minecraft:empty",
   "ingredients": [
     {
-      "tag": "c:ores/iron"
+      "tag": "c:dusts/vibranium"
+    },
+    {
+      "tag": "c:dusts/allthemodium"
     }
   ],
   "results": [
     {
-      "count": 2,
-      "id": "alltheores:iron_copper"
+      "count": 1,
+      "id": "allthemodium:vibranium_allthemodium_alloy_ingot"
     }
   ],
-  "time": 200
+  "time": 15000
 }

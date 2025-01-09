@@ -3,10 +3,6 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "oritech"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
     }
   ],
   "type": "oritech:particle_collision",
@@ -16,17 +12,17 @@
   "fluidOutputVariant": "minecraft:empty",
   "ingredients": [
     {
-      "tag": "c:dusts/vibranium"
+      "tag": "c:dusts/diamond"
     },
     {
-      "tag": "c:dusts/allthemodium"
+      "tag": "c:dusts/diamond"
     }
   ],
   "results": [
     {
       "count": 1,
-      "id": "allthemodium:vibranium_allthemodium_ingot"
+      "id": "minecraft:diamond"
     }
   ],
-  "time": 15000
+  "time": 500
 }

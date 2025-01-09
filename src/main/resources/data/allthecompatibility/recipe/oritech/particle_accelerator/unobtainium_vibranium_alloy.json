@@ -19,13 +19,13 @@
       "tag": "c:dusts/unobtainium"
     },
     {
-      "tag": "c:dusts/allthemodium"
+      "tag": "c:dusts/vibranium"
     }
   ],
   "results": [
     {
       "count": 1,
-      "id": "allthemodium:unobtainium_allthemodium_ingot"
+      "id": "allthemodium:unobtainium_vibranium_alloy_ingot"
     }
   ],
   "time": 15000

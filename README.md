@@ -58,7 +58,20 @@ No more 5 different tin ingots or missing recipes!
 - **[Allthemodium][am]**
   - support of the metals for all machines
 
------
+
+
+### Already supported by ATO:
+
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+
+- [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)
+
+- [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
+
+
+----
 
 (When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
 

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "c:clumps/platinum"
+  },
+  "result": {
+    "item": "alltheores:dirty_platinum_dust",
+    "count": 1
+  }
+}

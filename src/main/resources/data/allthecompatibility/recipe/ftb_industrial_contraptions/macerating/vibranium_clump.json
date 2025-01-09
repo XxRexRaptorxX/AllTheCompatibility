@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "c:clumps/vibranium"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "allthemodium:dirty_vibranium_dust"
+    }
+  ]
+}

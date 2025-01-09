@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "indreb"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "indreb:crushing",
+  "chance_result": [],
+  "duration": 200,
+  "experience": 0.4,
+  "ingredients": [
+    {
+      "count": 1,
+      "tag": "c:clumps/allthemodium"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "allthemodium:dirty_allthemodium_dust"
+  },
+  "tick_energy_cost": 16
+}

@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:macerating",
+  "inputItems": [
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "c:clumps/zinc"
+      }
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:dirty_zinc_dust"
+    }
+  ]
+}

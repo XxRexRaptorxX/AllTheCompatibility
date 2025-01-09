@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "c:clumps/unobtainium"
+    }
+  ],
+  "results": [
+    {
+      "item": "allthemodium:dirty_unobtainium_dust"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 1.0
+    }
+  ],
+  "processingTime": 800
+}

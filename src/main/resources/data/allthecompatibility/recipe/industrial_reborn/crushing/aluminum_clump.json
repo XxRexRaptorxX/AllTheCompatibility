@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:crushing",
+  "chance_result": [],
+  "duration": 100,
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "count": 1,
+      "tag": "c:clumps/aluminum"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "alltheores:dirty_aluminum_dust"
+  },
+  "tick_energy_cost": 8
+}

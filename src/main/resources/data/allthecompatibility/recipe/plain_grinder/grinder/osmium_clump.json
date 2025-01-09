@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "plaingrinder"
+    }
+  ],
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "c:clumps/osmium"
+  },
+  "result": {
+    "item": "alltheores:dirty_osmium_dust",
+    "count": 1
+  }
+}

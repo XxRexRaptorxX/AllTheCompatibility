@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "simplegrinder"
+    }
+  ],
+  "type": "simplegrinder:grinder",
+  "ingredient": {
+    "tag": "c:clumps/lead"
+  },
+
+  "result": {
+    "id": "alltheores:dirty_lead_dust",
+    "count": 1
+  },
+
+  "experience": 0.1,
+  "cookingtime": 150
+}

@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:macerator",
+  "duration": 600,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:clumps/uranium"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 1,
+      "item": "alltheores:dirty_uranium_dust"
+    }
+  ]
+}

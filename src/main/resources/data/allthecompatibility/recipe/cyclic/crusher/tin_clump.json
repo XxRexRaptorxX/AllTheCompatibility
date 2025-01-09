@@ -1,0 +1,30 @@
+{
+  "type": "cyclic:crusher",
+  "input": {
+    "tag": "c:clumps/tin"
+  },
+  "energy": {
+    "ticks": 300,
+    "rfpertick": 50
+  },
+  "result": {
+    "item": "alltheores:raw_tin_dust",
+    "count": 1
+  },
+
+  "neoforge:conditions": [
+    {
+      "values": [
+        {
+          "modid": "cyclic",
+          "type": "neoforge:mod_loaded"
+        },
+        {
+          "item": "cyclic:crusher",
+          "type": "neoforge:item_exists"
+        }
+      ],
+      "type": "neoforge:and"
+    }
+  ]
+}

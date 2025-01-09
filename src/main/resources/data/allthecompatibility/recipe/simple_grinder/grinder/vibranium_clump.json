@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "simplegrinder"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "simplegrinder:grinder",
+  "ingredient": {
+    "tag": "c:clumps/vibranium"
+  },
+
+  "result": {
+    "id": "allthemodium:dirty_vibranium_dust",
+    "count": 1
+  },
+
+  "experience": 0.2,
+  "cookingtime": 300
+}

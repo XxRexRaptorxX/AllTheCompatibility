@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "c:clumps/silver"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:dirty_silver_dust"
+    },
+    "percentages": [ 1.0, 0.1 ],
+    "percentagesAdvanced": [ 1.0, 0.2 ]
+  }
+}

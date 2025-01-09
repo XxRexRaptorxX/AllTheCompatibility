@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "indreb"
+    }
+  ],
+  "type": "indreb:ore_washing",
+  "duration": 250,
+  "experience": 0.1,
+  "fluid_ingredient": {
+    "amount": 300,
+    "fluid": "minecraft:water"
+  },
+  "ingredient": {
+      "tag": "c:dirty_dusts/nickel"
+  },
+  "power_costs": 8,
+  "result_1": {
+      "count": 1,
+      "id": "alltheores:nickel_dust"
+  },
+  "result_2": {
+    "item": "indreb:stone_dust"
+  }
+}

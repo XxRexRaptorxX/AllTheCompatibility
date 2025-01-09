@@ -3,27 +3,22 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "indreb"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
     }
   ],
   "type": "indreb:ore_washing",
-  "duration": 500,
+  "duration": 250,
   "experience": 0.1,
   "fluid_ingredient": {
-    "amount": 350,
+    "amount": 300,
     "fluid": "minecraft:water"
   },
   "ingredient": {
-    "count": 1,
-    "tag": "c:dirty_dusts/vibranium"
+      "tag": "c:dirty_dusts/lead"
   },
-  "power_cost": 16,
+  "power_costs": 8,
   "result_1": {
-    "count": 1,
-    "item": "allthemodium:vibranium_dust"
+      "count": 1,
+      "id": "alltheores:lead_dust"
   },
   "result_2": {
     "item": "indreb:stone_dust"

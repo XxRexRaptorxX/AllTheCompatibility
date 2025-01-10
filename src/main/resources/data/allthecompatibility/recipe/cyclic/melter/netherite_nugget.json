@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:nuggets/netherite"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "c:nuggets/netherite"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 120
+  },
+  "result": {
+    "fluid": "alltheores:molten_netherite",
+    "fluidTag": "c:molten_netherite",
+    "count": 16
+  }
+}

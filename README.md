@@ -50,7 +50,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Botania][botania]**
   - Orechid, Ignem Orechid, Mana Infusion
 - **[Cyclic][cyclic]**
-  - Crusher, Melter
+  - Crusher, Melter, Solidifier
 - **[Plain Grinder][pg]**
   - Grinder
 - **[Simple Grinder][sg]**

@@ -154,3 +154,11 @@ description='''This mod adds recipe compatibility between AllTheOres and other m
     versionRange="[2.8.5,)"
     ordering="AFTER"
     side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="immersiveengineering"
+    mandatory=false
+    type="optional"
+    versionRange="[11.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

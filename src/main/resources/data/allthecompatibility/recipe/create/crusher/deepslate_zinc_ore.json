@@ -8,18 +8,18 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:deepslate_osmium_ore"
+      "item": "alltheores:deepslate_tin_ore"
     }
   ],
   "processingTime": 350,
   "results": [
     {
       "count": 2,
-      "item": "alltheores:osmium_dust"
+      "item": "alltheores:zinc_dust"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:osmium_dust"
+      "item": "alltheores:zinc_dust"
     },
     {
       "chance": 0.75,

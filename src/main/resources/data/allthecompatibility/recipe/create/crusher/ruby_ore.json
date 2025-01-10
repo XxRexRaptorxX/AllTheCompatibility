@@ -11,22 +11,22 @@
       "item": "alltheores:ruby_ore"
     }
   ],
-  "processingTime": 250,
+  "processingTime": 350,
   "results": [
     {
-      "count": 5,
-      "item": "alltheores:ruby_dust"
+      "count": 2,
+      "item": "alltheores:ruby"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:ruby_dust"
+      "item": "alltheores:ruby"
     },
     {
       "chance": 0.75,
       "item": "create:experience_nugget"
     },
     {
-      "chance": 0.125,
+      "chance": 0.12,
       "item": "minecraft:cobblestone"
     }
   ]

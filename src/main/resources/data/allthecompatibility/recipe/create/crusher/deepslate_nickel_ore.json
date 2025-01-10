@@ -14,12 +14,12 @@
   "processingTime": 350,
   "results": [
     {
-      "count": 7,
-      "item": "alltheores:_dust"
+      "count": 2,
+      "item": "alltheores:nickel_dust"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:_dust"
+      "item": "alltheores:nickel_dust"
     },
     {
       "chance": 0.75,

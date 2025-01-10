@@ -14,7 +14,7 @@
   "processingTime": 350,
   "results": [
     {
-      "count": 7,
+      "count": 2,
       "item": "alltheores:uranium_dust"
     },
     {
@@ -23,6 +23,7 @@
     },
     {
       "chance": 0.75,
+      "count": 2,
       "item": "create:experience_nugget"
     },
     {

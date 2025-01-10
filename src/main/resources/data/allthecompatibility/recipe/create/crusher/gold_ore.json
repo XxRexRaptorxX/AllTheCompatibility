@@ -8,26 +8,26 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:deepslate_diamond_ore"
+      "item": "alltheores:gold_ore"
     }
   ],
-  "processingTime": 350,
+  "processingTime": 250,
   "results": [
     {
-      "count": 7,
-      "item": "alltheores:diamond_dust"
-    },
-    {
-      "chance": 0.25,
-      "item": "alltheores:diamond_dust"
+      "item": "alltheores:gold_dust"
     },
     {
       "chance": 0.75,
+      "item": "alltheores:gold_dust"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
       "item": "create:experience_nugget"
     },
     {
       "chance": 0.125,
-      "item": "minecraft:cobbled_deepslate"
+      "item": "minecraft:cobblestone"
     }
   ]
 }

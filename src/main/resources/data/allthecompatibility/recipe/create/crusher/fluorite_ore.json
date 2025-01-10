@@ -11,23 +11,23 @@
       "item": "alltheores:fluorite_ore"
     }
   ],
-  "processingTime": 250,
+  "processingTime": 350,
   "results": [
     {
-      "count": 5,
-      "item": "alltheores:fluorite_dust"
+      "count": 2,
+      "item": "alltheores:fluorite"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:fluorite_dust"
+      "item": "alltheores:fluorite"
+    },
+    {
+      "chance": 0.12,
+      "item": "minecraft:cobblestone"
     },
     {
       "chance": 0.75,
       "item": "create:experience_nugget"
-    },
-    {
-      "chance": 0.125,
-      "item": "minecraft:cobblestone"
     }
   ]
 }

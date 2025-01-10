@@ -11,15 +11,15 @@
       "item": "alltheores:deepslate_peridot_ore"
     }
   ],
-  "processingTime": 350,
+  "processingTime": 450,
   "results": [
     {
-      "count": 7,
-      "item": "alltheores:peridot_dust"
+      "count": 2,
+      "item": "alltheores:peridot"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:peridot_dust"
+      "item": "alltheores:peridot"
     },
     {
       "chance": 0.75,

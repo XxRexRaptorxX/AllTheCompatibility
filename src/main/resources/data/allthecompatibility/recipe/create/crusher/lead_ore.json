@@ -11,14 +11,13 @@
       "item": "alltheores:lead_ore"
     }
   ],
-  "processingTime": 250,
+  "processingTime": 400,
   "results": [
     {
-      "count": 5,
       "item": "alltheores:lead_dust"
     },
     {
-      "chance": 0.25,
+      "chance": 0.75,
       "item": "alltheores:lead_dust"
     },
     {

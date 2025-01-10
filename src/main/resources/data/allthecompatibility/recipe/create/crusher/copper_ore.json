@@ -8,18 +8,18 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "alltheores:deepslate_osmium_ore"
+      "item": "alltheores:copper_ore"
     }
   ],
-  "processingTime": 350,
+  "processingTime": 250,
   "results": [
     {
-      "count": 2,
-      "item": "alltheores:osmium_dust"
+      "count": 5,
+      "item": "alltheores:copper_dust"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:osmium_dust"
+      "item": "alltheores:copper_dust"
     },
     {
       "chance": 0.75,
@@ -27,7 +27,7 @@
     },
     {
       "chance": 0.125,
-      "item": "minecraft:cobbled_deepslate"
+      "item": "minecraft:cobblestone"
     }
   ]
 }

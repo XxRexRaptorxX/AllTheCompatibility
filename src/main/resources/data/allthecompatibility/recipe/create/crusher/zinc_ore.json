@@ -14,11 +14,10 @@
   "processingTime": 250,
   "results": [
     {
-      "count": 5,
       "item": "alltheores:zinc_dust"
     },
     {
-      "chance": 0.25,
+      "chance": 0.75,
       "item": "alltheores:zinc_dust"
     },
     {

@@ -11,15 +11,15 @@
       "item": "alltheores:deepslate_ruby_ore"
     }
   ],
-  "processingTime": 350,
+  "processingTime": 450,
   "results": [
     {
-      "count": 7,
-      "item": "alltheores:ruby_dust"
+      "count": 2,
+      "item": "alltheores:ruby"
     },
     {
       "chance": 0.25,
-      "item": "alltheores:ruby_dust"
+      "item": "alltheores:ruby"
     },
     {
       "chance": 0.75,

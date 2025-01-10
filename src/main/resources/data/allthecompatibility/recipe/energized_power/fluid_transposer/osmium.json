@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "energizedpower:fluid_transposer",
+  "fluid": {
+    "amount": 300,
+    "id": "mekanism:hydrogen_chloride"
+  },
+  "ingredient": {
+    "tag": "c:crystals/osmium"
+  },
+  "mode": "FILLING",
+  "output": {
+    "item": "alltheores:osmium_shard"
+  }
+}

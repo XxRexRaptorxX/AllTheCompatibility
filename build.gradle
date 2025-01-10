@@ -173,11 +173,11 @@ dependencies {
     //runtimeOnly "curse.maven:ad-astra-635042:${ad_astra_version}"
     runtimeOnly "curse.maven:mekanism-268560:${mekanism_version}" //to avoid ATO recipe errors
     runtimeOnly "curse.maven:actually-additionas-228404:${aa_version}" //to avoid ATO recipe errors
+    //runtimeOnly "curse.maven:ender-io-64578:${ender_io_version}" //to avoid ATO recipe errors
     runtimeOnly "curse.maven:modern-industrialization-405388:${modern_industrialization_version}"
     runtimeOnly "curse.maven:cloth-confg-api-348521:${cloth_config_api_version}"
     runtimeOnly "curse.maven:applied-energistics-223794:${applied_energistics_version}"
     runtimeOnly "curse.maven:ae2-jei-integration-1074338:${ae2_jei_integration_version}"
-    runtimeOnly "curse.maven:ender-io-64578:${ender_io_version}"
 
     runtimeOnly "curse.maven:ori-tech-1030830:${ori_tech_version}"
     runtimeOnly "curse.maven:architectury-419699:${architectury_version}"

@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "c:dusts/enderium"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 120
+  },
+  "result": {
+    "fluid": "alltheores:molten_enderium",
+    "fluidTag": "c:molten_enderium",
+    "count": 16
+  }
+}

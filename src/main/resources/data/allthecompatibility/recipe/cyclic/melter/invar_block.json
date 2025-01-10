@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/invar"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 1400
+  },
+  "result": {
+    "fluid": "alltheores:molten_invar",
+    "fluidTag": "c:molten_invar",
+    "count": 1296
+  }
+}

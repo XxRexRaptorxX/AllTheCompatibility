@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "c:dusts/constantan"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 120
+  },
+  "result": {
+    "fluid": "alltheores:molten_constantan",
+    "fluidTag": "c:molten_constantan",
+    "count": 16
+  }
+}

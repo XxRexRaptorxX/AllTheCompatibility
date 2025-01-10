@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/signalum"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 1400
+  },
+  "result": {
+    "fluid": "alltheores:molten_signalum",
+    "fluidTag": "c:molten_signalum",
+    "count": 1296
+  }
+}

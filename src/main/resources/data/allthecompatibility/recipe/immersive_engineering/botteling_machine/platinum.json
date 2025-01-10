@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 300,
+    "tag": "c:hydrogen_chloride"
+  },
+  "input": {
+    "tag": "c:crystals/platinum"
+  },
+  "results": [
+    {
+      "item": "alltheores:platinum_shard"
+    }
+  ]
+}

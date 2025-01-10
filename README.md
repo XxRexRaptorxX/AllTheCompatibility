@@ -48,7 +48,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Applied Energistics 2][ae]**
   - Transform 
 - **[Botania][botania]**
-  - Orechid, Ignem Orechid
+  - Orechid, Ignem Orechid, Mana Infusion
 - **[Cyclic][cyclic]**
   - Crusher
 - **[Plain Grinder][pg]**

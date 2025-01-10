@@ -60,7 +60,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
   - Bottling Machine, added by ATO: [Alloy Smelter, Arc Furnace, Crusher, Metal Press]
 - **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-  - added by ATO: [Washing, Injecting, Purifying, Crystallizing, Enriching, Chemical Conversion]
+  - added by ATO: [Crusher, Chemical Crystallizer, Chemical Washer, Injection Chamber, Purification Chamber, Enrichment Chamber, Chemical Conversion]
 - **[Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)**
   - added by ATO: [Alloy Smelter, Sag Mill]
 - **[Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)**

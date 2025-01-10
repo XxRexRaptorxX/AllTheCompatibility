@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "atc:dust_cycle",
+  "input": {
+    "tag": "c:dirty_dusts/allthemodium"
+  },
+  "mana": 4500,
+  "output": {
+    "item": "allthemodium:allthemodium_dust"
+  }
+}

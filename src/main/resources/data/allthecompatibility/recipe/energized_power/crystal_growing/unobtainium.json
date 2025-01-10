@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:crystal_growth_chamber",
+  "ingredient": {
+    "tag": "c:dusts/unobtainium"
+  },
+  "output": {
+    "output": {
+      "item": "allthemodium:unobtainium_crystal"
+    },
+    "percentages": [
+      1.0
+    ]
+  },
+  "ticks": 40000
+}

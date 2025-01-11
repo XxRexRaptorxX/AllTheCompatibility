@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:separating",
+  "inputItems": [
+    {
+      "ingredient": {
+        "tag": "c:dirty_dusts/silver"
+      },
+      "count": 1
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:silver_dust"
+    },
+    {
+      "item": "ftbic:clay_dust"
+    }
+  ]
+}

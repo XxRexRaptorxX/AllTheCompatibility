@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:separating",
+  "inputItems": [
+    {
+      "ingredient": {
+        "tag": "c:dust/constantan"
+      },
+      "count": 2
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:copper_dust"
+    },
+    {
+      "item": "alltheores:nickel_dust"
+    }
+  ]
+}

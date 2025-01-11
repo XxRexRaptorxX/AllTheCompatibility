@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    }
+  ],
+  "type": "ftbic:separating",
+  "inputItems": [
+    {
+      "ingredient": {
+        "tag": "c:dust/electrum"
+      },
+      "count": 2
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "alltheores:gold_dust"
+    },
+    {
+      "item": "alltheores:silver_dust"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ftbic"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "ftbic:separating",
+  "inputItems": [
+    {
+      "ingredient": {
+        "item": "allthemodium:unobtainium_allthemodium_alloy_dust"
+      },
+      "count": 1
+    }
+  ],
+  "outputItems": [
+    {
+      "item": "allthemodium:unobtainium_dust"
+    },
+    {
+      "item": "allthemodium:allthemodium_dust"
+    }
+  ]
+}

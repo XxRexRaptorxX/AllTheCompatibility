@@ -18,12 +18,12 @@
   ],
   "results": [
     {
-      "count": 1,
-      "id": "alltheores:silver_dust"
-    },
-    {
       "count": 3,
       "id": "alltheores:tin_dust"
+    },
+    {
+      "count": 1,
+      "id": "alltheores:silver_dust"
     }
   ],
   "time": 200

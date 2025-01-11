@@ -12,7 +12,7 @@
   "fluidOutputVariant": "minecraft:empty",
   "ingredients": [
     {
-      "tag": "c:dusts/",
+      "tag": "c:dusts/enderium",
       "count": 4
     }
   ],

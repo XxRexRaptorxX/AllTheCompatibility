@@ -12,18 +12,18 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "allthemodium:allthemodium_slate_ore"
+      "item": "alltheores:other_vibranium_ore"
     }
   ],
   "processingTime": 500,
   "results": [
     {
       "count": 1,
-      "item": "allthemodium:allthemodium_dust"
+      "item": "allthemodium:vibranium_dust"
     },
     {
       "chance": 0.15,
-      "item": "allthemodium:allthemodium_dust"
+      "item": "allthemodium:vibranium_dust"
     },
     {
       "chance": 1.0,
@@ -31,7 +31,7 @@
     },
     {
       "chance": 0.125,
-      "item": "minecraft:cobbled_deepslate"
+      "item": "allthemodium:ancient_stone"
     }
   ]
 }

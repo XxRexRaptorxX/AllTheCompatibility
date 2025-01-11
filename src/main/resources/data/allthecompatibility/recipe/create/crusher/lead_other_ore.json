@@ -12,26 +12,26 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "allthemodium:allthemodium_slate_ore"
+      "item": "alltheores:other_lead_ore"
     }
   ],
-  "processingTime": 500,
+  "processingTime": 350,
   "results": [
     {
-      "count": 1,
-      "item": "allthemodium:allthemodium_dust"
+      "count": 2,
+      "item": "alltheores:lead_dust"
     },
     {
-      "chance": 0.15,
-      "item": "allthemodium:allthemodium_dust"
+      "chance": 0.25,
+      "item": "alltheores:lead_dust"
     },
     {
-      "chance": 1.0,
+      "chance": 0.75,
       "item": "create:experience_nugget"
     },
     {
       "chance": 0.125,
-      "item": "minecraft:cobbled_deepslate"
+      "item": "allthemodium:ancient_stone"
     }
   ]
 }

@@ -12,7 +12,7 @@ This mod aims to make [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/
 
 No more 5 different tin ingots or missing recipes!
 
-### Adds more than 2.000 recipes!
+### Adds more than 2.300 recipes!
 
 -----
 
@@ -36,7 +36,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Industrial Reborn][ir]**
   - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox, Ore Washing
 - **[FTB Industrial Contraptions][ic]**
-  - Macerator, Extruder, Rolling Machine
+  - Macerator, Extruder, Centrifuge, Rolling Machine
 - **[Energized Power][ep]**
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant, Crystal Growth Chamber, FLuid Transposer
 - **[Modern Industrialization][mi]**

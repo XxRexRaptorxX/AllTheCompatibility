@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:compressor",
+  "duration": 200,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "item": "modern_industrialization:electrum_double_ingot"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 2,
+      "item": "alltheores:electrum_plate"
+    }
+  ]
+}

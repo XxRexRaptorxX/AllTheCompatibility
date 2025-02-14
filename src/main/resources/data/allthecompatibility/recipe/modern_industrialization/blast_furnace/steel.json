@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type" : "modern_industrialization:blast_furnace",
+  "eu" : 2,
+  "duration" : 600,
+  "item_inputs" : {
+    "item" : "modern_industrialization:uncooked_steel_dust",
+    "amount" : 1
+  },
+  "item_outputs" : {
+    "item" : "alltheores:steel_ingot",
+    "amount" : 1
+  }
+}

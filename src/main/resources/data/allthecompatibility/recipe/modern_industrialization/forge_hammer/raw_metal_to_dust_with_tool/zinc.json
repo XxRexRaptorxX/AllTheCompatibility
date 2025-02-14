@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:forge_hammer",
+  "count": 3,
+  "damage": 30,
+  "ingredient": {
+    "tag": "c:raw_materials/zinc"
+  },
+  "result": {
+    "count": 4,
+    "id": "alltheores:zinc_dust"
+  }
+}

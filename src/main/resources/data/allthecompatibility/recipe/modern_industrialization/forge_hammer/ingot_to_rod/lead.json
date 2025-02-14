@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:forge_hammer",
+  "ingredient": {
+    "tag": "c:ingots/lead",
+    "count": 1
+  },
+  "result": {
+    "count": 1,
+    "id": "alltheores:lead_rod"
+  }
+}

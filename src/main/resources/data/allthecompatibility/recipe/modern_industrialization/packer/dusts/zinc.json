@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:tiny_dusts/zinc"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "modern_industrialization:packer",
+  "duration": 100,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 9,
+      "tag": "c:tiny_dusts/zinc"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 1,
+      "item": "alltheores:zinc_dust"
+    }
+  ]
+}

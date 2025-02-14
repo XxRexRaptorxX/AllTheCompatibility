@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:unpacker",
+  "duration": 100,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:ingots/enderium"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 9,
+      "item": "alltheores:enderium_nugget"
+    }
+  ]
+}

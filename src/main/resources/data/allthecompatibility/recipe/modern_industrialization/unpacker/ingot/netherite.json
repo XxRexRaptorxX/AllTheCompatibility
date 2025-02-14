@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    },
+    {
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:storage_blocks/netherite"
+      },
+      "type": "neoforge:not"
+    }
+  ],
+  "type": "modern_industrialization:unpacker",
+  "duration": 100,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:storage_blocks/netherite"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 9,
+      "item": "minecraft:netherite_ingot"
+    }
+  ]
+}

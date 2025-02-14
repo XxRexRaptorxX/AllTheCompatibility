@@ -40,7 +40,7 @@ No more 5 different tin ingots or missing recipes!
 - **[Energized Power][ep]**
   - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant, Crystal Growth Chamber, FLuid Transposer
 - **[Modern Industrialization][mi]**
-  - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker
+  - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker, Implosion Compressor
 - **[OriTech][ot]**
   - Atomic Forge, Centrifuge, Foundry, Deep Drill, Fragment Forge, Pulverizer, Particle Accelerator
 - **[Ad Astra][aa]**

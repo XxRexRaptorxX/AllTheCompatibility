@@ -106,7 +106,7 @@ repositories {
     }
 
     maven {
-        // curios
+        // Curios
         url = "https://maven.theillusivec4.top/"
     }
 
@@ -119,10 +119,11 @@ repositories {
     }
 
     maven {
-        // create
+        // Create
         name = 'tterrag maven'
         url = 'https://maven.tterrag.com/'
     }
+
 }
 
 // Versionsauflösung für ASM-Bibliothek
@@ -145,6 +146,7 @@ dependencies {
     compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
     runtimeOnly "curse.maven:jade-324717:${jade_version}"
+    runtimeOnly "vazkii.patchouli:Patchouli:1.21-${patchouli_version}-NEOFORGE"
 
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
@@ -152,10 +154,8 @@ dependencies {
 
     //[optional]
     runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
-    //runtimeOnly "com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
-    //runtimeOnly "com.jozufozu.flywheel:flywheel-forge-1.20:${flywheel_version}"
+    //runtimeOnly "com.simibubi.create:create-${mc_version}:${create_version}:slim"
     //runtimeOnly "com.tterrag.registrate:Registrate:${registrate_version}"
-    //runtimeOnly "vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}-FORGE"
     //runtimeOnly "vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE"
     //runtimeOnly "top.theillusivec4.curios:curios-forge:${curios_version}"
 
@@ -172,7 +172,7 @@ dependencies {
     //runtimeOnly "curse.maven:resourceful-config-714059:${resourceful_config_version}"
     //runtimeOnly "curse.maven:ad-astra-635042:${ad_astra_version}"
     runtimeOnly "curse.maven:mekanism-268560:${mekanism_version}" //to avoid ATO recipe errors
-    runtimeOnly "curse.maven:actually-additionas-228404:${aa_version}" //to avoid ATO recipe errors
+    runtimeOnly "curse.maven:actually-additions-228404:${aa_version}" //to avoid ATO recipe errors
     //runtimeOnly "curse.maven:ender-io-64578:${ender_io_version}" //to avoid ATO recipe errors
     runtimeOnly "curse.maven:modern-industrialization-405388:${modern_industrialization_version}"
     runtimeOnly "curse.maven:cloth-confg-api-348521:${cloth_config_api_version}"

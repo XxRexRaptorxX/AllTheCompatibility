@@ -12,7 +12,7 @@ This mod aims to make [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/
 
 No more 5 different tin ingots or missing recipes!
 
-### Adds more than 2.300 recipes!
+### Adds more than 2.700 recipes!
 
 -----
 

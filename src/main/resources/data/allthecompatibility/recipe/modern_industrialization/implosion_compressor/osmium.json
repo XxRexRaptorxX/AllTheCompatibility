@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "modern_industrialization"
+    }
+  ],
+  "type": "modern_industrialization:implosion_compressor",
+  "eu": 1,
+  "duration": 10,
+  "item_inputs": [
+    {
+      "tag": "c:dusts/osmium",
+      "amount": 1
+    },
+    {
+      "item": "modern_industrialization:industrial_tnt",
+      "amount": 1
+    }
+  ],
+  "item_outputs": {
+    "item": "alltheores:osmium_crystal",
+    "amount": 1
+  }
+}

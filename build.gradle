@@ -185,6 +185,12 @@ dependencies {
     runtimeOnly "curse.maven:gecko-lib-388172:${gecko_lib_version}"
     runtimeOnly "curse.maven:owo-lib-532610:${owo_lib_version}"
     runtimeOnly "curse.maven:fabric-api-889079:${fabric_api_version}"
+
+    //runtimeOnly "curse.maven:tesseract-api-1067672:${tesseract_api_version}"
+    //runtimeOnly "curse.maven:extended-industrialization-1068418:${extended_industrialization_version}"
+    runtimeOnly "curse.maven:xycraft-653786:${xycraft_version}"
+    runtimeOnly "curse.maven:replication-638351:${replication_version}"
+    runtimeOnly "curse.maven:titanium-287342:${titanium_version}"
 }
 
 

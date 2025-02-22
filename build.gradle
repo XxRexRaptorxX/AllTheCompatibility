@@ -146,6 +146,8 @@ dependencies {
     compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
     runtimeOnly "curse.maven:jade-324717:${jade_version}"
+    runtimeOnly "curse.maven:kubejs-238086:${kubejs_version}"
+    runtimeOnly "curse.maven:rhino-416294:${rhino_version}"
     runtimeOnly "vazkii.patchouli:Patchouli:1.21-${patchouli_version}-NEOFORGE"
 
     //[mandatory]
@@ -189,6 +191,8 @@ dependencies {
     //runtimeOnly "curse.maven:tesseract-api-1067672:${tesseract_api_version}"
     //runtimeOnly "curse.maven:extended-industrialization-1068418:${extended_industrialization_version}"
     runtimeOnly "curse.maven:xycraft-653786:${xycraft_version}"
+    runtimeOnly "curse.maven:xycraft-machines-653791:${xycraft_machines_version}"
+    runtimeOnly "curse.maven:xycraft-world-653789:${xycraft_world_version}"
     runtimeOnly "curse.maven:replication-638351:${replication_version}"
     runtimeOnly "curse.maven:titanium-287342:${titanium_version}"
 }

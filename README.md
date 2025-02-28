@@ -55,6 +55,8 @@ No more 5 different tin ingots or missing recipes!
   - Grinder
 - **[Simple Grinder][sg]**
   - Grinder
+- **[Replication][replication]**
+  - Matter values
 - **[Allthemodium][am]**
   - support of the metals for all machines
 - **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
@@ -96,3 +98,4 @@ All rights reserved.
 [ae]: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 [am]: https://www.curseforge.com/minecraft/mc-mods/allthemodium
 [ot]: https://www.curseforge.com/minecraft/mc-mods/oritech
+[replication]: https://www.curseforge.com/minecraft/mc-mods/replication

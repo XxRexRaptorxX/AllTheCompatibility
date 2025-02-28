@@ -15,7 +15,7 @@
   "item_inputs": [
     {
       "amount": 1,
-      "tag": "c:ore/allthemodium"
+      "tag": "c:ores/allthemodium"
     }
   ],
   "item_outputs": [

@@ -15,7 +15,7 @@
   "item_inputs": [
     {
       "amount": 1,
-      "tag": "c:ore/unobtainium"
+      "tag": "c:ores/unobtainium"
     }
   ],
   "item_outputs": [

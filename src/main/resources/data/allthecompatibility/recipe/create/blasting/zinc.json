@@ -9,7 +9,9 @@
   "ingredient": {
     "item": "create:crushed_raw_zinc"
   },
-  "result": "alltheores:zinc_ingot",
+  "result": {
+    "id":  "alltheores:zinc_ingot"
+  },
   "experience": 0.1,
   "cookingtime": 100
 }

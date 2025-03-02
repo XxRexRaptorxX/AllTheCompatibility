@@ -9,7 +9,9 @@
   "ingredient": {
     "item": "create:crushed_raw_nickel"
   },
-  "result": "alltheores:nickel_ingot",
+  "result": {
+    "id": "alltheores:nickel_ingot"
+  },
   "experience": 0.1,
   "cookingtime": 100
 }

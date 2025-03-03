@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "c:storage_blocks/fluorite"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "alltheores:fluorite_dust"
+            },
+            "count": 9
+        },
+        {
+            "item": {
+                "id": "alltheores:fluorite_dust"
+            },
+            "count": 9,
+            "chance": 0.75
+        }
+    ],
+    "processingTime": 400
+}

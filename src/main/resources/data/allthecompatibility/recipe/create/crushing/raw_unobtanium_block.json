@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "allthemodium"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "c:storage_blocks/raw_unobtainium"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "allthemodium:unobtainium_dust"
+            },
+            "count": 9
+        },
+        {
+            "item": {
+                "id": "create:experience_nugget"
+            },
+            "count": 9,
+            "chance": 1.0
+        }
+    ],
+    "processingTime": 1600
+}

@@ -1,33 +1,41 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "create"
-    }
-  ],
-  "type": "create:crushing",
-  "ingredients": [
-    {
-      "item": "alltheores:end_peridot_ore"
-    }
-  ],
-  "processingTime": 450,
-  "results": [
-    {
-      "count": 2,
-      "item": "alltheores:peridot"
-    },
-    {
-      "chance": 0.25,
-      "item": "alltheores:peridot"
-    },
-    {
-      "chance": 0.75,
-      "item": "create:experience_nugget"
-    },
-    {
-      "chance": 0.125,
-      "item": "minecraft:end_stone"
-    }
-  ]
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "alltheores:end_peridot_ore"
+        }
+    ],
+    "processingTime": 450,
+    "results": [
+        {
+            "count": 2,
+            "item": {
+                "id": "alltheores:peridot"
+            }
+        },
+        {
+            "chance": 0.25,
+            "item": {
+                "id": "alltheores:peridot"
+            }
+        },
+        {
+            "chance": 0.75,
+            "item": {
+                "id": "create:experience_nugget"
+            }
+        },
+        {
+            "chance": 0.125,
+            "item": {
+                "id": "minecraft:end_stone"
+            }
+        }
+    ]
 }

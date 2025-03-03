@@ -1,26 +1,30 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "create"
-    }
-  ],
-  "type": "create:crushing",
-  "ingredients": [
-    {
-      "tag": "c:storage_blocks/raw_platinum"
-    }
-  ],
-  "results": [
-    {
-      "item": "alltheores:platinum_dust",
-      "count": 9
-    },
-    {
-      "item": "create:experience_nugget",
-      "count": 9,
-      "chance": 0.75
-    }
-  ],
-  "processingTime": 400
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "c:storage_blocks/raw_platinum"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "alltheores:platinum_dust"
+            },
+            "count": 9
+        },
+        {
+            "item": {
+                "id": "create:experience_nugget"
+            },
+            "count": 9,
+            "chance": 0.75
+        }
+    ],
+    "processingTime": 400
 }

@@ -1,37 +1,45 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
-    }
-  ],
-  "type": "create:crushing",
-  "ingredients": [
-    {
-      "item": "allthemodium:unobtainium_ore"
-    }
-  ],
-  "processingTime": 500,
-  "results": [
-    {
-      "count": 1,
-      "item": "allthemodium:unobtainium_dust"
-    },
-    {
-      "chance": 0.15,
-      "item": "allthemodium:unobtainium_dust"
-    },
-    {
-      "chance": 1.0,
-      "item": "create:experience_nugget"
-    },
-    {
-      "chance": 0.125,
-      "item": "minecraft:end_stone"
-    }
-  ]
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "allthemodium"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "allthemodium:unobtainium_ore"
+        }
+    ],
+    "processingTime": 500,
+    "results": [
+        {
+            "count": 1,
+            "item": {
+                "id": "allthemodium:unobtainium_dust"
+            }
+        },
+        {
+            "chance": 0.15,
+            "item": {
+                "id": "allthemodium:unobtainium_dust"
+            }
+        },
+        {
+            "chance": 1.0,
+            "item": {
+                "id": "create:experience_nugget"
+            }
+        },
+        {
+            "chance": 0.125,
+            "item": {
+                "id": "minecraft:end_stone"
+            }
+        }
+    ]
 }

@@ -1,28 +1,32 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
-    }
-  ],
-  "type": "create:crushing",
-  "ingredients": [
-    {
-      "tag": "c:raw_materials/vibranium"
-    }
-  ],
-  "results": [
-    {
-      "item": "allthemodium:vibranium_dust"
-    },
-    {
-      "item": "create:experience_nugget",
-      "chance": 1.0
-    }
-  ],
-  "processingTime": 800
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "allthemodium"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "c:raw_materials/vibranium"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "allthemodium:vibranium_dust"
+            }
+        },
+        {
+            "item": {
+                "id": "create:experience_nugget"
+            },
+            "chance": 1.0
+        }
+    ],
+    "processingTime": 800
 }

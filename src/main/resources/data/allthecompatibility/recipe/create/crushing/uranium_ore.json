@@ -1,32 +1,40 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "create"
-    }
-  ],
-  "type": "create:crushing",
-  "ingredients": [
-    {
-      "item": "alltheores:uranium_ore"
-    }
-  ],
-  "processingTime": 400,
-  "results": [
-    {
-      "item": "alltheores:uranium_dust"
-    },
-    {
-      "chance": 0.75,
-      "item": "alltheores:uranium_dust"
-    },
-    {
-      "chance": 0.75,
-      "item": "create:experience_nugget"
-    },
-    {
-      "chance": 0.125,
-      "item": "minecraft:cobblestone"
-    }
-  ]
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "alltheores:uranium_ore"
+        }
+    ],
+    "processingTime": 400,
+    "results": [
+        {
+            "item": {
+                "id": "alltheores:uranium_dust"
+            }
+        },
+        {
+            "chance": 0.75,
+            "item": {
+                "id": "alltheores:uranium_dust"
+            }
+        },
+        {
+            "chance": 0.75,
+            "item": {
+                "id": "create:experience_nugget"
+            }
+        },
+        {
+            "chance": 0.125,
+            "item": {
+                "id": "minecraft:cobblestone"
+            }
+        }
+    ]
 }

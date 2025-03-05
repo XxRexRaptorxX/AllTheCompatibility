@@ -144,8 +144,6 @@ dependencies {
     compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
     runtimeOnly "curse.maven:jade-324717:${jade_version}"
-    runtimeOnly "curse.maven:kubejs-238086:${kubejs_version}"
-    runtimeOnly "curse.maven:rhino-416294:${rhino_version}"
     runtimeOnly "vazkii.patchouli:Patchouli:1.21-${patchouli_version}-NEOFORGE"
 
     //[mandatory]
@@ -153,7 +151,7 @@ dependencies {
     runtimeOnly "curse.maven:alltheores-405593:${ato_version}"
 
     //[optional]
-    runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
+    //runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
     runtimeOnly("com.simibubi.create:create-${mc_version}:${create_version}") { transitive = false }
     runtimeOnly("net.createmod.ponder:Ponder-NeoForge-${mc_version}:${ponder_version}")
     runtimeOnly("dev.engine-room.flywheel:flywheel-neoforge-api-${mc_version}:${flywheel_version}")

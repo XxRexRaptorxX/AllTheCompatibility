@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:tin_nugget",
+      "item": {
+        "id": "alltheores:tin_nugget"
+      },
       "count": 9
     }
   ]

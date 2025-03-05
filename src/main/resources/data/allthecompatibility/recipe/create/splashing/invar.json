@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:invar_nugget",
+      "item": {
+        "id": "alltheores:invar_nugget"
+      },
       "count": 9
     }
   ]

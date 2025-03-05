@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:signalum_nugget",
+      "item": {
+        "id": "alltheores:signalum_nugget"
+      },
       "count": 9
     }
   ]

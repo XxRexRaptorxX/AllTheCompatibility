@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:platinum_nugget",
+      "item": {
+        "id": "alltheores:platinum_nugget"
+      },
       "count": 9
     }
   ]

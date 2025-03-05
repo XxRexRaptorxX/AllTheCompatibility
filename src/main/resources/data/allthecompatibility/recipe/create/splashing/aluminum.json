@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:aluminum_nugget",
+      "item": {
+        "id": "alltheores:aluminum_nugget"
+      },
       "count": 9
     }
   ]

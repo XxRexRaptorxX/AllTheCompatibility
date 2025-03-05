@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:constantan_nugget",
+      "item": {
+        "id": "alltheores:constantan_nugget"
+      },
       "count": 9
     }
   ]

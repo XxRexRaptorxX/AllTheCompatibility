@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:electrum_nugget",
+      "item": {
+        "id": "alltheores:electrum_nugget"
+      },
       "count": 9
     }
   ]

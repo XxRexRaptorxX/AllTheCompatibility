@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:zinc_nugget",
+      "item": {
+        "id": "alltheores:zinc_nugget"
+      },
       "count": 9
     }
   ]

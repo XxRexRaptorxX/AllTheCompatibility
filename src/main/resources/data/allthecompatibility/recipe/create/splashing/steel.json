@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:steel_nugget",
+      "item": {
+        "id": "alltheores:steel_nugget"
+      },
       "count": 9
     }
   ]

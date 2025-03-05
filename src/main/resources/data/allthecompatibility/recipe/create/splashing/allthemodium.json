@@ -17,7 +17,9 @@
   ],
   "results": [
     {
-      "item": "allthemodium:allthemodium_nugget",
+      "item": {
+        "id": "allthemodium:allthemodium_nugget"
+      },
       "count": 9
     }
   ]

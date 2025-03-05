@@ -8,13 +8,13 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "c:dusts/lumium"
+      "tag": "c:dusts/iron"
     }
   ],
   "results": [
     {
       "item": {
-        "id": "alltheores:lumium_nugget"
+        "id": "minecraft:iron_nugget"
       },
       "count": 9
     }

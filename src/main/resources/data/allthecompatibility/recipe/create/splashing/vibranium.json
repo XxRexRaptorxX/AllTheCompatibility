@@ -17,7 +17,9 @@
   ],
   "results": [
     {
-      "item": "allthemodium:vibranium_nugget",
+      "item": {
+        "id": "allthemodium:vibranium_nugget"
+      },
       "count": 9
     }
   ]

@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:lead_nugget",
+      "item": {
+        "id": "alltheores:lead_nugget"
+      },
       "count": 9
     }
   ]

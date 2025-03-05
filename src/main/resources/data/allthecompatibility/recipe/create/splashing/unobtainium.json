@@ -17,7 +17,9 @@
   ],
   "results": [
     {
-      "item": "allthemodium:unobtanium_nugget",
+      "item": {
+        "id": "allthemodium:unobtanium_nugget"
+      },
       "count": 9
     }
   ]

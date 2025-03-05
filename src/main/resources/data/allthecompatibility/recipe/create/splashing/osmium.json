@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:osmium_nugget",
+      "item": {
+        "id": "alltheores:osmium_nugget"
+      },
       "count": 9
     }
   ]

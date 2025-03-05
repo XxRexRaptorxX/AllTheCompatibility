@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:iridium_nugget",
+      "item": {
+        "id": "alltheores:iridium_nugget"
+      },
       "count": 9
     }
   ]

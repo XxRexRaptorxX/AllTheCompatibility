@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:copper_nugget",
+      "item": {
+        "id": "alltheores:copper_nugget"
+      },
       "count": 9
     }
   ]

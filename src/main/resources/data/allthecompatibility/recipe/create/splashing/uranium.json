@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:uranium_nugget",
+      "item": {
+        "id": "alltheores:uranium_nugget"
+      },
       "count": 9
     }
   ]

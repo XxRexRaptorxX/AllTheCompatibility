@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "c:dirty_dusts/gold"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "alltheores:gold_dust"
+      },
+      "count": 1
+    }
+  ]
+}

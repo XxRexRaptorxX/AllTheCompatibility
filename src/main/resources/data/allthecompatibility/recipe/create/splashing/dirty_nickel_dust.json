@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "c:dirty_dusts/nickel"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "alltheores:nickel_dust"
+      },
+      "count": 1
+    }
+  ]
+}

@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:brass_plate"
+      "item": {
+        "id":"alltheores:brass_plate"
+      }
     }
   ]
 }

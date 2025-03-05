@@ -17,7 +17,9 @@
   ],
   "results": [
     {
-      "item": "allthemodium:unobtainium_plate"
+      "item": {
+        "id":"allthemodium:unobtainium_plate"
+      }
     }
   ]
 }

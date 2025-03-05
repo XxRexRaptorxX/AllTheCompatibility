@@ -17,7 +17,9 @@
   ],
   "results": [
     {
-      "item": "allthemodium:vibranium_plate"
+      "item": {
+        "id":"allthemodium:vibranium_plate"
+      }
     }
   ]
 }

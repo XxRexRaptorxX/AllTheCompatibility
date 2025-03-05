@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:diamond_plate"
+      "item": {
+        "id":"alltheores:diamond_plate"
+      }
     }
   ]
 }

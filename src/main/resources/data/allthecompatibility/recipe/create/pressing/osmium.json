@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:osmium_plate"
+      "item": {
+        "id":"alltheores:osmium_plate"
+      }
     }
   ]
 }

@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:signalum_plate"
+      "item": {
+        "id":"alltheores:signalum_plate"
+      }
     }
   ]
 }

@@ -19,7 +19,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:invar_ingot",
+      "item": {
+        "id": "alltheores:invar_ingot"
+      },
       "count": 3
     }
   ],

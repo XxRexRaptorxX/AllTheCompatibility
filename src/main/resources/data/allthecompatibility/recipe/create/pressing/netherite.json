@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:netherite_plate"
+      "item": {
+        "id":"alltheores:netherite_plate"
+      }
     }
   ]
 }

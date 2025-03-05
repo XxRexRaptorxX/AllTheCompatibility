@@ -34,7 +34,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:signalum_ingot",
+      "item": {
+        "id": "alltheores:signalum_ingot"
+      },
       "count": 4
     }
   ],

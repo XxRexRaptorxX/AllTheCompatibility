@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:enderium_plate"
+      "item": {
+        "id":"alltheores:enderium_plate"
+      }
     }
   ]
 }

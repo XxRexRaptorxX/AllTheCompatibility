@@ -17,7 +17,9 @@
   ],
   "results": [
     {
-      "item": "allthemodium:allthemodium_plate"
+      "item": {
+        "id":"allthemodium:allthemodium_plate"
+      }
     }
   ]
 }

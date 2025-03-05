@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:lumium_plate"
+      "item": {
+        "id":"alltheores:lumium_plate"
+      }
     }
   ]
 }

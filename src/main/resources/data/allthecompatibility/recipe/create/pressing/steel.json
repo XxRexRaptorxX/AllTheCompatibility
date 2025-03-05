@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:steel_plate"
+      "item": {
+        "id":"alltheores:steel_plate"
+      }
     }
   ]
 }

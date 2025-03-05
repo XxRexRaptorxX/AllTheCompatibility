@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:uranium_plate"
+      "item": {
+        "id":"alltheores:uranium_plate"
+      }
     }
   ]
 }

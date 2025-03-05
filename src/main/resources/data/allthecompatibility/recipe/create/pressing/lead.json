@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:lead_plate"
+      "item": {
+        "id":"alltheores:lead_plate"
+      }
     }
   ]
 }

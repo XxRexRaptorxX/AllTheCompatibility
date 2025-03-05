@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:zinc_plate"
+      "item": {
+        "id":"alltheores:zinc_plate"
+      }
     }
   ]
 }

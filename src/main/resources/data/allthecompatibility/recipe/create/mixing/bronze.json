@@ -22,7 +22,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:bronze_ingot",
+      "item": {
+        "id": "alltheores:bronze_ingot"
+      },
       "count": 4
     }
   ],

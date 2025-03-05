@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:aluminum_plate"
+      "item": {
+        "id":"alltheores:aluminum_plate"
+      }
     }
   ]
 }

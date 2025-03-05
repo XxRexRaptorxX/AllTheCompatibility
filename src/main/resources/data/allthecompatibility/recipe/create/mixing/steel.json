@@ -16,7 +16,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:steel_ingot",
+      "item": {
+        "id": "alltheores:steel_ingot"
+      },
       "count": 1
     }
   ],

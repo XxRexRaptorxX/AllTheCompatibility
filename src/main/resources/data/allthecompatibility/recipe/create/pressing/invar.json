@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:invar_plate"
+      "item": {
+        "id":"alltheores:invar_plate"
+      }
     }
   ]
 }

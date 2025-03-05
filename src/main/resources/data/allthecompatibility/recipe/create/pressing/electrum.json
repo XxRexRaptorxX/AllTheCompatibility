@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:electrum_plate"
+      "item": {
+        "id":"alltheores:electrum_plate"
+      }
     }
   ]
 }

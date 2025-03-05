@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:copper_plate"
+      "item": {
+        "id":"alltheores:copper_plate"
+      }
     }
   ]
 }

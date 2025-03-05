@@ -22,7 +22,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:brass_ingot",
+      "item": {
+        "id": "alltheores:brass_ingot"
+      },
       "count": 4
     }
   ],

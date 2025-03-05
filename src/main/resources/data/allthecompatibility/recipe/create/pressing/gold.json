@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:gold_plate"
+      "item": {
+        "id":"alltheores:gold_plate"
+      }
     }
   ]
 }

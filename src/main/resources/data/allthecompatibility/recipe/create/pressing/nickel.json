@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:nickel_plate"
+      "item": {
+        "id":"alltheores:nickel_plate"
+      }
     }
   ]
 }

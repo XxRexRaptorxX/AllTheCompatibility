@@ -16,7 +16,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:electrum_ingot",
+      "item": {
+        "id": "alltheores:electrum_ingot"
+      },
       "count": 2
     }
   ],

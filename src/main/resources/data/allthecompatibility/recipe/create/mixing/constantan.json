@@ -16,7 +16,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:constantan_ingot",
+      "item": {
+        "id": "alltheores:constantan_ingot"
+      },
       "count": 2
     }
   ],

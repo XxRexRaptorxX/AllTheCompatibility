@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:iridium_plate"
+      "item": {
+        "id":"alltheores:iridium_plate"
+      }
     }
   ]
 }

@@ -13,7 +13,9 @@
   ],
   "results": [
     {
-      "item": "alltheores:constantan_plate"
+      "item": {
+        "id":"alltheores:constantan_plate"
+      }
     }
   ]
 }

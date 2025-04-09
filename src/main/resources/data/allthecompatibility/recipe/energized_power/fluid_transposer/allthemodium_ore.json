@@ -19,10 +19,11 @@
     "id": "mekanism:hydrogen_chloride"
   },
   "ingredient": {
-    "tag": "c:crystals/allthemodium"
+    "tag": "c:ores/allthemodium"
   },
   "mode": "FILLING",
   "output": {
-    "item": "allthemodium:allthemodium_shard"
+    "item": "allthemodium:allthemodium_shard",
+    "count": 4
   }
 }

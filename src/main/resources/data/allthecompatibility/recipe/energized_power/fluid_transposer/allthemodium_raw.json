@@ -15,14 +15,16 @@
   ],
   "type": "energizedpower:fluid_transposer",
   "fluid": {
-    "amount": 250,
+    "amount": 450,
     "id": "mekanism:hydrogen_chloride"
   },
   "ingredient": {
-    "tag": "c:crystals/allthemodium"
+    "tag": "c:raw_materials/allthemodium",
+    "count": 3
   },
   "mode": "FILLING",
   "output": {
-    "item": "allthemodium:allthemodium_shard"
+    "item": "allthemodium:allthemodium_shard",
+    "count": 8
   }
 }

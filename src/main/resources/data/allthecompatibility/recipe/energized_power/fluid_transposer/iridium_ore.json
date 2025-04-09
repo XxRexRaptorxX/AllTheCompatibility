@@ -7,10 +7,6 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "mekanism"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
     }
   ],
   "type": "energizedpower:fluid_transposer",
@@ -19,10 +15,11 @@
     "id": "mekanism:hydrogen_chloride"
   },
   "ingredient": {
-    "tag": "c:crystals/allthemodium"
+    "tag": "c:ores/iridium"
   },
   "mode": "FILLING",
   "output": {
-    "item": "allthemodium:allthemodium_shard"
+    "item": "alltheores:iridium_shard",
+    "count": 4
   }
 }

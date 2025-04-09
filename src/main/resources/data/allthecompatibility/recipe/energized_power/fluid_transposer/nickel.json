@@ -11,7 +11,7 @@
   ],
   "type": "energizedpower:fluid_transposer",
   "fluid": {
-    "amount": 300,
+    "amount": 250,
     "id": "mekanism:hydrogen_chloride"
   },
   "ingredient": {

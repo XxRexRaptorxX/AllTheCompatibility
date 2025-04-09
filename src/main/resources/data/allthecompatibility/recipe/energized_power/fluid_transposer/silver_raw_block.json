@@ -7,22 +7,20 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "mekanism"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
     }
   ],
   "type": "energizedpower:fluid_transposer",
   "fluid": {
-    "amount": 250,
+    "amount": 450,
     "id": "mekanism:hydrogen_chloride"
   },
   "ingredient": {
-    "tag": "c:crystals/allthemodium"
+    "tag": "c:storage_blocks/raw_silver",
+    "count": 1
   },
   "mode": "FILLING",
   "output": {
-    "item": "allthemodium:allthemodium_shard"
+    "item": "alltheores:silver_shard",
+    "count": 24
   }
 }

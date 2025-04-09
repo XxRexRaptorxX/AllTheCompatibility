@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "crystals/nickel"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid_tag": "c:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "id": "alltheores:nickel_shard"
+    }
+  ]
+}

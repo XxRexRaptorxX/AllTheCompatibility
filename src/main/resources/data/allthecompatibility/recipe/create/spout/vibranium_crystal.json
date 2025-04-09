@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "crystals/vibranium"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid_tag": "c:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "id": "allthemodium:vibranium_shard"
+    }
+  ]
+}

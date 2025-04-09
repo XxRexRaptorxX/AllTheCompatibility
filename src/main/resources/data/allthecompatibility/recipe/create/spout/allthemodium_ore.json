@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "ores/allthemodium"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid_tag": "c:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "id": "allthemodium:allthemodium_shard",
+      "count": 4
+    }
+  ]
+}

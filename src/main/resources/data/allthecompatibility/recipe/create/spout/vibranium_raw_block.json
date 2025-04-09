@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "storage_blocks/raw_vibranium"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 450,
+      "fluid_tag": "c:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "id": "allthemodium:vibranium_shard",
+      "count": 24
+    }
+  ]
+}

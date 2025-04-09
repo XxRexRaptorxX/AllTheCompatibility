@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "ores/platinum"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid_tag": "c:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "id": "alltheores:platinum_shard",
+      "count": 4
+    }
+  ]
+}

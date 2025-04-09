@@ -12,7 +12,7 @@
     },
     {
       "type": "fluid_tag",
-      "amount": 250,
+      "amount": 300,
       "fluid_tag": "c:hydrogen_chloride"
     }
   ],

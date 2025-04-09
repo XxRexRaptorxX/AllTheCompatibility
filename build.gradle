@@ -159,6 +159,7 @@ dependencies {
     runtimeOnly("com.tterrag.registrate:Registrate:${registrate_version}")
     //runtimeOnly "vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE"
     //runtimeOnly "top.theillusivec4.curios:curios-forge:${curios_version}"
+    runtimeOnly "curse.maven:guide-me-1173950:${guide_me_version}"
 
     //runtimeOnly "curse.maven:flib-661261:${flib_version}"
     //runtimeOnly "curse.maven:voliminousenergy-416704:${voluminous_energy_version}"

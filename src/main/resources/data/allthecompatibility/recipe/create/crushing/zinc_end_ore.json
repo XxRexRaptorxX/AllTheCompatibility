@@ -8,7 +8,7 @@
     "type": "create:crushing",
     "ingredients": [
         {
-            "item": "alltheores:end_tin_ore"
+            "item": "alltheores:end_zinc_ore"
         }
     ],
     "processingTime": 350,

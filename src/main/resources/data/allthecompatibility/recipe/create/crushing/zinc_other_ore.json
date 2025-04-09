@@ -12,7 +12,7 @@
     "type": "create:crushing",
     "ingredients": [
         {
-            "item": "alltheores:other_tin_ore"
+            "item": "alltheores:other_zinc_ore"
         }
     ],
     "processingTime": 350,

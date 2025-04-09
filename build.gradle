@@ -151,7 +151,7 @@ dependencies {
     runtimeOnly "curse.maven:alltheores-405593:${ato_version}"
 
     //[optional]
-    //runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
+    runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
     runtimeOnly("com.simibubi.create:create-${mc_version}:${create_version}") { transitive = false }
     runtimeOnly("net.createmod.ponder:Ponder-NeoForge-${mc_version}:${ponder_version}")
     runtimeOnly("dev.engine-room.flywheel:flywheel-neoforge-api-${mc_version}:${flywheel_version}")

@@ -12,13 +12,13 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "tag": "c:dirty_dusts/unobtanium"
+      "tag": "c:dirty_dusts/unobtainium"
     }
   ],
   "results": [
     {
       "item": {
-        "id": "allthemodium:unobtanium_dust"
+        "id": "allthemodium:unobtainium_dust"
       },
       "count": 1
     }

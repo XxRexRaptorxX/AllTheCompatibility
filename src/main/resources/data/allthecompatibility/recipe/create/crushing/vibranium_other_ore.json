@@ -12,7 +12,7 @@
     "type": "create:crushing",
     "ingredients": [
         {
-            "item": "alltheores:other_vibranium_ore"
+            "item": "allthemodium:other_vibranium_ore"
         }
     ],
     "processingTime": 500,

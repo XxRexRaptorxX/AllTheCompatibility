@@ -190,12 +190,14 @@ dependencies {
     runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:${curios_version}")
 
     runtimeOnly fg.deobf("curse.maven:flib-661261:${flib_version}")
+    runtimeOnly fg.deobf("curse.maven:allthemodium-364466:${allthemodium_version}")
+    runtimeOnly fg.deobf("curse.maven:geckolib-388172:${geckolib_version}")
     runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:${cyclic_version}")
-    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}")
+    //runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}") //error spam....
     runtimeOnly fg.deobf("curse.maven:energized-power-782147:${energized_power_version}")
     runtimeOnly fg.deobf("curse.maven:botarium-704113:${botarium_version}")
     runtimeOnly fg.deobf("curse.maven:resourceful-lib-570073:${resourceful_lib_version}")

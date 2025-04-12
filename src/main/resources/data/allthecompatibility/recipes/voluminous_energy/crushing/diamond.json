@@ -7,12 +7,12 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:gems/sapphire",
+    "tag": "forge:gems/diamond",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:sapphire_dust",
+    "item": "alltheores:diamond_dust",
     "count": 1
   },
   "experience": {

@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "tag": "forge:storage_blocks/unobtainium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:unobtainium_dust",
+    "count": 9
+  },
+  "rng": {
+    "item": "allthemodium:unobtainium_dust",
+    "count": 9,
+    "chance": 0.15
+  },
+  "experience": {
+    "minimum": 3,
+    "maximum": 6
+  }
+}

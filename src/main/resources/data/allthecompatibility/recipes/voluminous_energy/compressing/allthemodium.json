@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:compressing",
+  "ingredient": {
+    "tag": "forge:ingots/allthemodium",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "allthemodium:allthemodium_plate",
+    "count": 1
+  }
+}

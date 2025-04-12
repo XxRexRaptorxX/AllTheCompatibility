@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:centrifugal_separation",
+  "ingredient": {
+    "tag": "forge:dirty_dusts/unobtainium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:unobtainium_dust",
+    "count": 1,
+    "buckets": 0
+  },
+  "rng_slot_0": {
+    "item": "voluminousenergy:end_stone_dust",
+    "count": 1,
+    "chance": 0
+  },
+  "rng_slot_1": {
+    "item": "voluminousenergy:quartz_dust",
+    "count": 1,
+    "chance": 0.3
+  },
+  "rng_slot_2": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  }
+}

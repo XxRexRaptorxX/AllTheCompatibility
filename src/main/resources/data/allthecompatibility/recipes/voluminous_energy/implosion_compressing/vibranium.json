@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:implosion_compressing",
+  "ingredient": {
+    "tag": "forge:dusts/vibranium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:vibranium_crystal",
+    "count": 1
+  }
+}

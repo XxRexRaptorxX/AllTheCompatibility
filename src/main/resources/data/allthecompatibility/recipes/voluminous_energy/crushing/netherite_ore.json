@@ -7,13 +7,18 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:gems/sapphire",
+    "tag": "forge:ores/netherite_scrap",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:sapphire_dust",
-    "count": 1
+    "item": "alltheores:netherite_dust",
+    "count": 2
+  },
+  "rng": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
   },
   "experience": {
     "minimum": 1,

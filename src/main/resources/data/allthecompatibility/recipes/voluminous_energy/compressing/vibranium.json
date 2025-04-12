@@ -3,20 +3,20 @@
     {
       "type": "forge:mod_loaded",
       "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
     }
   ],
-  "type": "voluminousenergy:crushing",
+  "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:gems/sapphire",
+    "tag": "forge:ingots/vibranium",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:sapphire_dust",
+    "item": "allthemodium:vibranium_plate",
     "count": 1
-  },
-  "experience": {
-    "minimum": 1,
-    "maximum": 3
   }
 }

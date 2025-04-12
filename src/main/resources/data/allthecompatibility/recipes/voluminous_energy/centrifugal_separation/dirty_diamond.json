@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/diamond"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "voluminousenergy:centrifugal_separation",
+  "ingredient": {
+    "tag": "forge:dirty_dusts/diamond",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "alltheores:diamond_dust",
+    "count": 1,
+    "buckets": 0
+  },
+  "rng_slot_0": {
+    "item": "voluminousenergy:sand_dust",
+    "count": 1,
+    "chance": 0
+  },
+  "rng_slot_1": {
+    "item": "voluminousenergy:flint_dust",
+    "count": 1,
+    "chance": 0.3
+  },
+  "rng_slot_2": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  }
+}

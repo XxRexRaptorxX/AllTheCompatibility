@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:compressing",
+  "ingredient": {
+    "tag": "forge:ingots/unobtainium",
+    "count": 1
+  },
+  "process_time": 200,
+  "result": {
+    "item": "allthemodium:unobtainium_plate",
+    "count": 1
+  }
+}

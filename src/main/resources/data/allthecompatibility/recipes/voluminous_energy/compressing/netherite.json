@@ -5,18 +5,14 @@
       "modid": "voluminousenergy"
     }
   ],
-  "type": "voluminousenergy:crushing",
+  "type": "voluminousenergy:compressing",
   "ingredient": {
-    "tag": "forge:gems/sapphire",
+    "tag": "forge:ingots/netherite",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:sapphire_dust",
+    "item": "alltheores:netherite_plate",
     "count": 1
-  },
-  "experience": {
-    "minimum": 1,
-    "maximum": 3
   }
 }

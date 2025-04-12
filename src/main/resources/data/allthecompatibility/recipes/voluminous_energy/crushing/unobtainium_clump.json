@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "voluminousenergy:crushing",
+  "ingredient": {
+    "tag": "forge:clumps/unobtainium",
+    "count": 1
+  },
+  "process_time": 400,
+  "result": {
+    "item": "allthemodium:dirty_unobtainium_dust",
+    "count": 1
+  },
+  "rng": {
+    "item": "minecraft:air",
+    "count": 0,
+    "chance": 0
+  },
+  "experience": {
+    "minimum": 2,
+    "maximum": 4
+  }
+}

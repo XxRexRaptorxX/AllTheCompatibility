@@ -204,6 +204,13 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:resourceful-config-714059:${resourceful_config_version}")
     runtimeOnly fg.deobf("curse.maven:ad-astra-635042:${ad_astra_version}")
     runtimeOnly fg.deobf("curse.maven:mekanism-268560:${mekanism_version}") //to avoid ATO recipe errors
+    runtimeOnly "curse.maven:replication-638351:${replication_version}"
+    runtimeOnly "curse.maven:titanium-287342:${titanium_version}"
+    runtimeOnly "curse.maven:xl-packets-391640:${xl_packets_version}"
+    runtimeOnly "curse.maven:cloth-confg-api-348521:${cloth_config_api_version}"
+    runtimeOnly "curse.maven:applied-energistics-223794:${applied_energistics_version}"
+    runtimeOnly "curse.maven:ie-231951:${ie_version}"
+    //runtimeOnly "curse.maven:enderio-64578:${enderio_version}"
 }
 
 // MixinGradle Settings

@@ -1,0 +1,50 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_clumps/unobtainium"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    },
+    {
+      "tag": "forge:small_clumps/unobtainium"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "allthemodium:unobtainium_clump"
+  }
+}

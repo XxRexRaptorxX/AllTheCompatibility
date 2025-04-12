@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_dusts/iron"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.5,
+  "group": "nuggets_smelting",
+  "ingredient": {
+    "tag": "forge:small_dusts/iron"
+  },
+    "count": 1,
+    "result": "alltheores:iron_nugget"
+}

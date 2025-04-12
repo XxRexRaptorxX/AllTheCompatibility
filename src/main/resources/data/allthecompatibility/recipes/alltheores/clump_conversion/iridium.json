@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_clumps/iridium"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    },
+    {
+      "tag": "forge:small_clumps/iridium"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "alltheores:iridium_clump"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_dusts/uranium"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 0.5,
+  "group": "nuggets_blasting",
+  "ingredient": {
+    "tag": "forge:small_dusts/uranium"
+  },
+    "count": 1,
+    "result": "alltheores:uranium_nugget"
+}

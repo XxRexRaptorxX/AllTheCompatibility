@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_dusts/iron"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    },
+    {
+      "tag": "forge:small_dusts/iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "alltheores:iron_dust"
+  }
+}

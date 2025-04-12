@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_clumps/nickel"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    },
+    {
+      "tag": "forge:small_clumps/nickel"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "alltheores:nickel_clump"
+  }
+}

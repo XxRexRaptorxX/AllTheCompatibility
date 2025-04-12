@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:small_dusts/unobtainium"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 0.5,
+  "group": "nuggets_blasting",
+  "ingredient": {
+    "tag": "forge:small_dusts/unobtainium"
+  },
+    "count": 1,
+    "result": "allthemodium:unobtainium_nugget"
+}

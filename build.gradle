@@ -160,11 +160,10 @@ repositories {
         }
     }
 
-    maven {
-        // create
-        name = 'tterrag maven'
-        url = 'https://maven.tterrag.com/'
-    }
+    maven { url = "https://maven.createmod.net" } // Create, Ponder, Flywheel
+    maven { url = "https://maven.tterrag.com" } // Registrate
+    maven { url = "https://raw.githubusercontent.com/Fuzss/modresources/main/maven/" } // ForgeConfigAPIPort
+
 }
 
 dependencies {
@@ -182,8 +181,9 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:alltheores-405593:${ato_version}")
 
     //[optional]
-    runtimeOnly fg.deobf("com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false }
-    runtimeOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-${mc_version}:${flywheel_version}")
+    runtimeOnly(fg.deobf("com.simibubi.create:create-${mc_version}:${create_version}:slim") { transitive = false })
+    runtimeOnly (fg.deobf("net.createmod.ponder:Ponder-Forge-${mc_version}:${ponder_version}"))
+    runtimeOnly(fg.deobf("dev.engine-room.flywheel:flywheel-forge-${mc_version}:${flywheel_version}"))
     runtimeOnly fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${mc_version}-${patchouli_version}-FORGE")
     runtimeOnly fg.deobf("vazkii.botania:Botania:${mc_version}-${botania_version}-FORGE")
@@ -195,7 +195,7 @@ dependencies {
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
     runtimeOnly fg.deobf("curse.maven:cyclic-239286:${cyclic_version}")
-    //runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}")
+    runtimeOnly fg.deobf("curse.maven:simplegrinder-238899:${simple_grinder_version}")
     runtimeOnly fg.deobf("curse.maven:energized-power-782147:${energized_power_version}")
     runtimeOnly fg.deobf("curse.maven:botarium-704113:${botarium_version}")
     runtimeOnly fg.deobf("curse.maven:resourceful-lib-570073:${resourceful_lib_version}")

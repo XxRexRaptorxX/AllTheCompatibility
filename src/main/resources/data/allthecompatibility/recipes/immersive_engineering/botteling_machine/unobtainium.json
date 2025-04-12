@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 300,
+    "tag": "forge:hydrogen_chloride"
+  },
+  "input": {
+    "tag": "forge:crystals/unobtainium"
+  },
+  "results": [
+    {
+      "item": "allthemodium:unobtainium_shard"
+    }
+  ]
+}

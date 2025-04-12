@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 300,
+    "tag": "forge:hydrogen_chloride"
+  },
+  "input": {
+    "tag": "forge:crystals/uranium"
+  },
+  "results": [
+    {
+      "item": "alltheores:uranium_shard"
+    }
+  ]
+}

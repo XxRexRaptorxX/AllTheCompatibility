@@ -8,39 +8,70 @@
 
 ## 📖 Description
 
-Tired of the fact that each mod uses its own ores and each machine consumes and produces different types of the same ores/ingots/dusts/...? This mod standardizes everything, it changes that all machines use ores, ingots, plates, ... from the mod [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato).
+This mod aims to make [AllTheOres](https://www.curseforge.com/minecraft/mc-mods/ato) compatible with the machines of all tech mods by adding all missing recipes for all available ores and making sure that as far as possible the ores/ingots/dusts/... from AllTheOres are used!
 
-(When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs)
- 
+No more 5 different tin ingots or missing recipes!
+
+### Adds more than 2.700 recipes!
+
+-----
+
+![review_pic_1](https://github.com/XxRexRaptorxX/AllTheCompatibility/blob/main/src/main/resources/review_1.png?raw=true)
+
+![review_pic_2](https://github.com/XxRexRaptorxX/AllTheCompatibility/blob/main/src/main/resources/review_2.png?raw=true)
+
 -----
 
 ## 🗃️ Dependencies & supported mods
 
 
 - **[All the Ores][ato]** *[required]*
-  -  ore foundation, additional Smelting & Blasting recipes
+  -  Blast Furnace, Furnace, Smithing Tables, dust conversion recipes, clump conversion recipes
 - **[Assembly Line Machines][alm]**
-  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper, Pneunmatic
+  -  Grinder, Alloy Smelter, Fluid Bath, Fluid Mixer, Metal Shaper, Pneunmatic Press
 - **[Create][create]**
-  - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing
+  - Crushing Wheel, Mixer, Press, Crafter, Bulk Blasting, Bulk Washing, Spout
 - **[Voluminous Energy][ve]**
-  - Crusher, Centrifugal Seperation, Implosion Compresser, Industrial Blast Furnace
+  - Crusher, Centrifugal Seperation, Implosion Compressor, Industrial Blast Furnace
 - **[Industrial Reborn][ir]**
-  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox
+  - Crusher, Compressor, Alloy Smelter, Hammer, Scanner, Rolling Machine, Scrapbox, Ore Washing
 - **[FTB Industrial Contraptions][ic]**
-  - Macerator, Extruder, Rolling Machine
+  - Macerator, Extruder, Centrifuge, Rolling Machine
 - **[Energized Power][ep]**
-  - Pulverizer, Compressor, Metal Press, Filtration Plant
+  - Pulverizer, Alloy Furnace, Compressor, Metal Press, Filtration Plant, Crystal Growth Chamber, FLuid Transposer
+- **[Modern Industrialization][mi]**
+  - Assembler, Centrifuge, Mixer, Compressor, Cutting Machine, Forge Hammer, Macerator, Packer, Unpacker, Implosion Compressor
+- **[OriTech][ot]**
+  - Atomic Forge, Centrifuge, Foundry, Deep Drill, Fragment Forge, Pulverizer, Particle Accelerator
+- **[Ad Astra][aa]**
+  - Compressor, Alloy Smelter, Hammer
+- **[Applied Energistics 2][ae]**
+  - Transform
 - **[Botania][botania]**
-  - Orchid, Ignem Orchid
+  - Orechid, Ignem Orechid, Mana Infusion
 - **[Cyclic][cyclic]**
-  - Crusher
+  - Crusher, Melter, Solidifier
 - **[Plain Grinder][pg]**
   - Grinder
 - **[Simple Grinder][sg]**
   - Grinder
-- **[Ad Astra][aa]**
-  - Compressor, Alloy Smelter, Hammer
+- **[Replication][replication]**
+  - Matter values
+- **[Allthemodium][am]**
+  - support of the metals for all machines
+- **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
+  - Bottling Machine, added by ATO: [Alloy Smelter, Arc Furnace, Crusher, Metal Press]
+- **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
+  - added by ATO: [Crusher, Chemical Crystallizer, Chemical Washer, Injection Chamber, Purification Chamber, Enrichment Chamber, Chemical Conversion]
+- **[Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)**
+  - added by ATO: [Alloy Smelter, Sag Mill]
+- **[Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)**
+  - added by ATO: [Crusher]
+
+----
+## 📄 Note
+
+When ATO is installed, all ores of the other mods that are already included in ATO, should be turned off in the configs.
 
 -----
 
@@ -48,7 +79,7 @@ Tired of the fact that each mod uses its own ores and each machine consumes and 
 
 All rights reserved.
 
-[cf_mod]: https://legacy.curseforge.com/minecraft/mc-mods/all-the-compatibility
+[cf_mod]: https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility
 [mr_mod]: https://modrinth.com/mod/all-the-compatibility
 
 [ato]: https://www.curseforge.com/minecraft/mc-mods/ato
@@ -63,3 +94,8 @@ All rights reserved.
 [ep]: https://www.curseforge.com/minecraft/mc-mods/energized-power
 [aa]: https://www.curseforge.com/minecraft/mc-mods/ad-astra
 [ic]: https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge
+[mi]: https://www.curseforge.com/minecraft/mc-mods/modern-industrialization
+[ae]: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+[am]: https://www.curseforge.com/minecraft/mc-mods/allthemodium
+[ot]: https://www.curseforge.com/minecraft/mc-mods/oritech
+[replication]: https://www.curseforge.com/minecraft/mc-mods/replication

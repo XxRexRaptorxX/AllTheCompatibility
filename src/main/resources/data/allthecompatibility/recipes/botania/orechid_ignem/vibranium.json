@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "botania:orechid_ignem",
+  "input": {
+    "type": "block",
+    "block": "minecraft:netherrack"
+  },
+  "output": {
+    "type": "block",
+    "block": "allthemodium:vibranium_ore"
+  },
+  "weight": 10
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/diamond"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "atc:dust_cycle",
+  "input": {
+    "tag": "forge:dirty_dusts/diamond"
+  },
+  "mana": 4000,
+  "output": {
+    "item": "alltheores:diamond_dust"
+  }
+}

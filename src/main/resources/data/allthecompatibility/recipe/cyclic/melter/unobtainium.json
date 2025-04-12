@@ -12,7 +12,7 @@
   "type": "cyclic:melter",
   "ingredients": [
     {
-      "tag": "c:raw_materials:unobtainium"
+      "tag": "c:raw_materials/unobtainium"
     }
   ],
   "energy": {

@@ -8,7 +8,7 @@
   "type": "cyclic:melter",
   "ingredients": [
     {
-      "tag": "c:raw_materials:copper"
+      "tag": "c:raw_materials/copper"
     }
   ],
   "energy": {

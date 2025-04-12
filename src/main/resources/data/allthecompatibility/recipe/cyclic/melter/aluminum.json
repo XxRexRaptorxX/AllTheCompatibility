@@ -8,7 +8,7 @@
   "type": "cyclic:melter",
   "ingredients": [
     {
-      "tag": "c:raw_materials:aluminum"
+      "tag": "c:raw_materials/aluminum"
     }
   ],
   "energy": {

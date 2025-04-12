@@ -12,7 +12,7 @@
   "type": "cyclic:melter",
   "ingredients": [
     {
-      "tag": "c:raw_materials:vibranium"
+      "tag": "c:raw_materials/vibranium"
     }
   ],
   "energy": {

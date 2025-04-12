@@ -12,7 +12,7 @@
   "type": "cyclic:melter",
   "ingredients": [
     {
-      "tag": "c:raw_materials:allthemodium"
+      "tag": "c:raw_materials/allthemodium"
     }
   ],
   "energy": {

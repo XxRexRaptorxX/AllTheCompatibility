@@ -192,7 +192,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:flib-661261:${flib_version}")
     runtimeOnly fg.deobf("curse.maven:allthemodium-364466:${allthemodium_version}")
     runtimeOnly fg.deobf("curse.maven:geckolib-388172:${geckolib_version}")
-    runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
+    //runtimeOnly fg.deobf("curse.maven:voliminousenergy-416704:${voluminous_energy_version}")
     //runtimeOnly fg.deobf("curse.maven:assemblylinemachine-388282:${assembly_line_machines_version}")
     //runtimeOnly fg.deobf("curse.maven:indreb-358877:${industrial_reborn_version}")
     runtimeOnly fg.deobf("curse.maven:plaingrinder-452000:${plain_grinder_version}")
@@ -204,12 +204,12 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:resourceful-config-714059:${resourceful_config_version}")
     runtimeOnly fg.deobf("curse.maven:ad-astra-635042:${ad_astra_version}")
     runtimeOnly fg.deobf("curse.maven:mekanism-268560:${mekanism_version}") //to avoid ATO recipe errors
-    runtimeOnly "curse.maven:replication-638351:${replication_version}"
-    runtimeOnly "curse.maven:titanium-287342:${titanium_version}"
-    runtimeOnly "curse.maven:xl-packets-391640:${xl_packets_version}"
+    //runtimeOnly "curse.maven:replication-638351:${replication_version}"
+    //runtimeOnly "curse.maven:titanium-287342:${titanium_version}"
+    //runtimeOnly "curse.maven:xl-packets-391640:${xl_packets_version}"
     runtimeOnly "curse.maven:cloth-confg-api-348521:${cloth_config_api_version}"
-    runtimeOnly "curse.maven:applied-energistics-223794:${applied_energistics_version}"
-    runtimeOnly "curse.maven:ie-231951:${ie_version}"
+    //runtimeOnly "curse.maven:applied-energistics-223794:${applied_energistics_version}"
+    //runtimeOnly "curse.maven:ie-231951:${ie_version}"
     //runtimeOnly "curse.maven:enderio-64578:${enderio_version}"
 }
 
@@ -254,7 +254,7 @@ jar {
         attributes([
                 "Specification-Title"     : mod_id,
                 "Specification-Vendor"    : mod_authors,
-                "Specification-Version"   : "1", // We are version 1 of ourselves
+                "Specification-Version"   : project.version,
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
                 "Implementation-Vendor"   : mod_authors,

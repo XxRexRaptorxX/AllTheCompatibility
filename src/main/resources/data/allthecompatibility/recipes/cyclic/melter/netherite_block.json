@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/netherite"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 1400
+  },
+  "result": {
+    "fluid": "alltheores:molten_netherite",
+    "fluidTag": "forge:molten_netherite",
+    "count": 1296
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "cyclic:solidifier",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/allthemodium"
+    }
+  ],
+  "energy": {
+    "rfpertick": 500,
+    "ticks": 220
+  },
+  "mix": {
+    "fluid": "alltheores:molten_allthemodium",
+    "count": 144
+  },
+  "result": {
+    "item": "allthemodium:allthemodium_clump",
+    "count": 2
+  }
+}

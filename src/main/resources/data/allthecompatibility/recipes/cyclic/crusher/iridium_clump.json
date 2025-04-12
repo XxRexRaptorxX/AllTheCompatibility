@@ -1,0 +1,30 @@
+{
+  "type": "cyclic:crusher",
+  "input": {
+    "tag": "forge:clumps/iridium"
+  },
+  "energy": {
+    "ticks": 300,
+    "rfpertick": 50
+  },
+  "result": {
+    "item": "alltheores:iridium_dust",
+    "count": 1
+  },
+
+  "conditions": [
+    {
+      "values": [
+        {
+          "modid": "cyclic",
+          "type": "forge:mod_loaded"
+        },
+        {
+          "item": "cyclic:crusher",
+          "type": "forge:item_exists"
+        }
+      ],
+      "type": "forge:and"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/vibranium"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 100
+  },
+  "result": {
+    "fluid": "allthemodium:molten_vibranium",
+    "fluidTag": "forge:molten_vibranium",
+    "count": 144
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "cyclic:crusher",
+  "input": {
+    "tag": "forge:ores/vibranium"
+  },
+  "energy": {
+    "ticks": 1200,
+    "rfpertick": 120
+  },
+  "result": {
+    "item": "allthemodium:raw_vibranium",
+    "count": 1
+  },
+  "percent": 75,
+  "bonus": {
+    "item": "alltheores:vibranium_nugget",
+    "count": 3
+  },
+  "conditions": [
+    {
+      "values": [
+        {
+          "modid": "cyclic",
+          "type": "forge:mod_loaded"
+        },
+        {
+          "modid": "unobtainium",
+          "type": "forge:mod_loaded"
+        },
+        {
+          "item": "cyclic:crusher",
+          "type": "forge:item_exists"
+        }
+      ],
+      "type": "forge:and"
+    }
+  ]
+}

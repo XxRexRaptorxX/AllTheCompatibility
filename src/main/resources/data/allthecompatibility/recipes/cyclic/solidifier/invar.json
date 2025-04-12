@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:solidifier",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/nickel"
+    }
+  ],
+  "energy": {
+    "rfpertick": 500,
+    "ticks": 220
+  },
+  "mix": {
+    "fluid": "minecraft:lava",
+    "count": 100
+  },
+  "result": {
+    "item": "alltheores:invar_ingot",
+    "count": 3
+  }
+}

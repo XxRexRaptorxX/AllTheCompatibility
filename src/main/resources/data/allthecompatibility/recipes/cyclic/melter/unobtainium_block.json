@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/unobtainium"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 1400
+  },
+  "result": {
+    "fluid": "allthemodium:molten_unobtainium",
+    "fluidTag": "forge:molten_unobtainium",
+    "count": 1296
+  }
+}

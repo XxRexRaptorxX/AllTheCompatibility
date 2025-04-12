@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/electrum"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 1400
+  },
+  "result": {
+    "fluid": "alltheores:molten_electrum",
+    "fluidTag": "forge:molten_electrum",
+    "count": 1296
+  }
+}

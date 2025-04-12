@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cyclic"
+    }
+  ],
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/copper"
+    }
+  ],
+  "energy": {
+    "rfpertick": 100,
+    "ticks": 100
+  },
+  "result": {
+    "fluid": "alltheores:molten_copper",
+    "fluidTag": "forge:molten_copper",
+    "count": 144
+  }
+}

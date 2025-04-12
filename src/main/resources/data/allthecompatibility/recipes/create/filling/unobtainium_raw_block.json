@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "storage_blocks/raw_unobtainium"
+    },
+    {
+
+      "amount": 500,
+      "fluidTag": "forge:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "item": "allthemodium:unobtainium_shard",
+      "count": 24
+    }
+  ]
+}

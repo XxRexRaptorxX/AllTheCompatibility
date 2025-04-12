@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "raw_materials/osmium",
+      "count": 3
+    },
+    {
+
+      "amount": 300,
+      "fluidTag": "forge:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:osmium_shard",
+      "count": 8
+    }
+  ]
+}

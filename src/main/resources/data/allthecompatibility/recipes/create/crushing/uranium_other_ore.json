@@ -1,0 +1,38 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "allthemodium"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "alltheores:other_uranium_ore"
+        }
+    ],
+    "processingTime": 350,
+    "results": [
+        {
+            "count": 2,
+            "item":  "alltheores:uranium_dust"
+        },
+        {
+            "chance": 0.25,
+            "item":  "alltheores:uranium_dust"
+        },
+        {
+            "chance": 0.75,
+            "count": 2,
+            "item":  "create:experience_nugget"
+        },
+        {
+            "chance": 0.125,
+            "item":  "allthemodium:ancient_stone"
+        }
+    ]
+}

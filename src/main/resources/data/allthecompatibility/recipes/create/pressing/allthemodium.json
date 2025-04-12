@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/allthemodium"
+    }
+  ],
+  "results": [
+    {
+      "item": "allthemodium:allthemodium_plate"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "storage_blocks/raw_silver"
+    },
+    {
+
+      "amount": 500,
+      "fluidTag": "forge:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:silver_shard",
+      "count": 24
+    }
+  ]
+}

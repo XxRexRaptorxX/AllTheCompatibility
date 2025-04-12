@@ -1,0 +1,37 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "allthemodium"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "allthemodium:allthemodium_ore"
+        }
+    ],
+    "processingTime": 500,
+    "results": [
+        {
+            "count": 1,
+            "item":  "allthemodium:allthemodium_dust"
+        },
+        {
+            "chance": 0.15,
+            "item":  "allthemodium:allthemodium_dust"
+        },
+        {
+            "chance": 1.0,
+            "item":  "create:experience_nugget"
+        },
+        {
+            "chance": 0.125,
+            "item":  "minecraft:cobblestone"
+        }
+    ]
+}

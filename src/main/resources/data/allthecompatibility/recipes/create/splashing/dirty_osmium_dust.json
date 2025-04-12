@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dirty_dusts/osmium"
+    }
+  ],
+  "results": [
+    {
+      "item":  "alltheores:osmium_dust",
+      "count": 1
+    }
+  ]
+}

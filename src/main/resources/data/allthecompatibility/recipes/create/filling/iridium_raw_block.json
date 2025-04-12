@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "storage_blocks/raw_iridium"
+    },
+    {
+
+      "amount": 500,
+      "fluidTag": "forge:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "item": "alltheores:iridium_shard",
+      "count": 24
+    }
+  ]
+}

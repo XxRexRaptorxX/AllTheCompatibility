@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/unobtanium"
+    }
+  ],
+  "results": [
+    {
+      "item":  "allthemodium:unobtainium_nugget",
+      "count": 9
+    }
+  ]
+}

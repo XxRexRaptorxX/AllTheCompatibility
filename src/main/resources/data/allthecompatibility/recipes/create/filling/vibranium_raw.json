@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "raw_materials/vibranium",
+      "count": 3
+    },
+    {
+
+      "amount": 300,
+      "fluidTag": "forge:hydrogen_chloride"
+    }
+  ],
+  "results": [
+    {
+      "item": "allthemodium:vibranium_shard",
+      "count": 8
+    }
+  ]
+}

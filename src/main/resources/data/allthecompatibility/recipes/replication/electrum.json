@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "replication"
+    }
+  ],
+  "type": "replication:matter_value",
+  "input": {
+    "tag": "forge:ingots/electrum"
+  },
+  "matter": [
+    {
+      "type": "replication:metallic",
+      "value": 9.0
+    },
+    {
+      "type": "replication:precious",
+      "value": 9.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "replication"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "replication:matter_value",
+  "input": {
+    "tag": "forge:ingots/allthemodium"
+  },
+  "matter": [
+    {
+      "type": "replication:metallic",
+      "value": 50.0
+    },
+    {
+      "type": "replication:precious",
+      "value": 50.0
+    }
+  ]
+}

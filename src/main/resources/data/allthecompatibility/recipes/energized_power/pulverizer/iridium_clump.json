@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:clumps/iridium"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:dirty_iridium_dust"
+    },
+    "percentages": [ 1.0, 0.1 ],
+    "percentagesAdvanced": [ 1.0, 0.2 ]
+  }
+}

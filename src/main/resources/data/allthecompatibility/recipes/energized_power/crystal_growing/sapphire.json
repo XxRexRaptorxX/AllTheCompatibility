@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:crystal_growth_chamber",
+  "ingredient": {
+    "tag": "forge:dusts/sapphire"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:sapphire"
+    },
+    "percentages": [
+      1.0,
+      0.5,
+      0.25,
+      0.125
+    ]
+  },
+  "ticks": 16000
+}

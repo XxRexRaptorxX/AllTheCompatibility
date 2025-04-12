@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:crystal_growth_chamber",
+  "ingredient": {
+    "tag": "forge:dusts/copper"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:copper_crystal"
+    },
+    "percentages": [
+      1.0,
+      0.125
+    ]
+  },
+  "ticks": 36000
+}

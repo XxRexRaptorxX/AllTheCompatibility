@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:pulverizer",
+  "ingredient": {
+    "tag": "forge:clumps/vibranium"
+  },
+  "output": {
+    "output": {
+      "item": "allthemodium:dirty_vibranium_dust"
+    },
+    "percentages": [ 1.0, 0.05 ],
+    "percentagesAdvanced": [ 1.0, 0.1 ]
+  }
+}

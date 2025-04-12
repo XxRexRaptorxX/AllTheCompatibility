@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:fluid_transposer",
+  "fluid": {
+    "amount": 250,
+    "item": "mekanism:hydrogen_chloride"
+  },
+  "ingredient": {
+    "tag": "forge:crystals/allthemodium"
+  },
+  "mode": "FILLING",
+  "output": {
+    "item": "allthemodium:allthemodium_shard"
+  }
+}

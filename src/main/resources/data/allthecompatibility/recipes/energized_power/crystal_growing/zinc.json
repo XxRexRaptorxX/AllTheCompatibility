@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    }
+  ],
+  "type": "energizedpower:crystal_growth_chamber",
+  "ingredient": {
+    "tag": "forge:dusts/zinc"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:zinc_crystal"
+    },
+    "percentages": [
+      1.0,
+      0.125
+    ]
+  },
+  "ticks": 36000
+}

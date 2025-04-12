@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "energizedpower:fluid_transposer",
+  "fluid": {
+    "amount": 450,
+    "item": "mekanism:hydrogen_chloride"
+  },
+  "ingredient": {
+    "tag": "forge:raw_materials/iridium",
+    "count": 3
+  },
+  "mode": "FILLING",
+  "output": {
+    "item": "alltheores:iridium_shard",
+    "count": 8
+  }
+}

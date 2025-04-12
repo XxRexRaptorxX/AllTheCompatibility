@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:metal_press",
+  "ingredient": [
+    {
+      "tag": "forge:plates/vibranium"
+    }
+  ],
+  "inputCount": 2,
+  "pressMold": {
+    "item": "energizedpower:rod_press_mold"
+  },
+  "output": {
+    "item": "allthemodium:vibranium_rod"
+  }
+}

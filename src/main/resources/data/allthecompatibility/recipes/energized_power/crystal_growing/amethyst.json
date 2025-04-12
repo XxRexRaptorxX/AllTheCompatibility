@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dusts/amethyst"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "energizedpower:crystal_growth_chamber",
+  "ingredient": {
+    "tag": "forge:dusts/amethyst"
+  },
+  "output": {
+    "output": {
+      "item": "alltheores:amethyst_shard"
+    },
+    "percentages": [
+      1.0,
+      0.5,
+      0.25,
+      0.125
+    ]
+  },
+  "ticks": 16000
+}

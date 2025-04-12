@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:crystal_growth_chamber",
+  "ingredient": {
+    "tag": "forge:dusts/allthemodium"
+  },
+  "output": {
+    "output": {
+      "item": "allthemodium:allthemodium_crystal"
+    },
+    "percentages": [
+      1.0
+    ]
+  },
+  "ticks": 40000
+}

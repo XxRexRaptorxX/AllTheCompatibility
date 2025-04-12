@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "tag": "forge:storage_blocks/vibranium"
+  },
+  "output": {
+    "item": "allthemodium:vibranium_plate",
+    "count": 9
+  }
+}

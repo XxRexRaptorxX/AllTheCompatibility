@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "energizedpower"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "energizedpower:fluid_transposer",
+  "fluid": {
+    "amount": 450,
+    "item": "mekanism:hydrogen_chloride"
+  },
+  "ingredient": {
+    "tag": "forge:storage_blocks/raw_aluminum",
+    "count": 1
+  },
+  "mode": "FILLING",
+  "output": {
+    "item": "alltheores:aluminum_shard",
+    "count": 24
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ad_astra"
+    }
+  ],
+  "type": "ad_astra:compressing",
+  "ingredient": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "id": "alltheores:copper_plate",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "energy": 20
+}

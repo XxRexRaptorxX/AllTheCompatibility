@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dusts/emerald"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "type": "ae2:transform",
+  "ingredients": [
+    {
+      "item": "ae2:charged_certus_quartz_crystal"
+    },
+    {
+      "tag": "forge:dusts/emerald"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:emerald"
+  }
+}

@@ -1,11 +1,11 @@
 {
   "values": [
     {
-      "id": "alltheores:aluminum_dirty_dust",
+      "id": "alltheores:iron_dirty_dust",
       "required": false
     },
     {
-      "id": "mekanism:dirty_dust_aluminum",
+      "id": "mekanism:dirty_dust_iron",
       "required": false
     }
   ]

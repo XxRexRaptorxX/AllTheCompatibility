@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:uranium_crystal"
+    {
+      "id": "alltheores:uranium_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_uranium",
+      "required": false
+    }
   ]
 }

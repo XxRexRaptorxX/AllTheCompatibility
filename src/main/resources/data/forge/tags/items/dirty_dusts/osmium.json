@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:dirty_osmium_dust"
+    {
+      "id": "alltheores:osmium_dirty_dust",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_osmium",
+      "required": false
+    }
   ]
 }

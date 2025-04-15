@@ -1,11 +1,11 @@
 {
   "values": [
     {
-      "id": "alltheores:aluminum_dirty_dust",
+      "id": "alltheores:gold_clump",
       "required": false
     },
     {
-      "id": "mekanism:dirty_dust_aluminum",
+      "id": "mekanism:clump_gold",
       "required": false
     }
   ]

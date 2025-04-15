@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:iridium_crystal"
+    {
+      "id": "alltheores:iridium_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_iridium",
+      "required": false
+    }
   ]
 }

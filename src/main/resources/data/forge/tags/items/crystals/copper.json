@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:copper_crystal"
+    {
+      "id": "alltheores:copper_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_copper",
+      "required": false
+    }
   ]
 }

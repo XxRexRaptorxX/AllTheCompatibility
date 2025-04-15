@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:aluminum_crystal"
+    {
+      "id": "alltheores:aluminum_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_aluminum",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:platinum_crystal"
+    {
+      "id": "alltheores:platinum_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_platinum",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:silver_clump"
+    {
+      "id": "alltheores:silver_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_silver",
+      "required": false
+    }
   ]
 }

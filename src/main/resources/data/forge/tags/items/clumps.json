@@ -1,15 +1,72 @@
 {
   "values": [
-    "alltheores:aluminum_clump",
-    "alltheores:copper_clump",
-    "alltheores:iridium_clump",
-    "alltheores:lead_clump",
-    "alltheores:osmium_clump",
-    "alltheores:nickel_clump",
-    "alltheores:platinum_clump",
-    "alltheores:silver_clump",
-    "alltheores:tin_clump",
-    "alltheores:uranium_clump",
-    "alltheores:zinc_clump"
+    {
+      "id": "#forge:clumps/aluminum",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/copper",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/iridium",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/lead",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/osmium",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/nickel",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/platinum",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/silver",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/tin",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/uranium",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/zinc",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/iron",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/gold",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/aluminum",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/allthemodium",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/vibranium",
+      "required": false
+    },
+    {
+      "id": "#forge:clumps/unobtainium",
+      "required": false
+    }
   ]
 }

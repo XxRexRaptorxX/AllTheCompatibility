@@ -1,15 +1,72 @@
 {
   "values": [
-    "alltheores:dirty_aluminum_dust",
-    "alltheores:dirty_copper_dust",
-    "alltheores:dirty_iridium_dust",
-    "alltheores:dirty_lead_dust",
-    "alltheores:dirty_osmium_dust",
-    "alltheores:dirty_nickel_dust",
-    "alltheores:dirty_platinum_dust",
-    "alltheores:dirty_silver_dust",
-    "alltheores:dirty_tin_dust",
-    "alltheores:dirty_uranium_dust",
-    "alltheores:dirty_zinc_dust"
+    {
+      "id": "#forge:dirty_dusts/aluminum",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/copper",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/iridium",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/lead",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/osmium",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/nickel",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/platinum",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/silver",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/tin",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/uranium",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/zinc",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/iron",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/gold",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/aluminum",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/allthemodium",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/vibranium",
+      "required": false
+    },
+    {
+      "id": "#forge:dirty_dusts/unobtainium",
+      "required": false
+    }
   ]
 }

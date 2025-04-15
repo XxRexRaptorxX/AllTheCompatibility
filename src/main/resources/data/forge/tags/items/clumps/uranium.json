@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:uranium_clump"
+    {
+      "id": "alltheores:uranium_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_uranium",
+      "required": false
+    }
   ]
 }

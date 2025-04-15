@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:platinum_clump"
+    {
+      "id": "alltheores:platinum_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_platinum",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:osmium_clump"
+    {
+      "id": "alltheores:osmium_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_osmium",
+      "required": false
+    }
   ]
 }

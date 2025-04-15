@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:zinc_crystal"
+    {
+      "id": "alltheores:zinc_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_zinc",
+      "required": false
+    }
   ]
 }

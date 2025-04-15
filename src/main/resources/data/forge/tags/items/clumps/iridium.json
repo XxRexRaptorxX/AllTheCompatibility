@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:iridium_clump"
+    {
+      "id": "alltheores:iridium_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_iridium",
+      "required": false
+    }
   ]
 }

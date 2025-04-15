@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:dirty_lead_dust"
+    {
+      "id": "alltheores:lead_dirty_dust",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_lead",
+      "required": false
+    }
   ]
 }

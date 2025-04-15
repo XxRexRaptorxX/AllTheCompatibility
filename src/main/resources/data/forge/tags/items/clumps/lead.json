@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:lead_clump"
+    {
+      "id": "alltheores:lead_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_lead",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:copper_clump"
+    {
+      "id": "alltheores:copper_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_copper",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:nickel_crystal"
+    {
+      "id": "alltheores:nickel_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_nickel",
+      "required": false
+    }
   ]
 }

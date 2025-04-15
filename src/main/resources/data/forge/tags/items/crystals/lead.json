@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:lead_crystal"
+    {
+      "id": "alltheores:lead_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_lead",
+      "required": false
+    }
   ]
 }

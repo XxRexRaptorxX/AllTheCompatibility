@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:dirty_uranium_dust"
+    {
+      "id": "alltheores:uranium_dirty_dust",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_uranium",
+      "required": false
+    }
   ]
 }

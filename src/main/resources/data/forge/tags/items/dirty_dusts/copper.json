@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:dirty_copper_dust"
+    {
+      "id": "alltheores:copper_dirty_dust",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_copper",
+      "required": false
+    }
   ]
 }

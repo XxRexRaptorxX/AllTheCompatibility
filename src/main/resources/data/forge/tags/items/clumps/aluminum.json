@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:aluminum_clump"
+    {
+      "id": "alltheores:aluminum_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_aluminum",
+      "required": false
+    }
   ]
 }

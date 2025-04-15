@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:zinc_clump"
+    {
+      "id": "alltheores:zinc_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_zinc",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:tin_crystal"
+    {
+      "id": "alltheores:tin_crystal",
+      "required": false
+    },
+    {
+      "id": "mekanism:crystal_tin",
+      "required": false
+    }
   ]
 }

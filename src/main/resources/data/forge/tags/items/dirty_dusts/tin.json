@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:dirty_tin_dust"
+    {
+      "id": "alltheores:tin_dirty_dust",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_tin",
+      "required": false
+    }
   ]
 }

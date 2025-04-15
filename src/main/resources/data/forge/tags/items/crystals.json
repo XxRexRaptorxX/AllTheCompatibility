@@ -1,15 +1,72 @@
 {
   "values": [
-    "alltheores:aluminum_crystal",
-    "alltheores:copper_crystal",
-    "alltheores:iridium_crystal",
-    "alltheores:lead_crystal",
-    "alltheores:osmium_crystal",
-    "alltheores:nickel_crystal",
-    "alltheores:platinum_crystal",
-    "alltheores:silver_crystal",
-    "alltheores:tin_crystal",
-    "alltheores:uranium_crystal",
-    "alltheores:zinc_crystal"
+    {
+      "id": "#forge:crystals/aluminum",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/copper",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/iridium",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/lead",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/osmium",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/nickel",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/platinum",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/silver",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/tin",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/uranium",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/zinc",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/iron",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/gold",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/aluminum",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/allthemodium",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/vibranium",
+      "required": false
+    },
+    {
+      "id": "#forge:crystals/unobtainium",
+      "required": false
+    }
   ]
 }

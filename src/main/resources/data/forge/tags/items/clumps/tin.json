@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:tin_clump"
+    {
+      "id": "alltheores:tin_clump",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_tin",
+      "required": false
+    }
   ]
 }

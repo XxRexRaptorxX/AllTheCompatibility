@@ -1,5 +1,12 @@
 {
   "values": [
-    "alltheores:dirty_platinum_dust"
+    {
+      "id": "alltheores:platinum_dirty_dust",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_platinum",
+      "required": false
+    }
   ]
 }

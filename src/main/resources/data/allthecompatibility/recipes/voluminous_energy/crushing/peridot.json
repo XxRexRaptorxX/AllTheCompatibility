@@ -7,12 +7,12 @@
   ],
   "type": "voluminousenergy:crushing",
   "ingredient": {
-    "tag": "forge:gems/peridotr",
+    "tag": "forge:gems/peridot",
     "count": 1
   },
   "process_time": 200,
   "result": {
-    "item": "alltheores:peridotr_dust",
+    "item": "alltheores:peridot_dust",
     "count": 1
   },
   "experience": {

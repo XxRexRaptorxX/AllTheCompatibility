@@ -7,6 +7,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "allthemodium"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/unobtainium"
+      },
+      "type": "forge:not"
     }
   ],
   "type": "botania:mana_infusion",

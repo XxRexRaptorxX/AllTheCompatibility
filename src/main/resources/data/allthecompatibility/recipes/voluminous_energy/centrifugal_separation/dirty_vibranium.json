@@ -7,6 +7,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "allthemodium"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/vibranium"
+      },
+      "type": "forge:not"
     }
   ],
   "type": "voluminousenergy:centrifugal_separation",

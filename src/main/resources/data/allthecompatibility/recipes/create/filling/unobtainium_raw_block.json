@@ -7,6 +7,10 @@
     {
       "type": "forge:mod_loaded",
       "modid": "allthemodium"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "allthemodium:unobtainium_shard"
     }
   ],
   "type": "create:filling",

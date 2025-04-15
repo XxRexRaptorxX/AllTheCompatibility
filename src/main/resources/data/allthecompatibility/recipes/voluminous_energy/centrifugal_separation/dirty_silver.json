@@ -3,6 +3,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "voluminousenergy"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/silver"
+      },
+      "type": "forge:not"
     }
   ],
   "type": "voluminousenergy:centrifugal_separation",

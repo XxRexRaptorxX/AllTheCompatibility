@@ -3,6 +3,10 @@
     {
       "type": "forge:mod_loaded",
       "modid": "create"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:copper_shard"
     }
   ],
   "type": "create:filling",

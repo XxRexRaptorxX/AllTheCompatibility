@@ -3,6 +3,10 @@
     {
       "type": "forge:mod_loaded",
       "modid": "voluminousenergy"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:nickel_crystal"
     }
   ],
   "type": "voluminousenergy:implosion_compressing",

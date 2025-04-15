@@ -3,6 +3,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "botania"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/lead"
+      },
+      "type": "forge:not"
     }
   ],
   "type": "botania:mana_infusion",

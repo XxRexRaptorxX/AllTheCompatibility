@@ -3,6 +3,10 @@
     {
       "type": "forge:mod_loaded",
       "modid": "botania"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:osmium_crystal"
     }
   ],
   "type": "botania:mana_infusion",

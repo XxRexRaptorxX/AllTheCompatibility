@@ -7,6 +7,10 @@
     {
       "type": "forge:mod_loaded",
       "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:uranium_shard"
     }
   ],
   "type": "energizedpower:fluid_transposer",

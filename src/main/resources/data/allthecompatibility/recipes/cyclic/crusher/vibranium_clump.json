@@ -20,12 +20,19 @@
           "type": "forge:mod_loaded"
         },
         {
-          "modid": "unobtainium",
+          "modid": "allthemodium",
           "type": "forge:mod_loaded"
         },
         {
           "item": "cyclic:crusher",
           "type": "forge:item_exists"
+        },
+        {
+          "value": {
+            "type": "forge:tag_empty",
+            "tag": "forge:clumps/vibranium"
+          },
+          "type": "forge:not"
         }
       ],
       "type": "forge:and"

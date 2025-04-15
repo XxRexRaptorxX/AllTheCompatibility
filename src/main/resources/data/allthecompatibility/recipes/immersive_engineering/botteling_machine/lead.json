@@ -7,6 +7,10 @@
     {
       "type": "forge:mod_loaded",
       "modid": "mekanism"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alltheores:lead_shard"
     }
   ],
   "type": "immersiveengineering:bottling_machine",

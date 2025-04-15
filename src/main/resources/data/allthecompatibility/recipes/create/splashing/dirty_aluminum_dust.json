@@ -3,6 +3,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "create"
+    },
+    {
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:dirty_dusts/aluminum"
+      },
+      "type": "forge:not"
     }
   ],
   "type": "create:splashing",

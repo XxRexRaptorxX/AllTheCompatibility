@@ -13,7 +13,7 @@
   },
   "percent": 75,
   "bonus": {
-    "item": "alltheores:allthemodium_nugget",
+    "item": "allthemodium:allthemodium_nugget",
     "count": 3
   },
   "neoforge:conditions": [

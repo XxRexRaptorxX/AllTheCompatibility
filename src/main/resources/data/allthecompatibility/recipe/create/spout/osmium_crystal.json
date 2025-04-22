@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/osmium"
+      "tag": "c:crystals/osmium"
     },
     {
       "type": "fluid_tag",

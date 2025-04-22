@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/gold",
+      "tag": "c:raw_materials/gold",
       "count": 3
     },
     {

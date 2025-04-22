@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "storage_blocks/raw_platinum"
+      "tag": "c:storage_blocks/raw_platinum"
     },
     {
       "type": "fluid_tag",

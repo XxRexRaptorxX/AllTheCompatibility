@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/aluminum"
+      "tag": "c:crystals/aluminum"
     },
     {
       "type": "fluid_tag",

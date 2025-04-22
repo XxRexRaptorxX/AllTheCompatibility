@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/gold"
+      "tag": "c:crystals/gold"
     },
     {
       "type": "fluid_tag",

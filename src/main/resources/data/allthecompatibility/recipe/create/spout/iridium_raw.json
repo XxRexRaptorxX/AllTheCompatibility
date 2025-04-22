@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/iridium",
+      "tag": "c:raw_materials/iridium",
       "count": 3
     },
     {

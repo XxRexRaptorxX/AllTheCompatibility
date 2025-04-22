@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/iron"
+      "tag": "c:ores/iron"
     },
     {
       "type": "fluid_tag",

@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/uranium",
+      "tag": "c:raw_materials/uranium",
       "count": 3
     },
     {

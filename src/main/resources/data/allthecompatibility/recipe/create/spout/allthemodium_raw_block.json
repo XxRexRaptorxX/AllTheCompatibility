@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "storage_blocks/raw_allthemodium"
+      "tag": "c:storage_blocks/raw_allthemodium"
     },
     {
       "type": "fluid_tag",

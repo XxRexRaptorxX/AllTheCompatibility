@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/iron",
+      "tag": "c:raw_materials/iron",
       "count": 3
     },
     {

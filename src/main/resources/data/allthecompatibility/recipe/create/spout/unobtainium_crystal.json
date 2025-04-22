@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/unobtainium"
+      "tag": "c:crystals/unobtainium"
     },
     {
       "type": "fluid_tag",

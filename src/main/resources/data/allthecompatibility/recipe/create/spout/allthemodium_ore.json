@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/allthemodium"
+      "tag": "c:ores/allthemodium"
     },
     {
       "type": "fluid_tag",

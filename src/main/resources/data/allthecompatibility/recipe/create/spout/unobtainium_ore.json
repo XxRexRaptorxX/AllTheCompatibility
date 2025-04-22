@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/unobtainium"
+      "tag": "c:ores/unobtainium"
     },
     {
       "type": "fluid_tag",

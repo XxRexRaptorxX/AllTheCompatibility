@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/vibranium"
+      "tag": "c:ores/vibranium"
     },
     {
       "type": "fluid_tag",

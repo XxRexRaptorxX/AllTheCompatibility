@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/uranium"
+      "tag": "c:crystals/uranium"
     },
     {
       "type": "fluid_tag",

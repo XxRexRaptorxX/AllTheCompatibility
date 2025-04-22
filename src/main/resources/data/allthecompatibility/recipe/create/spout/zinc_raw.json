@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/zinc",
+      "tag": "c:raw_materials/zinc",
       "count": 3
     },
     {

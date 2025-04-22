@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/vibranium"
+      "tag": "c:crystals/vibranium"
     },
     {
       "type": "fluid_tag",

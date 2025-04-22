@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/tin",
+      "tag": "c:raw_materials/tin",
       "count": 3
     },
     {

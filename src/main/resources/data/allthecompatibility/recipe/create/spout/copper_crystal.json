@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/copper"
+      "tag": "c:crystals/copper"
     },
     {
       "type": "fluid_tag",

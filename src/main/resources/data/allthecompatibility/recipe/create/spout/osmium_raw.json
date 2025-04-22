@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "raw_materials/osmium",
+      "tag": "c:raw_materials/osmium",
       "count": 3
     },
     {

@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/lead"
+      "tag": "c:crystals/lead"
     },
     {
       "type": "fluid_tag",

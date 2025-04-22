@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/zinc"
+      "tag": "c:crystals/zinc"
     },
     {
       "type": "fluid_tag",

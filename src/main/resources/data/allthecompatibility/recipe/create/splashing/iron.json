@@ -13,9 +13,7 @@
   ],
   "results": [
     {
-      "item": {
-        "id": "minecraft:iron_nugget"
-      },
+      "id": "minecraft:iron_nugget",
       "count": 9
     }
   ]

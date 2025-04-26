@@ -8,8 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/tin",
-      "count": 3
+      "tag": "c:raw_materials/tin"
     },
     {
       "type": "fluid_tag",
@@ -20,7 +19,7 @@
   "results": [
     {
       "id": "alltheores:tin_shard",
-      "count": 8
+      "count": 2
     }
   ]
 }

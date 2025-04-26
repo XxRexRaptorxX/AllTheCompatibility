@@ -12,8 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/unobtainium",
-      "count": 3
+      "tag": "c:raw_materials/unobtainium"
     },
     {
       "type": "fluid_tag",
@@ -24,7 +23,7 @@
   "results": [
     {
       "id": "allthemodium:unobtainium_shard",
-      "count": 8
+      "count": 2
     }
   ]
 }

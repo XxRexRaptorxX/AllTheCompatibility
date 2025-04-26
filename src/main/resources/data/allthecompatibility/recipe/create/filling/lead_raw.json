@@ -8,8 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/lead",
-      "count": 3
+      "tag": "c:raw_materials/lead"
     },
     {
       "type": "fluid_tag",
@@ -20,7 +19,7 @@
   "results": [
     {
       "id": "alltheores:lead_shard",
-      "count": 8
+      "count": 2
     }
   ]
 }

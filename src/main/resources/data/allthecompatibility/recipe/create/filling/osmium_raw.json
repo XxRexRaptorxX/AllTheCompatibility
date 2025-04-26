@@ -8,8 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/osmium",
-      "count": 3
+      "tag": "c:raw_materials/osmium"
     },
     {
       "type": "fluid_tag",
@@ -20,7 +19,7 @@
   "results": [
     {
       "id": "alltheores:osmium_shard",
-      "count": 8
+      "count": 2
     }
   ]
 }

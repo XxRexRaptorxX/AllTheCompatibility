@@ -176,6 +176,7 @@ dependencies {
     runtimeOnly "curse.maven:mekanism-268560:${mekanism_version}" //to avoid ATO recipe errors
     runtimeOnly "curse.maven:actually-additions-228404:${aa_version}" //to avoid ATO recipe errors
     //runtimeOnly "curse.maven:ender-io-64578:${ender_io_version}" //to avoid ATO recipe errors
+    runtimeOnly "curse.maven:immersive-engineering-231951:${ie_version}"
     runtimeOnly "curse.maven:modern-industrialization-405388:${modern_industrialization_version}"
     runtimeOnly "curse.maven:cloth-confg-api-348521:${cloth_config_api_version}"
     runtimeOnly "curse.maven:applied-energistics-223794:${applied_energistics_version}"

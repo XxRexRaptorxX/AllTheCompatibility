@@ -148,7 +148,7 @@ dependencies {
 
     //[mandatory]
     //curse.maven:<description>-<project-id>:<file-id>
-    runtimeOnly "curse.maven:alltheores-405593:${ato_version}"
+    implementation "curse.maven:alltheores-405593:${ato_version}"
 
     //[optional]
     runtimeOnly "curse.maven:allthemodium-364466:${allthemodium_version}"
@@ -173,7 +173,7 @@ dependencies {
     //runtimeOnly "curse.maven:resourceful-lib-570073:${resourceful_lib_version}"
     //runtimeOnly "curse.maven:resourceful-config-714059:${resourceful_config_version}"
     //runtimeOnly "curse.maven:ad-astra-635042:${ad_astra_version}"
-    runtimeOnly "curse.maven:mekanism-268560:${mekanism_version}" //to avoid ATO recipe errors
+    //runtimeOnly "curse.maven:mekanism-268560:${mekanism_version}" //to avoid ATO recipe errors
     runtimeOnly "curse.maven:actually-additions-228404:${aa_version}" //to avoid ATO recipe errors
     //runtimeOnly "curse.maven:ender-io-64578:${ender_io_version}" //to avoid ATO recipe errors
     runtimeOnly "curse.maven:immersive-engineering-231951:${ie_version}"

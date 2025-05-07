@@ -11,7 +11,7 @@ itemIcon="minecraft:crafting_table"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility_NEO.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility"
 logoFile="logo.png"
-#credits=""
+credits="The ATMTeam for its good base mod"
 authors="${mod_authors}"
 description='''This mod adds recipe compatibility between AllTheOres and other mods!'''
 

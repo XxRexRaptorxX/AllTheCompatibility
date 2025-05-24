@@ -7,7 +7,7 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibil
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
-itemIcon="minecraft:crafting_table"
+itemIcon="alltheores:iridium_ore"
 updateJSONURL="https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AllTheCompatibility_NEO.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility"
 logoFile="logo.png"
@@ -15,6 +15,8 @@ credits="The ATMTeam for its good base mod"
 authors="${mod_authors}"
 description='''This mod adds recipe compatibility between AllTheOres and other mods!'''
 
+[modproperties.${mod_id}]
+configuredBackground="alltheores:textures/block/iridium_ore.png"
 
 [[dependencies.${mod_id}]]
     modId="neoforge"

@@ -15,6 +15,10 @@
     {
       "id": "alltheores:zinc_nugget",
       "count": 9
+    },
+    {
+      "chance": 0.25,
+      "id": "minecraft:gunpowder"
     }
   ]
 }

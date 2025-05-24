@@ -15,6 +15,10 @@
     {
       "id": "alltheores:tin_nugget",
       "count": 9
+    },
+    {
+      "chance": 0.15,
+      "id": "minecraft:bone_meal"
     }
   ]
 }

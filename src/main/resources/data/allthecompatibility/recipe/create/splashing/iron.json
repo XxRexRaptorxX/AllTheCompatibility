@@ -15,6 +15,10 @@
     {
       "id": "minecraft:iron_nugget",
       "count": 9
+    },
+    {
+      "chance": 0.75,
+      "id": "minecraft:redstone"
     }
   ]
 }

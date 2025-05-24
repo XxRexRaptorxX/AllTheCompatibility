@@ -87,7 +87,7 @@ public class Events {
         Player player = event.getEntity();
         Level level = player.level();
 
-        if (Config.PATREON_REWARDS.get()) {
+        if (Config.PATREON_REWARDS != null && Config.PATREON_REWARDS.get()) {
 
             try {
                 URL SUPPORTER_URL = new URL("https://raw.githubusercontent.com/XxRexRaptorxX/Patreons/main/Supporter");
@@ -248,7 +248,9 @@ public class Events {
                 Files.writeString(marker, fileContent, StandardCharsets.UTF_8);
                 String launcher = FMLLoader.getLauncherInfo().toLowerCase();
 
-                if (!launcher.contains("curseforge") || !launcher.contains("modrinth") || !launcher.contains("prism")) {
+                if (!(launcher.contains("curseforge") || launcher.contains("modrinth") || launcher.contains("prism"))) {
+                    ATC.LOGGER.info("Stop-mod-reposts info message is generated. Don't worry, this message should only appear the very first time after installation!");
+                    player.sendSystemMessage(Component.literal("<-------------------------------------------------->").withStyle(ChatFormatting.RED));
                     player.sendSystemMessage(Component.literal("Important Information about mod reposts:\n").withStyle(ChatFormatting.UNDERLINE).withStyle(ChatFormatting.DARK_RED));
                     player.sendSystemMessage(Component.literal("Sites like 9minecraft.net, mc-mod.net, etc. are known for reuploading mod files without permissions. \nThese sites will also contain a bunch of ads, to try to make money from mods they did not create.\n").withStyle(ChatFormatting.RED));
                     player.sendSystemMessage(Component.literal("For you, this can mean any of the following:").withStyle(ChatFormatting.UNDERLINE).withStyle(ChatFormatting.RED));
@@ -260,6 +262,8 @@ public class Events {
                     MutableComponent url = Component.literal(ChatFormatting.GOLD + "* Click here for more information *");
                     url.withStyle(url.getStyle().withClickEvent(new ClickEvent(ClickEvent.Action.OPEN_URL, "https://vazkii.net/repost/")));
                     player.sendSystemMessage(url);
+
+                    player.sendSystemMessage(Component.literal("<-------------------------------------------------->").withStyle(ChatFormatting.RED));
                 }
             }
         } catch (IOException e) {

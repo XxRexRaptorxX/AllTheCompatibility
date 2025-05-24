@@ -1,0 +1,21 @@
+{
+  "allthecompatibility.configuration.title": "AllTheCompatibility Configuration",
+  "allthecompatibility.configuration.section.allthecompatibility.server.toml": "Server Settings",
+  "allthecompatibility.configuration.section.allthecompatibility.server.toml.title": "Server Options",
+  "allthecompatibility.configuration.section.allthecompatibility.client.toml": "Client Settings",
+  "allthecompatibility.configuration.section.allthecompatibility.client.toml.title": "Client Options",
+
+  "allthecompatibility.configuration.general": "General",
+  "allthecompatibility.configuration.general.button": "General Settings",
+  "allthecompatibility.configuration.general.tooltip": "Configure general settings",
+  "allthecompatibility.configuration.content": "Content",
+  "allthecompatibility.configuration.content.button": "Content Settings",
+  "allthecompatibility.configuration.content.tooltip": "Configure content settings",
+
+  "allthecompatibility.configuration.update-checker": "Update-Checker",
+  "allthecompatibility.configuration.update-checker.tooltip": "Activate whether the game should check at every world start whether your mod matches the latest version",
+  "allthecompatibility.configuration.patreon_rewards": "Supporter Rewards",
+  "allthecompatibility.configuration.patreon_rewards.tooltip": "Enables ingame rewards on first spawn for Patreons and supporters",
+  "allthecompatibility.configuration.mekanism_compatibility_items": "Mekanism Compatibility items",
+  "allthecompatibility.configuration.mekanism_compatibility_items.tooltip": "AllTheOres only generates shards, clumps & dirty dusts if Mekanism is installed, this makes many ATC recipes invalid, so ATC lets them generate even if Mekanism is not installed"
+}

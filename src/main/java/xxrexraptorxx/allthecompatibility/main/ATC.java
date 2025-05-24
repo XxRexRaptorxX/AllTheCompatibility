@@ -7,11 +7,14 @@ import net.allthemods.alltheores.content.items.mekanism.DirtyDust;
 import net.allthemods.alltheores.content.items.mekanism.Shard;
 import net.allthemods.alltheores.registry.ATORegistry;
 import net.minecraft.world.item.Item;
+import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
+import net.neoforged.neoforge.client.gui.ConfigurationScreen;
+import net.neoforged.neoforge.client.gui.IConfigScreenFactory;
 import net.neoforged.neoforge.registries.NewRegistryEvent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -33,7 +36,6 @@ public class ATC {
     }
 
 
-
     /**
      * Registers the missing ATO compatibility items if Mekanism is not loaded
      */
@@ -48,6 +50,15 @@ public class ATC {
             ATORegistry.ITEMS.register(name + "_shard",   () -> new Shard(new Item.Properties()));
             ATORegistry.ITEMS.register(name + "_clump",   () -> new Clump(new Item.Properties()));
             ATORegistry.ITEMS.register("dirty_" + name + "_dust", () -> new DirtyDust(new Item.Properties()));
+        }
+    }
+
+
+    @Mod(value = References.MODID, dist = Dist.CLIENT)
+    public static class ATCClient {
+
+        public ATCClient(ModContainer container) {
+            container.registerExtensionPoint(IConfigScreenFactory.class, ConfigurationScreen::new);
         }
     }
 }

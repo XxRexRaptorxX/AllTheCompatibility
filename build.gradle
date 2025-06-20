@@ -1,3 +1,5 @@
+import net.darkhax.curseforgegradle.TaskPublishCurseForge
+
 plugins {
     id 'java-library'
     id 'eclipse'
@@ -289,3 +291,24 @@ modrinth {
 //tasks.modrinth.dependsOn(tasks.modrinthSyncBody) //auto readme sync
 tasks.modrinth.wasUploadSuccessful()
 tasks.modrinth.uploadInfo
+
+
+
+//CURSEFORGE
+def cfToken = project.findProperty("curseforgeToken")?.toString()
+if (cfToken == null) {
+    throw new GradleException("Missing token in ~/.gradle/gradle.properties => 'curseforgeToken'")
+}
+def cfId = project.findProperty("cf_id")?.toString()
+
+task publishCurseForge(type: TaskPublishCurseForge) {
+    apiToken = cfToken
+
+    // Tells CurseForgeGradle to publish the output of the jar task. This will
+    // return a UploadArtifact object that can be used to further configure the
+    // file.
+    def mainFile = upload(cfId as Integer, jar)
+    mainFile.releaseType   = release_type
+    mainFile.changelog     = change_log
+    mainFile.changelogType = 'markdown'
+}

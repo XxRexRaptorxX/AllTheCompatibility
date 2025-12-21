@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/iridium"
+      "tag": "c:crystals/iridium"
     },
     {
 

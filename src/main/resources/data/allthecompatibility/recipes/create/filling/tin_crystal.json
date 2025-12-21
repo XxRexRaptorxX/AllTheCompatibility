@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/tin"
+      "tag": "c:crystals/tin"
     },
     {
 

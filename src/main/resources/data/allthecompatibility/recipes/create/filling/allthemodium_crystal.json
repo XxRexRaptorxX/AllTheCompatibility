@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/allthemodium"
+      "tag": "c:crystals/allthemodium"
     },
     {
 

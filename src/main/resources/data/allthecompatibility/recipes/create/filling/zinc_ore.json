@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/zinc"
+      "tag": "c:ores/zinc"
     },
     {
 

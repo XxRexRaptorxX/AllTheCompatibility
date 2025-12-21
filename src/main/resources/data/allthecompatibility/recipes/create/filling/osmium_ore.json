@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/osmium"
+      "tag": "c:ores/osmium"
     },
     {
 

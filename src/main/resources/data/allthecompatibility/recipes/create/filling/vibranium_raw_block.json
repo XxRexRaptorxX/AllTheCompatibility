@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "storage_blocks/raw_vibranium"
+      "tag": "c:storage_blocks/raw_vibranium"
     },
     {
 

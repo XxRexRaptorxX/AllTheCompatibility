@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/iridium"
+      "tag": "c:ores/iridium"
     },
     {
 

@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/zinc"
+      "tag": "c:crystals/zinc"
     },
     {
 

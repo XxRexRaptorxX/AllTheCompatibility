@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/uranium"
+      "tag": "c:ores/uranium"
     },
     {
 

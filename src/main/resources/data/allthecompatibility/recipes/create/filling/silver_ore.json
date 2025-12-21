@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "ores/silver"
+      "tag": "c:ores/silver"
     },
     {
 

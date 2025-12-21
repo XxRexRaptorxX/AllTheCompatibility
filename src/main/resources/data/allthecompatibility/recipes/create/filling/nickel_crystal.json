@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/nickel"
+      "tag": "c:crystals/nickel"
     },
     {
 

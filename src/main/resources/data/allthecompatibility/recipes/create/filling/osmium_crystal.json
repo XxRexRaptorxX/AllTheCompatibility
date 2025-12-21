@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "crystals/osmium"
+      "tag": "c:crystals/osmium"
     },
     {
 

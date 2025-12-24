@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:storage_blocks/raw_lead"
+      "tag": "forge:storage_blocks/raw_lead"
     },
     {
 

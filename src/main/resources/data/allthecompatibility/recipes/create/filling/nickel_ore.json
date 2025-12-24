@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:ores/nickel"
+      "tag": "forge:ores/nickel"
     },
     {
 

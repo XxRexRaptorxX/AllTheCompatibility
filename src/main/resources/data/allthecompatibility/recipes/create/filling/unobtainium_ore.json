@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:ores/unobtainium"
+      "tag": "forge:ores/unobtainium"
     },
     {
 

@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:ores/gold"
+      "tag": "forge:ores/gold"
     },
     {
 

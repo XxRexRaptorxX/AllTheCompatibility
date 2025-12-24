@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/aluminum",
+      "tag": "forge:raw_materials/aluminum",
       "count": 3
     },
     {

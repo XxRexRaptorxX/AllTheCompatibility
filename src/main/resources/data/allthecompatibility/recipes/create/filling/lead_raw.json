@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/lead",
+      "tag": "forge:raw_materials/lead",
       "count": 3
     },
     {

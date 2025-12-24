@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:crystals/vibranium"
+      "tag": "forge:crystals/vibranium"
     },
     {
 

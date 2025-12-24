@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/unobtainium",
+      "tag": "forge:raw_materials/unobtainium",
       "count": 3
     },
     {

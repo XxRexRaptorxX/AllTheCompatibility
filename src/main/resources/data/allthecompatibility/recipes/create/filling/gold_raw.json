@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/gold",
+      "tag": "forge:raw_materials/gold",
       "count": 3
     },
     {

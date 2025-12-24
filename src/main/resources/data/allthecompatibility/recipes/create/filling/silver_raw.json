@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/silver",
+      "tag": "forge:raw_materials/silver",
       "count": 3
     },
     {

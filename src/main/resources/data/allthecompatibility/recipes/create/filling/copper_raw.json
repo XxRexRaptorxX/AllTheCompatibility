@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/copper",
+      "tag": "forge:raw_materials/copper",
       "count": 3
     },
     {

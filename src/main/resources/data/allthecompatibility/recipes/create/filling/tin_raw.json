@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/tin",
+      "tag": "forge:raw_materials/tin",
       "count": 3
     },
     {

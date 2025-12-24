@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:storage_blocks/raw_iridium"
+      "tag": "forge:storage_blocks/raw_iridium"
     },
     {
 

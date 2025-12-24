@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/vibranium",
+      "tag": "forge:raw_materials/vibranium",
       "count": 3
     },
     {

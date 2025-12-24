@@ -16,7 +16,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:raw_materials/allthemodium",
+      "tag": "forge:raw_materials/allthemodium",
       "count": 3
     },
     {

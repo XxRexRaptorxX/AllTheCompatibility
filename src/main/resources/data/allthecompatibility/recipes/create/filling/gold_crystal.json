@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:crystals/gold"
+      "tag": "forge:crystals/gold"
     },
     {
 

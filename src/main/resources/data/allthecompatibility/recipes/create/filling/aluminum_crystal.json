@@ -12,7 +12,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "c:crystals/aluminum"
+      "tag": "forge:crystals/aluminum"
     },
     {
 

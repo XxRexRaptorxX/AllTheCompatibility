@@ -15,9 +15,9 @@
       "tag": "c:storage_blocks/raw_vibranium"
     },
     {
-      "type": "fluid_tag",
+      "type": "neoforge:tag",
       "amount": 500,
-      "fluid_tag": "c:hydrogen_chloride"
+      "tag": "c:hydrogen_chloride"
     }
   ],
   "results": [

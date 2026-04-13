@@ -11,9 +11,9 @@
       "tag": "c:ores/silver"
     },
     {
-      "type": "fluid_tag",
+      "type": "neoforge:tag",
       "amount": 300,
-      "fluid_tag": "c:hydrogen_chloride"
+      "tag": "c:hydrogen_chloride"
     }
   ],
   "results": [

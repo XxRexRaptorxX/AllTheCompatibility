@@ -17,15 +17,11 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "allthemodium:unobtainium_dust"
-            },
+            "id": "allthemodium:unobtainium_dust",
             "count": 9
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
+            "id": "create:experience_nugget",
             "count": 9,
             "chance": 1.0
         }

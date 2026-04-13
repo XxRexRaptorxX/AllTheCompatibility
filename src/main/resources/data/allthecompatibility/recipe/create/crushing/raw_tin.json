@@ -13,14 +13,10 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "alltheores:tin_dust"
-            }
+            "id": "create:crushed_raw_tin"
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
+            "id": "create:experience_nugget",
             "chance": 0.75
         }
     ],

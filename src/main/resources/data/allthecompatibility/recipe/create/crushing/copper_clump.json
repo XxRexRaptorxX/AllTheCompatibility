@@ -13,14 +13,10 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "alltheores:dirty_copper_dust"
-            }
+            "id": "alltheores:dirty_copper_dust"
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
+            "id": "create:experience_nugget",
             "chance": 0.5
         }
     ],

@@ -17,15 +17,11 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "allthemodium:dirty_vibranium_dust"
-            }
+            "id": "allthemodium:dirty_vibranium_dust"
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
-            "chance": 1.0
+            "id": "create:experience_nugget",
+            "chance": 0.15
         }
     ],
     "processingTime": 800

@@ -15,27 +15,19 @@
     "results": [
         {
             "count": 2,
-            "item": {
-                "id": "alltheores:sapphire"
-            }
+            "id": "alltheores:sapphire"
         },
         {
             "chance": 0.25,
-            "item": {
-                "id": "alltheores:sapphire"
-            }
+            "id": "alltheores:sapphire"
         },
         {
             "chance": 0.75,
-            "item": {
-                "id": "create:experience_nugget"
-            }
+            "id": "create:experience_nugget"
         },
         {
             "chance": 0.12,
-            "item": {
-                "id": "minecraft:cobblestone"
-            }
+            "id": "minecraft:cobblestone"
         }
     ]
 }

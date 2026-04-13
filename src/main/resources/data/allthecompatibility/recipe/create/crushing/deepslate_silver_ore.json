@@ -1,6 +1,14 @@
 {
     "neoforge:conditions": [
         {
+            "type": "neoforge:not",
+            "value": {
+                "type": "neoforge:mod_loaded",
+                "modid": "almostunified"
+
+            }
+        },
+        {
             "type": "neoforge:mod_loaded",
             "modid": "create"
         }
@@ -15,27 +23,19 @@
     "results": [
         {
             "count": 2,
-            "item": {
-                "id": "alltheores:silver_dust"
-            }
+            "id": "create:crushed_raw_silver"
         },
         {
             "chance": 0.25,
-            "item": {
-                "id": "alltheores:silver_dust"
-            }
+            "id": "create:crushed_raw_silver"
         },
         {
             "chance": 0.75,
-            "item": {
-                "id": "create:experience_nugget"
-            }
+            "id": "create:experience_nugget"
         },
         {
             "chance": 0.125,
-            "item": {
-                "id": "minecraft:cobbled_deepslate"
-            }
+            "id": "minecraft:cobbled_deepslate"
         }
     ]
 }

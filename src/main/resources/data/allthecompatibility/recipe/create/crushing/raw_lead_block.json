@@ -13,15 +13,11 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "alltheores:lead_dust"
-            },
+            "id": "create:crushed_raw_lead",
             "count": 9
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
+            "id": "create:experience_nugget",
             "count": 9,
             "chance": 0.75
         }

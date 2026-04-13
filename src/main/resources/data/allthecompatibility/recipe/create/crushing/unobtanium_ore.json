@@ -19,27 +19,19 @@
     "results": [
         {
             "count": 1,
-            "item": {
-                "id": "allthemodium:unobtainium_dust"
-            }
+            "id": "allthemodium:unobtainium_dust"
         },
         {
             "chance": 0.15,
-            "item": {
-                "id": "allthemodium:unobtainium_dust"
-            }
+            "id": "allthemodium:unobtainium_dust"
         },
         {
-            "chance": 1.0,
-            "item": {
-                "id": "create:experience_nugget"
-            }
+            "id": "create:experience_nugget",
+            "chance": 0.15
         },
         {
             "chance": 0.125,
-            "item": {
-                "id": "minecraft:end_stone"
-            }
+            "id": "minecraft:end_stone"
         }
     ]
 }

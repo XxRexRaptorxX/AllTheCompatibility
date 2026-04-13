@@ -13,14 +13,10 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "alltheores:peridot_dust"
-            }
+            "id": "alltheores:peridot_dust"
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
+            "id": "create:experience_nugget",
             "chance": 0.75
         }
     ],

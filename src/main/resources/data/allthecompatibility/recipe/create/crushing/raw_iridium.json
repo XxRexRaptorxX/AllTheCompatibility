@@ -13,14 +13,10 @@
     ],
     "results": [
         {
-            "item": {
-                "id": "alltheores:iridium_dust"
-            }
+            "id": "alltheores:iridium_dust"
         },
         {
-            "item": {
-                "id": "create:experience_nugget"
-            },
+            "id": "create:experience_nugget",
             "chance": 0.75
         }
     ],

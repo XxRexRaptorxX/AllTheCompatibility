@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "energizedpower"
+      }
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 800,
+  "input": {
+    "item": "minecraft:dark_oak_planks"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:dark_oak_slab"
+  },
+  "secondaryOutputs": [],
+  "strippingSecondaries": [
+    {
+      "item": "mekanism:sawdust"
+    }
+  ]
+}

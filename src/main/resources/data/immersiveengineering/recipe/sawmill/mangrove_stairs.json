@@ -18,16 +18,6 @@
       "type": "neoforge:mod_loaded",
       "modid": "immersiveengineering"
     }
-  ],  "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "mekanism"
-      }
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immersiveengineering"
-    }
   ],
   "type": "immersiveengineering:sawmill",
   "energy": 1600,

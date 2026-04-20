@@ -1,0 +1,24 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:not",
+            "value": {
+                "type": "neoforge:mod_loaded",
+                "modid": "energizedpower"
+            }
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mekanism"
+        }
+    ],
+    "type": "mekanism:sawing",
+    "input": {
+        "count": 1,
+        "tag": "c:rods/wooden"
+    },
+    "main_output": {
+        "count": 1,
+        "id": "mekanism:sawdust"
+    }
+}

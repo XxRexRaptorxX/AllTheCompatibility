@@ -2,22 +2,24 @@
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "ftbic"
+      "modid": "oritech"
     }
   ],
-  "type": "ftbic:macerating",
-  "inputItems": [
+  "type": "oritech:grinder",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
     {
-      "count": 2,
-      "ingredient": {
-        "tag": "c:ores/sapphire"
-      }
+      "tag": "c:ores/sapphire"
     }
   ],
-  "outputItems": [
+  "results": [
     {
       "count": 2,
-      "item": "alltheores:sapphire"
+      "id": "alltheores:sapphire"
     }
-  ]
+  ],
+  "time": 40
 }

@@ -2,22 +2,24 @@
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "ftbic"
+      "modid": "oritech"
     }
   ],
-  "type": "ftbic:macerating",
-  "inputItems": [
+  "type": "oritech:pulverizer",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
     {
-      "count": 2,
-      "ingredient": {
-        "tag": "c:ores/sulfur"
-      }
+      "tag": "c:ores/sulfur"
     }
   ],
-  "outputItems": [
+  "results": [
     {
       "count": 2,
-      "item": "alltheores:sulfur"
+      "id": "alltheores:sulfur"
     }
-  ]
+  ],
+  "time": 100
 }

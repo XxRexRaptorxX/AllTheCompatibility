@@ -12,7 +12,7 @@
   "fluidOutputVariant": "minecraft:empty",
   "ingredients": [
     {
-      "tag": "c:ingots/iron"
+      "tag": "c:raw_materials/iron"
     }
   ],
   "results": [
@@ -25,5 +25,5 @@
       "id": "oritech:small_iron_dust"
     }
   ],
-  "time": 200
+  "time": 100
 }
